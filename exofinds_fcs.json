@@ -347,33 +347,35 @@
         },
         {
             "name": "dane dehaan",
-            "faves": "faves",
             "gender": "cis man",
             "year": "80",
-            "eth": "white",
-            "hair": "redh blondeh",
+            "eth": "Dutch, German, Italian/Sicilian, English",
+            "hair": "blondeh brownh",
             "eyes": "bluee",
             "tattoos": "",
-            "occupation": "acting modeling",
+            "occupation": "actor",
             "avatar": true,
             "crackships": true,
-            "gifs": false,
-            "img": "https://64.media.tumblr.com/c9d11faac793bf24a2dd3bb3a08cb564/tumblr_pkre6tMcUP1urv59mo7_500.png"
+            "gifs": true,
+            "icons": true,
+            "gificons": true,
+            "img": "https://www.theplace2.ru/cache/archive/dane_dehaan/img/Dane_DeHaan_0042-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg"
         },
         {
-            "name": "danielle rose russel",
-            "faves": "faves",
+            "name": "danielle rose russell",
             "gender": "cis woman",
             "year": "90",
-            "eth": "white",
+            "eth": "English German",
             "hair": "brownh",
             "eyes": "hazele",
             "tattoos": "",
-            "occupation": "acting",
+            "occupation": "actress",
             "avatar": true,
             "crackships": false,
-            "gifs": false,
-            "img": "https://64.media.tumblr.com/7c3098d4407b2dbdad1b7c1e94e500f2/53d9df4af9e40a73-b2/s500x750/b9b0caa7286b1ab4312efc871d23242d515ed6a2.png"
+            "gifs": true,
+            "icons": true,
+            "gificons": true,
+            "img": "https://images.squarespace-cdn.com/content/v1/5701b390cf80a1095e57fb7a/1552429819945-DWBY50P6CR4LQAZ7G6RC/Danielle+Rose+Russell2910DoneREv1.jpg?format=2500w"
         },
         {
             "name": "dichen lachman",
@@ -494,6 +496,20 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/fc721be02435991d14f019858cf73932/tumblr_okv05aYTzK1urv59mo4_250.png"
+        },
+        {
+            "name": "emily alyn lind",
+            "gender": "cis woman",
+            "year": "00",
+            "eth": "Swedish, German, English",
+            "hair": "blondeh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": true,
+            "img": "https://celebmafia.com/wp-content/uploads/2021/06/emily-alyn-lind-the-face-magazine-june-2021-more-photos-7.jpg"
         },
         {
             "name": "ester exposito",
@@ -647,18 +663,17 @@
         },
         {
             "name": "jake bass",
-            "faves": "faves",
             "gender": "cis man",
             "year": "90",
             "eth": "white",
             "hair": "blackh",
             "eyes": "bluee",
-            "tattoos": "tattoos",
-            "occupation": "modeling",
+            "tattoos": "tattoos, piercings",
+            "occupation": "model",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/4921fa391a7a76752e330dc2b186a604/cffed893a644ea61-2a/s500x750/fe08138ce2c9e4fb0a88296f335aee26f16c2d0e.png"
+            "img": "https://www.fugues.com/wp-content/uploads/2021/02/Untitled-3-1-818x1024.jpg"
         },
         {
             "name": "jake gyllenhaal",
@@ -1184,6 +1199,22 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/606e2b9d4b57e99a937c4757ce2e851a/dd5a7a5347036831-e2/s500x750/3da54d9dba5bef0d8bfcafdadce31bb664ebadd5.png"
+        },
+        {
+            "name": "sydney sweeney",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "Irish, English",
+            "hair": "blondeh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "icons": false,
+            "gificons": false,
+            "img": "https://assets.ynap-content.com/story-body-content-1-0-1638859209745.jpeg"
         },
         {
             "name": "taylor momsen",
