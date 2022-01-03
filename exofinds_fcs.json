@@ -46,6 +46,21 @@
             "img": "https://static01.nyt.com/images/2019/09/08/fashion/00upnext-demie1/merlin_158888460_4b16aad8-41e0-4b25-a368-f9d44c7a36cd-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
         },
         {
+            "name": "alice pagani",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "white",
+            "nationality": "Italian",
+            "hair": "blackh",
+            "eyes": "greene",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://i.pinimg.com/originals/f1/b1/56/f1b1569b0a8051c5ce3206a239d12ade.jpg"
+        },
+        {
             "name": "andy biersack",
             "faves": "faves",
             "gender": "cis man",
@@ -91,6 +106,22 @@
             "img": "https://64.media.tumblr.com/fff783d08880e088cb9017f6983fca1f/tumblr_p7a74glj5X1urv59mo2_250.png"
         },
         {
+            "name": "beatrice laus",
+            "pseudonyme": "Beabadoobee",
+            "gender": "cis woman",
+            "year": "00",
+            "eth": "White",
+            "nationality": "British-Filipino",
+            "hair": "multih",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "singer",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://writewyattuk.files.wordpress.com/2019/12/dirty-hit-tour-beabadoobee-2.jpg"
+        },
+        {
             "name": "bella thorne",
             "faves": "",
             "gender": "cis woman",
@@ -104,6 +135,20 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/6d97fd72a0f0dfcd23ab18fc93a2b33c/tumblr_op0vfm0Fu01urv59mo3_250.png"
+        },
+        {
+            "name": "ben barnes",
+            "gender": "cis man",
+            "year": "80",
+            "eth": "English, Dutch-German Jewish",
+            "hair": "brownh blackh",
+            "eyes": "browne blacke",
+            "tattoos": "",
+            "occupation": "actor singer",
+            "avatar": true,
+            "crackships": true,
+            "gifs": true,
+            "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F14%2F2019%2F10%2F22%2F102219-ben-barnes-02-2000.jpg"
         },
         {
             "name": "billie eilish",
@@ -194,6 +239,21 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/36b18b7e7d2a9a1dcd575702da51ef06/tumblr_pv7kcfrrKt1urv59mo4_500.png"
+        },
+        {
+            "name": "caitlin stasey",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "English",
+            "nationality": "Australian",
+            "hair": "brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": false,
+            "crackships": false,
+            "gifs": true,
+            "img": "http://images6.fanpop.com/image/photos/39000000/Caitlin-Stasey-caitlin-stasey-39087512-429-553.png"
         },
         {
             "name": "caity lotz",
@@ -409,18 +469,18 @@
         },
         {
             "name": "dove cameron",
-            "faves": "faves",
             "gender": "cis woman",
             "year": "90",
-            "eth": "white",
+            "eth": "Austrian, German, French, English, Scottish, Swedish, Danish, Hungarian",
+            "nationality": "American",
             "hair": "blondeh",
             "eyes": "hazele",
             "tattoos": "",
-            "occupation": "acting music",
+            "occupation": "actress, singer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/ee4ff3a601006dd5db162990e1b977aa/tumblr_pk8xm4nUv41urv59mo7_500.png"
+            "img": "https://www.mordeo.org/files/uploads/2021/09/Dove-Cameron-Grazia-2021-Photoshoot-4K-Ultra-HD-Mobile-Wallpaper.jpg"
         },
         {
             "name": "drake bell",
@@ -483,6 +543,21 @@
             "img": "https://64.media.tumblr.com/55a6502bb5ea04b2c1b8bde3d17d6224/34ac952ad87316ef-1d/s500x750/6e662ecdbb11905a8f3b8b16fb6ad59792595ad5.png"
         },
         {
+            "name": "elizabeth olsen",
+            "faves": "",
+            "gender": "cis woman",
+            "year": "80",
+            "eth": "Norwegian, English, German",
+            "hair": "blondeh brownh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": false,
+            "crackships": true,
+            "gifs": false,
+            "img": "https://elizabeth-olsen.com/photos/albums/Studio%20Photoshoots/Outtakes%20Sessions/2019/2019-010-InStyle/007.jpg"
+        },
+        {
             "name": "emeraude toubia",
             "faves": "",
             "gender": "cis woman",
@@ -512,19 +587,35 @@
             "img": "https://celebmafia.com/wp-content/uploads/2021/06/emily-alyn-lind-the-face-magazine-june-2021-more-photos-7.jpg"
         },
         {
+            "name": "emma mackey",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "French, English",
+            "nationality": "French, British",
+            "hair": "browne",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": true,
+            "img": "https://www.hungertv.com/app/uploads/2021/09/PR_HUN2006-EMMA-MACKEY-4092_F1_EXT_RGB-min-scaled.jpg"
+        },
+        {
             "name": "ester exposito",
             "faves": "",
             "gender": "cis woman",
-            "year": "90",
-            "eth": "latin",
+            "year": "00",
+            "eth": "spanish",
+            "nationality": "Spanish",
             "hair": "blondeh",
             "eyes": "greene",
             "tattoos": "",
-            "occupation": "acting modeling",
+            "occupation": "actress, model",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/bb5882d1d952824b7cc7b1fd963fc760/1d620452dcc5c774-09/s500x750/04232bf8cceffa738d54bce806a1744902afeb9f.gifv"
+            "img": "https://64.media.tumblr.com/86911f4f38bb51592616aa8fcfa92d8e/4dfc67df4b7f286e-92/s1280x1920/ffafe26f00f799bb944a8caed8b9a4c14deddd5f.jpg"
         },
         {
             "name": "ezra miller",
@@ -570,6 +661,21 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/fd816ebfdc67c74d74ab910af79dda88/3fcfd92e0b179799-ca/s500x750/06f494e1f39c3d38aec74ceebbfde68600956bf8.png"
+        },
+        {
+            "name": "freddy carter",
+            "gender": "cis man",
+            "year": "90",
+            "eth": "English",
+            "nationality": "English",
+            "hair": "brownh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actor",
+            "avatar": true,
+            "crackships": true,
+            "gifs": false,
+            "img": "https://64.media.tumblr.com/852d73596ad1f609ebc7ceebbb31a1c9/tumblr_prg3y9V7Sk1urv59mo4_500.png"
         },
         {
             "name": "froy gutierrez",
@@ -749,6 +855,21 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/2470cc6bd45477b6fff7590fb817c785/tumblr_oozhsgA2GD1urv59mo6_250.png"
+        },
+        {
+            "name": "jimmi simpson",
+            "gender": "cis man",
+            "year": "70",
+            "eth": "English",
+            "nationality": "American",
+            "hair": "blondeh brownh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actor",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "http://images6.fanpop.com/image/photos/42900000/Jimmi-Simpson-Flaunt-Magazine-August-2019-jimmi-simpson-42948845-1000-1500.jpg"
         },
         {
             "name": "jojo levesque",
@@ -991,6 +1112,21 @@
             "img": "https://64.media.tumblr.com/4d05a62314a6745cabfb5326ab2cbc57/e3c15b85517c17fa-be/s500x750/875b5c128f2c2403286f02075b44fdb8a86fd431.gifv"
         },
         {
+            "name": "nyane lebajoa",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "South African",
+            "nationality": "South African, English",
+            "hair": "whiteh multih",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "model",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://i.pinimg.com/originals/a3/89/a5/a389a5db3edb12d16cfd4b7694912626.jpg"
+        },
+        {
             "name": "perrie edwards",
             "faves": "",
             "gender": "cis woman",
@@ -1007,18 +1143,18 @@
         },
         {
             "name": "phoebe tonkin",
-            "faves": "",
             "gender": "cis woman",
             "year": "80",
-            "eth": "white",
+            "eth": "English",
+            "nationality": "Australian",
             "hair": "brownh",
             "eyes": "hazele",
             "tattoos": "tattoos",
-            "occupation": "acting modeling",
+            "occupation": "actress, model",
             "avatar": true,
-            "crackships": false,
-            "gifs": false,
-            "img": "https://64.media.tumblr.com/b3eb2df8a2d17cb75ee583e414b3b89a/tumblr_oglasgM9hm1urv59mo3_250.png"
+            "crackships": true,
+            "gifs": true,
+            "img": "https://i.pinimg.com/originals/6d/5d/a0/6d5da05f26b5d27d8034ef9a3364e121.jpg"
         },
         {
             "name": "pia kristine cruz",
@@ -1097,33 +1233,33 @@
         },
         {
             "name": "sabrina carpenter",
-            "faves": "faves",
             "gender": "cis woman",
             "year": "90",
-            "eth": "white",
+            "eth": "German, Scottish, English, Irish",
             "hair": "blondeh",
             "eyes": "bluee",
             "tattoos": "",
-            "occupation": "acting music",
+            "occupation": "actress, singer",
             "avatar": true,
             "crackships": false,
-            "gifs": false,
+            "gifs": true,
+            "icons": true,
+            "gificons": true,
             "img": "https://64.media.tumblr.com/bd26e23251cc26f36ecd91e9f9180b2c/tumblr_pv76avaZUy1urv59mo6_500.gifv"
         },
         {
             "name": "sebastian stan",
-            "faves": "faves",
             "gender": "cis man",
             "year": "80",
-            "eth": "white",
+            "eth": "Romanian",
             "hair": "brownh",
             "eyes": "bluee",
             "tattoos": "",
-            "occupation": "acting",
+            "occupation": "actor",
             "avatar": true,
             "crackships": true,
-            "gifs": false,
-            "img": "https://64.media.tumblr.com/29a3e3236f3bf356633ee5b4054198e2/tumblr_prg49l0T651urv59mo5_500.png"
+            "gifs": true,
+            "img": "https://i.redd.it/bnyf4i8qeqx61.jpg"
         },
         {
             "name": "selena gomez",
@@ -1247,6 +1383,21 @@
             "img": "https://64.media.tumblr.com/e70d4762f96fe5a600c715adb86f43a0/tumblr_prg4e59gF51urv59mo5_500.png"
         },
         {
+            "name": "ursula corbero",
+            "gender": "cis woman",
+            "year": "80",
+            "eth": "Catalan, Spanish",
+            "nationality": "Spanish",
+            "hair": "brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://cdn.tatlerasia.com/tatlerasia/i/2021/08/26190232-3-netflix-glam-shoot-ursula-corbero-cama-1-048-a2-rgb_cover_600x900.jpg"
+        },
+        {
             "name": "vika bronova",
             "faves": "",
             "gender": "cis woman",
@@ -1260,6 +1411,21 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/d70fce6e3cca1ec78ae3149e96f6eaa5/6c283fa491fb9cb9-59/s500x750/94e6d7b401095bc7a43991097ac961cd1d798c29.gifv"
+        },
+        {
+            "name": "willy cartier",
+            "gender": "cis man",
+            "year": "90",
+            "eth": "French, Vietnamese, Senegalese",
+            "nationality": "French",
+            "hair": "brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "model, actor",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://i.mdel.net/i/db/2015/11/447341/447341-800w.jpghttps://64.media.tumblr.com/d70fce6e3cca1ec78ae3149e96f6eaa5/6c283fa491fb9cb9-59/s500x750/94e6d7b401095bc7a43991097ac961cd1d798c29.gifv"
         },
         {
             "name": "yungblud",
