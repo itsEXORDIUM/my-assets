@@ -61,6 +61,21 @@
             "img": "https://static01.nyt.com/images/2019/09/08/fashion/00upnext-demie1/merlin_158888460_4b16aad8-41e0-4b25-a368-f9d44c7a36cd-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
         },
         {
+            "name": "alexander skarsgard",
+            "gender": "cis man",
+            "year": "70",
+            "eth": "Swedish",
+            "nationality": "Swedish",
+            "hair": "blondeh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actor",
+            "avatar": false,
+            "crackships": false,
+            "gifs": true,
+            "img": "https://pbs.twimg.com/media/DeJw6hfX4AAAwby.jpg"
+        },
+        {
             "name": "alice pagani",
             "gender": "cis woman",
             "year": "90",
@@ -76,8 +91,22 @@
             "img": "https://i.pinimg.com/originals/f1/b1/56/f1b1569b0a8051c5ce3206a239d12ade.jpg"
         },
         {
+            "name": "ana de armas",
+            "gender": "cis woman",
+            "year": "80",
+            "eth": "Spanish",
+            "nationality": "Cuban",
+            "hair": "blondeh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": true,
+            "gifs": false,
+            "img": "https://s.mltshp.com/r/1I5LY"
+        },
+        {
             "name": "andy biersack",
-            "faves": "faves",
             "gender": "cis man",
             "year": "90",
             "eth": "white",
@@ -91,8 +120,22 @@
             "img": "https://photogenicsmedia.com/wp-content/uploads/2018/05/andy1-1.jpg"
         },
         {
+            "name": "anthony mackie",
+            "gender": "cis man",
+            "year": "70",
+            "eth": "African-American",
+            "nationality": "American",
+            "hair": "blackh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actor",
+            "avatar": true,
+            "crackships": false,
+            "gifs": true,
+            "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2021%2F03%2F12%2FFWS_AM_2389483090349-2.jpg"
+        },
+        {
             "name": "ash stymest",
-            "faves": "faves",
             "gender": "cis man",
             "year": "90",
             "eth": "white",
@@ -106,8 +149,21 @@
             "img": "https://mediaslide-europe.storage.googleapis.com/supa/pictures/1093/1979/large-1565617668-5afc826644ef4570042205856c324085.jpg?v=1565617822"
         },
         {
+            "name": "ashley moore",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "African/Caucasian- American",
+            "hair": "redh brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "model",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://www.rpnation.com/gallery/ashley-moore-2-jpg.41960/full"
+        },
+        {
             "name": "ashley tisdale",
-            "faves": "",
             "gender": "cis woman",
             "year": "80",
             "eth": "white",
@@ -316,6 +372,21 @@
             "img": "https://64.media.tumblr.com/213fe6fab3c1db25302b4c12846a13ff/tumblr_pc0fi2sdq01urv59mo9_250.png"
         },
         {
+            "name": "carolina porqueddu",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "white",
+            "nationality": "Italian",
+            "hair": "blondeh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "model",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://data.whicdn.com/images/322462258/original.jpg"
+        },
+        {
             "name": "casey deidrick",
             "gender": "cis man",
             "year": "80",
@@ -331,8 +402,21 @@
             "img": "https://i.pinimg.com/originals/70/64/50/70645080fa6a1f0dcdd46f53b76db08e.jpg"
         },
         {
+            "name": "charlie heaton",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "English, Norwegian",
+            "hair": "blondeh",
+            "eyes": "greene",
+            "tattoos": "",
+            "occupation": "actor, musician",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://media.gq.com/photos/5e5003d499911e0008498e12/master/w_3150,h_4200,c_limit/charlie-heaton-gq-march-2019-11.jpg"
+        },
+        {
             "name": "chloe moretz",
-            "faves": "faves",
             "gender": "cis woman",
             "year": "90",
             "eth": "white",
@@ -347,18 +431,17 @@
         },
         {
             "name": "chris evans",
-            "faves": "",
             "gender": "cis man",
             "year": "80",
-            "eth": "white",
+            "eth": "German, Irish, Italian, Welsh, English, Scottish",
             "hair": "blondeh",
             "eyes": "bluee",
             "tattoos": "",
-            "occupation": "acting",
-            "avatar": false,
+            "occupation": "actor",
+            "avatar": true,
             "crackships": true,
-            "gifs": false,
-            "img": ""
+            "gifs": true,
+            "img": "https://data.whicdn.com/images/279754674/original.jpg"
         },
         {
             "name": "chris wood",
@@ -545,19 +628,33 @@
             "img": "https://64.media.tumblr.com/42c06a5ce081df8494dc18cdc64ac4ed/tumblr_prg3p4sPp41urv59mo4_500.png"
         },
         {
-            "name": "eiza gonzalez",
-            "faves": "faves",
-            "gender": "cis woman",
+            "name": "earth vangwithayakul",
+            "gender": "cis man",
             "year": "90",
-            "eth": "latin",
+            "eth": "Thai, Danish",
+            "nationality": "Danish",
             "hair": "blackh",
             "eyes": "browne",
             "tattoos": "",
-            "occupation": "acting music",
+            "occupation": "model",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://64.media.tumblr.com/723f1db152dbe3e7cf6465a2bc3bbfa7/tumblr_ovwuzvEhBE1w5bzojo2_400.png"
+        },
+        {
+            "name": "eiza gonzalez",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "Mexican, Spanish, Indigenous",
+            "hair": "brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actor, singer",
             "avatar": true,
             "crackships": true,
-            "gifs": false,
-            "img": "https://64.media.tumblr.com/f96c1b8f9caf07a38d90a6610f5046a8/tumblr_oidwh4rGVS1urv59mo2_250.png"
+            "gifs": true,
+            "img": "https://celebmafia.com/wp-content/uploads/2020/04/eiza-gonzales-instyle-magazine-mexico-2020-more-photos-1.jpg"
         },
         {
             "name": "eliza bennett",
@@ -606,18 +703,18 @@
         },
         {
             "name": "emeraude toubia",
-            "faves": "",
             "gender": "cis woman",
             "year": "80",
-            "eth": "latin arab",
+            "eth": "Lebanese, Mexican",
+            "nationality": "American",
             "hair": "blackh",
             "eyes": "browne",
             "tattoos": "",
-            "occupation": "acting modeling",
-            "avatar": true,
-            "crackships": false,
+            "occupation": "actress, model, dancer, host",
+            "avatar": false,
+            "crackships": true,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/fc721be02435991d14f019858cf73932/tumblr_okv05aYTzK1urv59mo4_250.png"
+            "img": "https://64.media.tumblr.com/f326db035e4bc65c6a51c987db0dad54/tumblr_p9wkgoVKXH1vqtnzxo1_r1_500.png"
         },
         {
             "name": "emily alyn lind",
@@ -725,6 +822,21 @@
             "img": "https://64.media.tumblr.com/fd816ebfdc67c74d74ab910af79dda88/3fcfd92e0b179799-ca/s500x750/06f494e1f39c3d38aec74ceebbfde68600956bf8.png"
         },
         {
+            "name": "frank grillo",
+            "gender": "cis man",
+            "year": "60",
+            "eth": "Italian",
+            "nationality": "American",
+            "hair": "brownh",
+            "eyes": "greene",
+            "tattoos": "",
+            "occupation": "actor",
+            "avatar": true,
+            "crackships": true,
+            "gifs": false,
+            "img": "https://i.pinimg.com/originals/90/7a/f0/907af0082a7bbeb6aba4f68b4e68040b.jpg"
+        },
+        {
             "name": "freddy carter",
             "gender": "cis man",
             "year": "90",
@@ -741,18 +853,18 @@
         },
         {
             "name": "froy gutierrez",
-            "faves": "",
             "gender": "cis man",
             "year": "90",
-            "eth": "white",
+            "eth": "Mexican/Caxcan Indigenous, European",
+            "nationality": "American",
             "hair": "blondeh",
             "eyes": "bluee",
             "tattoos": "",
-            "occupation": "acting music",
-            "avatar": true,
-            "crackships": false,
+            "occupation": "actor, model, musician",
+            "avatar": false,
+            "crackships": true,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/852d73596ad1f609ebc7ceebbb31a1c9/tumblr_prg3y9V7Sk1urv59mo4_500.png"
+            "img": "https://media.wonderlandmagazine.com/uploads/2021/04/Froy-Gutierrez-Cover-Blank.jpg"
         },
         {
             "name": "garrett hedlund",
@@ -935,7 +1047,6 @@
         },
         {
             "name": "jeremy irvine",
-            "faves": "",
             "gender": "cis man",
             "year": "90",
             "eth": "white",
@@ -947,6 +1058,20 @@
             "crackships": true,
             "gifs": false,
             "img": "https://m.media-amazon.com/images/M/MV5BZWZjNTRlZjgtMzJhYy00NjI0LWJmMDYtYzk2NGIxYmUzN2VkXkEyXkFqcGdeQXVyNDA2NzE4Mjk@._V1_.jpg"
+        },
+        {
+            "name": "jessica alba",
+            "gender": "cis woman",
+            "year": "80",
+            "eth": "Mexican , Spanish, Danish, Welsh, English, Scottish, Scots-Irish/Northern Irish, French",
+            "hair": "brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress, model",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://i.pinimg.com/originals/b3/65/90/b36590e6584f269b518f9a6f35e9c3cc.jpg"
         },
         {
             "name": "joel kinnaman",
@@ -1054,6 +1179,36 @@
             "img": "https://64.media.tumblr.com/0a23f2b15ecd6d07cb13b44fc8baed0a/a6dde696c1974488-e8/s500x750/a0564db78a689d94a0771181a017b7089373fae6.png"
         },
         {
+            "name": "karen gillan",
+            "gender": "cis woman",
+            "year": "80",
+            "eth": "Scottish",
+            "nationality": "Scottish",
+            "hair": "redh",
+            "eyes": "hazele",
+            "tattoos": "",
+            "occupation": "actress, model",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://i.dailymail.co.uk/1s/2021/08/26/17/47136029-9930079-Karen_Gillan_I_had_always_been_totally_fearless_and_I_suddenly_f-a-303_1629994325482.jpg"
+        },
+        {
+            "name": "kat dennings",
+            "gender": "cis woman",
+            "year": "80",
+            "eth": "Ashkenazi Jewish",
+            "nationality": "American",
+            "hair": "brownh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://www.teahub.io/photos/full/357-3573857_iphone-wallpaper-kat-dennings-kat-dennings-legs.jpg"
+        },
+        {
             "name": "katheryn winnick",
             "gender": "cis woman",
             "year": "70",
@@ -1082,6 +1237,21 @@
             "crackships": false,
             "gifs": true,
             "img": "https://64.media.tumblr.com/926902da33ddb53ef843ec7c4d5f5b81/tumblr_pnhxm4Dkjj1urv59mo7_500.png"
+        },
+        {
+            "name": "kit harington",
+            "gender": "cis man",
+            "year": "80",
+            "eth": "English, Scottish, Northern Irish, Welsh, Dutch",
+            "nationality": "English",
+            "hair": "brownh blackh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actor",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "http://haringtonfrance.net/gallery/albums/userpics/1052213/Celeber-ru-Kit-Harington-Out-Magazine-Photoshoot-2015-06.jpg"
         },
         {
             "name": "kirsten zellers",
@@ -1159,6 +1329,21 @@
             "img": "https://64.media.tumblr.com/021571c8ae9c9d45a50cd24f0454f74c/tumblr_prg4128GR11urv59mo6_500.png"
         },
         {
+            "name": "lucy liu",
+            "gender": "cis woman",
+            "year": "60",
+            "eth": "Han Chinese",
+            "nationality": "American",
+            "hair": "blackh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress, singer",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://www.mindfood.com/wp-content/themes/mindfood-theme/timthumb.php?src=/wp-content/uploads/2020/07/Lucy-liu.jpg&w=700&h=700&zc=1"
+        },
+        {
             "name": "machine gun kelly",
             "faves": "faves",
             "gender": "cis man",
@@ -1202,6 +1387,36 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/94d6c6bf80fb5f8d6ea47a33409bb8f9/f851b5104627061d-c1/s500x750/5c01a0e520424d5b370157cbbc6970cb7b205f5c.png"
+        },
+        {
+            "name": "maggie lindemann",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "English, German, Irish, Scots-Irish/Northern Irish, Scottish, Welsh",
+            "nationality": "American",
+            "hair": "blackh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "singer",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://www.tmrwmagazine.com/wp-content/uploads/2020/11/DSC02818-scaled.jpg"
+        },
+        {
+            "name": "maia mitchell",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": "English",
+            "nationality": "Australian",
+            "hair": "brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress, singer",
+            "avatar": false,
+            "crackships": true,
+            "gifs": false,
+            "img": "https://i.pinimg.com/originals/ab/39/de/ab39de6a59a4e503aaea41944711671a.jpg"
         },
         {
             "name": "manu rios",
@@ -1249,19 +1464,34 @@
             "img": "https://64.media.tumblr.com/11640d35457e4aef5290093149f4448d/33d3482c35f286c5-27/s500x750/ecc633cc8e4968f8256bf8d409a42846b195caaa.gifv"
         },
         {
+            "name": "maxence danet-fauvel",
+            "gender": "cis man",
+            "year": "90",
+            "eth": "white",
+            "nationality": "French",
+            "hair": "brownh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actor",
+            "avatar": false,
+            "crackships": true,
+            "gifs": true,
+            "img": "https://i.pinimg.com/originals/77/71/92/7771921d2869ca80abc4d71f15c24d9a.jpg"
+        },
+        {
             "name": "megan fox",
-            "faves": "faves",
             "gender": "cis woman",
             "year": "80",
-            "eth": "native",
+            "eth": "English",
+            "nationality": "American",
             "hair": "brownh",
             "eyes": "bluee",
             "tattoos": "tattoos",
-            "occupation": "acting",
+            "occupation": "actress, model",
             "avatar": true,
             "crackships": false,
-            "gifs": false,
-            "img": "https://64.media.tumblr.com/b78a6841dcf9982176e72964bdec3780/tumblr_op0v6fIbgt1urv59mo3_250.png"
+            "gifs": true,
+            "img": "https://s.yimg.com/ny/api/res/1.2/1jtc3YeXPmA0vmLN024hqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTk2MA--/https://s.yimg.com/uu/api/res/1.2/mePSeMa5T2FckT6CJfjzsg--~B/aD02NTgyO3c9NDM4ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/wwd_409/410ff19bab296e40798c398b63432eda"
         },
         {
             "name": "michiel huisman",
@@ -1292,6 +1522,34 @@
             "crackships": false,
             "gifs": false,
             "img": "https://64.media.tumblr.com/2e77b9445f490f01607783bbe2317fe2/b17893e857bad375-77/s500x750/25e6f738fde21d7e6ae19a54e01bf21e539fa00d.png"
+        },
+        {
+            "name": "natalia dyer",
+            "gender": "cis woman",
+            "year": "90",
+            "eth": " English, Bohemian Czech, Finland-Swedish, Ukrainian",
+            "hair": "brownh",
+            "eyes": "bluee",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://pbs.twimg.com/media/Ed7YHtkXgAAMZfQ?format=jpg&name=large"
+        },
+        {
+            "name": "nathalie kelley",
+            "gender": "cis woman",
+            "year": "80",
+            "eth": "Argentinian, Peruvian",
+            "hair": "brownh",
+            "eyes": "browne",
+            "tattoos": "",
+            "occupation": "actress",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "img": "https://theviraler.com/wp-content/uploads/2021/06/Nathalie-Kelley-hot-pic.jpeg"
         },
         {
             "name": "nicola peltz",
@@ -1502,18 +1760,18 @@
         },
         {
             "name": "selena gomez",
-            "faves": "",
             "gender": "cis woman",
             "year": "90",
-            "eth": "latin",
+            "eth": "Mexican, Italian",
+            "nationality": "American",
             "hair": "brownh",
             "eyes": "browne",
             "tattoos": "",
-            "occupation": "acting music",
-            "avatar": true,
-            "crackships": true,
-            "gifs": false,
-            "img": "https://64.media.tumblr.com/5a655e8d5d15570f20a73600ce1dbfcf/tumblr_oklf292qGs1urv59mo2_250.png"
+            "occupation": "singer, actress",
+            "avatar": false,
+            "crackships": false,
+            "gifs": true,
+            "img": "https://www.gotceleb.com/wp-content/uploads/photos/selena-gomez/allure-magazine-october-2020-adds/Selena-Gomez---Allure-Magazine-(October-2020)-adds-82.jpg"
         },
         {
             "name": "shia labeouf",
