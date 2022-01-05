@@ -3,392 +3,571 @@
         {
             "name": "aaron johnson",
             "gender": "cis man",
-            "year": "90",
+            "birth": "13/06/1990",
             "eth": "English, Irish, Ashkenazi Jewish",
             "nationality": "English",
-            "hair": "brownh",
-            "eyes": "bluee",
             "occupation": "actor",
             "avatar": true,
             "crackships": false,
             "gifs": true,
-            "img": "https://m.media-amazon.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1_.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BMzE5MzI0MzY2OF5BMl5BanBnXkFtZTgwODE3MTk4MTE@._V1_.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "90",
+                "eth": "english irish jewish white",
+                "nationality": "english",
+                "hair": "brownh",
+                "eyes": "bluee",
+                "occupation": "actor"
+            }
         },
         {
             "name": "aaron tveit",
             "gender": "cis man",
-            "year": "80",
+            "year": "21/10/1983",
             "eth": "German, Norwegian, Swedish, Danish, English, Irish, Polish",
             "nationality": "American",
-            "hair": "blondeh",
-            "eyes": "bluee",
             "occupation": "actor, singer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/39/93/b6/3993b605b50d0180e343d016b0d3524a.jpg"
+            "img": "https://i.pinimg.com/originals/39/93/b6/3993b605b50d0180e343d016b0d3524a.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "germanic english irish polish white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "abigail cowen",
             "gender": "cis woman",
-            "year": "90",
+            "year": "18/03/1998",
             "eth": "white",
             "nationality": "American",
-            "hair": "redh",
-            "eyes": "bluee",
             "occupation": "actress, model, singer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://m.media-amazon.com/images/M/MV5BZTUzMmNjNzUtZWZjMS00NmJiLTk3MGYtZTM5NWEyODcxMmYxXkEyXkFqcGdeQXVyNTUzNDcxMTM@._V1_UY1200_CR165,0,630,1200_AL_.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BZTUzMmNjNzUtZWZjMS00NmJiLTk3MGYtZTM5NWEyODcxMmYxXkEyXkFqcGdeQXVyNTUzNDcxMTM@._V1_UY1200_CR165,0,630,1200_AL_.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "redh",
+                "eyes": "bluee",
+                "occupation": "singer actor model"
+            }
         },
         {
             "name": "adam senn",
             "gender": "cis man",
-            "year": "80",
+            "year": "10/03/1984",
             "eth": "white",
-            "hair": "brownh",
-            "eyes": "bluee",
-            "occupation": "modeling acting",
+            "nationality": "American",
+            "occupation": "model actor",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/ab947fc8af677f76136f9f4d944a0d2f/tumblr_pnxtfkEUPG1urv59mo7_500.png"
+            "img": "https://64.media.tumblr.com/ab947fc8af677f76136f9f4d944a0d2f/tumblr_pnxtfkEUPG1urv59mo7_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "brownh",
+                "eyes": "bluee",
+                "occupation": "model actor"
+            }
         },
         {
             "name": "adelaide kane",
             "gender": "cis woman",
-            "year": "90",
+            "year": "09/08/1990",
             "eth": "Scottish, French, Irish",
             "nationality": "Australian",
-            "hair": "brownh",
-            "eyes": "browne",
             "occupation": "actress",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/15/b8/7f/15b87ff75f3a95ea47e5a9d536a743da.jpg"
+            "img": "https://i.pinimg.com/originals/15/b8/7f/15b87ff75f3a95ea47e5a9d536a743da.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "scottish irish white",
+                "nationality": "australian",
+                "hair": "brownh",
+                "eyes": "browne",
+                "occupation": "actor"
+            }
         },
         {
             "name": "adria arjona",
             "gender": "cis woman",
-            "year": "90",
+            "year": "25/04/1992",
             "eth": "Guatemalan, Puerto Rican",
             "nationality": "Puerto Rican",
-            "hair": "brownh",
-            "eyes": "browne",
-            
             "occupation": "actress",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/ef436777ad10cc29037581081542be28/8b344dae6971f916-c2/s1280x1920/4e1c676715d6ee321c525278900474d9d4a79721.jpg"
+            "img": "https://64.media.tumblr.com/ef436777ad10cc29037581081542be28/8b344dae6971f916-c2/s1280x1920/4e1c676715d6ee321c525278900474d9d4a79721.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "90",
+                "eth": "native hispanic",
+                "nationality": "puerto rican",
+                "hair": "brownh",
+                "eyes": "browne",
+                "occupation": "actor"
+            }
         },
         {
             "name": "alexa demie",
             "gender": "cis woman",
-            "year": "80",
+            "year": "11/12/1990",
             "eth": "latin",
-            "hair": "blackh",
-            "eyes": "browne",
-            
-            "occupation": "acting music",
+            "nationality": "american",
+            "occupation": "actress musician",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://static01.nyt.com/images/2019/09/08/fashion/00upnext-demie1/merlin_158888460_4b16aad8-41e0-4b25-a368-f9d44c7a36cd-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+            "img": "https://static01.nyt.com/images/2019/09/08/fashion/00upnext-demie1/merlin_158888460_4b16aad8-41e0-4b25-a368-f9d44c7a36cd-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "latin",
+                "nationality": "american",
+                "hair": "blackh",
+                "eyes": "browne",
+                "occupation": "actor musician"
+            }
         },
         {
             "name": "alexander skarsgard",
             "gender": "cis man",
-            "year": "70",
+            "year": "25/08/1976",
             "eth": "Swedish",
             "nationality": "Swedish",
-            "hair": "blondeh",
-            "eyes": "bluee",
-            
             "occupation": "actor",
             "avatar": false,
             "crackships": false,
             "gifs": true,
-            "img": "https://pbs.twimg.com/media/DeJw6hfX4AAAwby.jpg"
+            "img": "https://pbs.twimg.com/media/DeJw6hfX4AAAwby.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "70",
+                "eth": "germanic white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor"
+            }
         },
         {
             "name": "alexis ren",
             "gender": "cis woman",
-            "year": "90",
+            "year": "23/11/1996",
             "eth": "Serbian, German, English, Irish",
-            "hair": "brownh",
-            "eyes": "browne",
+            "nationality": "american",
             "occupation": "model, influencer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/80/8e/e6/808ee6d8599495cd359cffa4caf68edf.jpg"
+            "img": "https://i.pinimg.com/originals/80/8e/e6/808ee6d8599495cd359cffa4caf68edf.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "slavic white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "browne",
+                "occupation": "model influencer"
+            }
         },
         {
             "name": "alice pagani",
             "gender": "cis woman",
-            "year": "90",
+            "year": "19/02/1998",
             "eth": "white",
             "nationality": "Italian",
-            "hair": "blackh",
-            "eyes": "greene",
-            
             "occupation": "actress",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/f1/b1/56/f1b1569b0a8051c5ce3206a239d12ade.jpg"
+            "img": "https://i.pinimg.com/originals/f1/b1/56/f1b1569b0a8051c5ce3206a239d12ade.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "italian white",
+                "nationality": "american",
+                "hair": "blackh",
+                "eyes": "greene",
+                "occupation": "actor"
+            }
         },
         {
             "name": "alicia vikander",
             "gender": "cis woman",
-            "year": "80",
+            "year": "03/10/1988",
             "eth": "Swedish",
             "nationality": "Swedish",
-            "hair": "brownh",
-            "eyes": "browne",
-            
             "occupation": "actress, dancer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://celebmafia.com/wp-content/uploads/2016/02/alicia-vikander-photoshoot-for-new-york-magazine-2016-1.jpg"
+            "img": "https://celebmafia.com/wp-content/uploads/2016/02/alicia-vikander-photoshoot-for-new-york-magazine-2016-1.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "80",
+                "eth": "germanic white",
+                "nationality": "american",
+                "hair": "brownh",
+                "eyes": "browne",
+                "occupation": "actor musician"
+            }
         },
         {
             "name": "aimee carrero",
             "gender": "cis woman",
-            "year": "80",
+            "year": "15/07/1988",
             "eth": "Puerto Rican, Dominican",
             "nationality": "American",
-            "hair": "blackh",
-            "eyes": "greene",
             "occupation": "actress, singer",
             "avatar": false,
             "crackships": false,
             "gifs": true,
-            "img": "https://3.bp.blogspot.com/-K8OSZ8Y4qic/WMxDtVJyP8I/AAAAAAAAHYI/lux1EluaXZQFj1eeADS9M3egeZxXN92bwCLcB/s1600/00004.png"
+            "img": "https://3.bp.blogspot.com/-K8OSZ8Y4qic/WMxDtVJyP8I/AAAAAAAAHYI/lux1EluaXZQFj1eeADS9M3egeZxXN92bwCLcB/s1600/00004.png",
+            "datas": {
+                "gender": "cisw",
+                "year": "80",
+                "eth": "hispanic dominican",
+                "nationality": "american",
+                "hair": "blackh",
+                "eyes": "greene",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "ana de armas",
             "gender": "cis woman",
-            "year": "80",
+            "year": "30/04/1988",
             "eth": "Spanish",
             "nationality": "Cuban",
-            "hair": "blondeh",
-            "eyes": "browne",
-            
             "occupation": "actress",
             "avatar": true,
             "crackships": true,
             "gifs": false,
-            "img": "https://s.mltshp.com/r/1I5LY"
+            "img": "https://s.mltshp.com/r/1I5LY",
+            "datas": {
+                "gender": "cisw",
+                "year": "80",
+                "eth": "hispanic",
+                "nationality": "cuban",
+                "hair": "blondeh",
+                "eyes": "browne",
+                "occupation": "actor"
+            }
         },
         {
             "name": "andy biersack",
             "gender": "cis man",
-            "year": "90",
+            "year": "26/12/1990",
             "eth": "white",
-            "hair": "blackh",
-            "eyes": "bluee",
-            "tattoos": "tattoos",
-            "occupation": "music acting",
+            "tattoos": "tattoos piercings",
+            "occupation": "singer actor",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://photogenicsmedia.com/wp-content/uploads/2018/05/andy1-1.jpg"
+            "img": "https://photogenicsmedia.com/wp-content/uploads/2018/05/andy1-1.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blackh",
+                "eyes": "bluee",
+                "occupation": "singer actor musician"
+            }
         },
         {
             "name": "anthony mackie",
             "gender": "cis man",
-            "year": "70",
+            "year": "23/09/1978",
             "eth": "African-American",
             "nationality": "American",
-            "hair": "blackh",
-            "eyes": "browne",
-            
             "occupation": "actor",
             "avatar": true,
             "crackships": false,
             "gifs": true,
-            "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2021%2F03%2F12%2FFWS_AM_2389483090349-2.jpg"
+            "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2021%2F03%2F12%2FFWS_AM_2389483090349-2.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "70",
+                "eth": "afam",
+                "nationality": "american",
+                "hair": "blackh",
+                "eyes": "browne",
+                "occupation": "actor"
+            }
         },
         {
             "name": "anya chalotra",
             "gender": "cis woman",
-            "year": "90",
+            "year": "21/07/1996",
             "eth": "Kashmiri Indian, English",
             "nationality": "English",
-            "hair": "brownh",
-            "eyes": "hazele",
             "occupation": "actress",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.guim.co.uk/img/media/c1def0fa230dc1334511a793765c116430302cb5/0_708_5250_3150/master/5250.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6e22dee0b9d9b1ac27047c1305556d20"
+            "img": "https://i.guim.co.uk/img/media/c1def0fa230dc1334511a793765c116430302cb5/0_708_5250_3150/master/5250.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=6e22dee0b9d9b1ac27047c1305556d20",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "indian english",
+                "nationality": "american",
+                "hair": "brownh",
+                "eyes": "hazele",
+                "occupation": "actor"
+            }
         },
         {
             "name": "ash stymest",
             "gender": "cis man",
-            "year": "90",
+            "year": "31/07/1991",
             "eth": "white",
-            "hair": "blackh",
-            "eyes": "bluee",
             "tattoos": "tattoos",
-            "occupation": "modeling acting music",
+            "occupation": "model actor musician",
             "avatar": true,
             "crackships": false,
             "gifs": true,
-            "img": "https://mediaslide-europe.storage.googleapis.com/supa/pictures/1093/1979/large-1565617668-5afc826644ef4570042205856c324085.jpg?v=1565617822"
+            "img": "https://mediaslide-europe.storage.googleapis.com/supa/pictures/1093/1979/large-1565617668-5afc826644ef4570042205856c324085.jpg?v=1565617822",
+            "datas": {
+                "gender": "cism",
+                "year": "90",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blackh",
+                "eyes": "bluee",
+                "occupation": "model actor musician"
+            }
         },
         {
             "name": "ashley moore",
             "gender": "cis woman",
-            "year": "90",
+            "year": "15/07/1993",
             "eth": "African/Caucasian- American",
-            "hair": "redh brownh",
-            "eyes": "browne",
-            
+            "nationality": "American",
             "occupation": "model",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://www.rpnation.com/gallery/ashley-moore-2-jpg.41960/full"
+            "img": "https://www.rpnation.com/gallery/ashley-moore-2-jpg.41960/full",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "afam mixed",
+                "nationality": "american",
+                "hair": "redh brownh",
+                "eyes": "browne",
+                "occupation": "model"
+            }
         },
         {
             "name": "ashley tisdale",
             "gender": "cis woman",
-            "year": "80",
+            "year": "02/07/1985",
             "eth": "white",
-            "hair": "blondeh",
-            "eyes": "browne",
-            
-            "occupation": "acting music",
+            "nationality": "American",
+            "occupation": "actress singer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/fff783d08880e088cb9017f6983fca1f/tumblr_p7a74glj5X1urv59mo2_250.png"
+            "img": "https://64.media.tumblr.com/fff783d08880e088cb9017f6983fca1f/tumblr_p7a74glj5X1urv59mo2_250.png",
+            "datas": {
+                "gender": "cisw",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "browne",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "auli'i cravalho",
             "gender": "cis woman",
-            "year": "00",
+            "year": "22/11/2000",
             "eth": "Puerto Rican, Native Hawaiian, Portuguese, Chinese",
             "nationality": "American",
-            "hair": "brownh",
-            "eyes": "browne",
-            
             "occupation": "actress, singer",
             "avatar": false,
             "crackships": true,
             "gifs": false,
             "icons": true,
-            "img": "https://i.pinimg.com/originals/d2/6a/10/d26a10be522ac72fafa32b4b56cdd58b.jpg"
+            "img": "https://i.pinimg.com/originals/d2/6a/10/d26a10be522ac72fafa32b4b56cdd58b.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "00",
+                "eth": "hispanic native asian",
+                "nationality": "american",
+                "hair": "brownh",
+                "eyes": "browne",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "avan jogia",
             "gender": "cis man",
-            "year": "90",
+            "year": "09/02/1992",
             "eth": "Gujarati Indian, English, Welsh",
-            "hair": "brownh",
-            "eyes": "browne",
-            
             "occupation": "actor, singer",
             "avatar": true,
             "crackships": false,
             "gifs": true,
             "icons": true,
             "gificons": true,
-            "img": "https://i.pinimg.com/originals/df/8d/c0/df8dc0e203aebccd325deb206d52dd71.jpg"
+            "img": "https://i.pinimg.com/originals/df/8d/c0/df8dc0e203aebccd325deb206d52dd71.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "90",
+                "eth": "indian english",
+                "nationality": "american",
+                "hair": "brownh",
+                "eyes": "browne",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "beatrice laus",
             "pseudo": "Beabadoobee",
             "gender": "cis woman",
-            "year": "00",
+            "year": "03/06/2000",
             "eth": "White",
             "nationality": "British-Filipino",
-            "hair": "multih",
-            "eyes": "browne",
-            
             "occupation": "singer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://writewyattuk.files.wordpress.com/2019/12/dirty-hit-tour-beabadoobee-2.jpg"
+            "img": "https://writewyattuk.files.wordpress.com/2019/12/dirty-hit-tour-beabadoobee-2.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "00",
+                "eth": "native english",
+                "nationality": "american",
+                "hair": "multih",
+                "eyes": "browne",
+                "occupation": "singer musician"
+            }
         },
         {
             "name": "becky gomez",
             "pseudo": "becky g",
             "gender": "cis woman",
-            "year": "90",
+            "year": "02/03/1997",
             "eth": "Mexican, Spanish",
             "nationality": "American",
-            "hair": "brownh",
-            "eyes": "browne",
-            
             "occupation": "singer, actress, rapper, model, dancer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://www.theplace2.ru/cache/archive/becky_g/img/2019-colourpop-cosme(2)-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg"
+            "img": "https://www.theplace2.ru/cache/archive/becky_g/img/2019-colourpop-cosme(2)-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "hispanic",
+                "nationality": "american",
+                "hair": "brownh",
+                "eyes": "browne",
+                "occupation": "singer musician actor rapper model dancer"
+            }
         },
         {
             "name": "bella thorne",
             "gender": "cis woman",
-            "year": "90",
-            "eth": "latin",
-            "hair": "blondeh redh blueh brownh",
-            "eyes": "browne",
+            "year": "08/10/1997",
+            "eth": "Italian, Cuban, Irish, English, German, Welsh",
             "tattoos": "tattoos piercings",
-            "occupation": "acting modeling music",
+            "occupation": "actress model singer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/6d97fd72a0f0dfcd23ab18fc93a2b33c/tumblr_op0vfm0Fu01urv59mo3_250.png"
+            "img": "https://64.media.tumblr.com/6d97fd72a0f0dfcd23ab18fc93a2b33c/tumblr_op0vfm0Fu01urv59mo3_250.png",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "cuban irish english germanic",
+                "nationality": "american",
+                "hair": "blondeh redh blueh brownh",
+                "eyes": "browne",
+                "occupation": "actor model singer musician"
+            }
         },
         {
             "name": "ben barnes",
             "gender": "cis man",
-            "year": "80",
+            "year": "20/08/1981",
             "eth": "English, Dutch-German Jewish",
-            "hair": "brownh blackh",
-            "eyes": "browne blacke",
-            
+            "nationality": "english",
             "occupation": "actor singer",
             "avatar": true,
             "crackships": true,
             "gifs": true,
-            "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F14%2F2019%2F10%2F22%2F102219-ben-barnes-02-2000.jpg"
+            "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F14%2F2019%2F10%2F22%2F102219-ben-barnes-02-2000.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "english germanic white",
+                "nationality": "english",
+                "hair": "brownh blackh",
+                "eyes": "browne blacke",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "billie eilish",
             "gender": "cis woman",
-            "year": "90",
-            "eth": "white",
-            "hair": "blondeh",
-            "eyes": "bluee",
-            
-            "occupation": "music",
+            "year": "18/12/2001",
+            "eth": "irish, english",
+            "occupation": "singer",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/f41bcd8361ca112ffdbf4e3002bfea5e/tumblr_pxff274KzQ1urv59mo2_500.png"
+            "img": "https://64.media.tumblr.com/f41bcd8361ca112ffdbf4e3002bfea5e/tumblr_pxff274KzQ1urv59mo2_500.png",
+            "datas": {
+                "gender": "cisw",
+                "year": "00",
+                "eth": "irish english white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "singer musician"
+            }
         },
         {
             "name": "billie lourd",
             "gender": "cis woman",
-            "year": "90",
-            "eth": "white",
-            "hair": "blondeh",
-            "eyes": "browne",
-            
-            "occupation": "acting",
+            "year": "17/07/1992",
+            "eth": "Ashkenazi Jewish, english, Scottish, Scots-Irish/Northern Irish, Welsh, German, Cajun/French",
+            "occupation": "actress",
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/2c8b4139c750b4f7d6c5753f5d873ac4/fb02afd7b2fa3fec-bd/s500x750/0ff15b55cab5394630801c4400847df5053f1531.png"
+            "img": "https://64.media.tumblr.com/2c8b4139c750b4f7d6c5753f5d873ac4/fb02afd7b2fa3fec-bd/s500x750/0ff15b55cab5394630801c4400847df5053f1531.png",
+            "datas": {
+                "gender": "cisw",
+                "year": "90",
+                "eth": "jewish english scottish irish germanic white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor"
+            }
         },
         {
             "name": "blanca suarez",
@@ -403,7 +582,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/f9/c5/47/f9c5474adf9fc1e5094b9ac60424142f.jpg"
+            "img": "https://i.pinimg.com/originals/f9/c5/47/f9c5474adf9fc1e5094b9ac60424142f.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "boyd holbrook",
@@ -417,7 +605,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/f421a3b5e82232b7239295f0c2976609/tumblr_om98cfNGZB1urv59mo6_250.png"
+            "img": "https://64.media.tumblr.com/f421a3b5e82232b7239295f0c2976609/tumblr_om98cfNGZB1urv59mo6_250.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "brenda song",
@@ -432,7 +629,16 @@
             "avatar": false,
             "crackships": false,
             "gifs": true,
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-5hF22vlndA1gq2W3PCwlyB8JptRRZOviJk8vpK-kBL-edxJOkZYgKCncVQ4VjCDzKc&usqp=CAU"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-5hF22vlndA1gq2W3PCwlyB8JptRRZOviJk8vpK-kBL-edxJOkZYgKCncVQ4VjCDzKc&usqp=CAU",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "bryan dechart",
@@ -446,7 +652,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/faf0f725714472c61ad357bc3834c9fa/tumblr_puzxj0D6U01urv59mo2_500.png"
+            "img": "https://64.media.tumblr.com/faf0f725714472c61ad357bc3834c9fa/tumblr_puzxj0D6U01urv59mo2_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "bryana holly",
@@ -460,7 +675,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/36b18b7e7d2a9a1dcd575702da51ef06/tumblr_pv7kcfrrKt1urv59mo4_500.png"
+            "img": "https://64.media.tumblr.com/36b18b7e7d2a9a1dcd575702da51ef06/tumblr_pv7kcfrrKt1urv59mo4_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "bryden jenkins",
@@ -473,7 +697,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/1f/7b/af/1f7bafb51e19898ab0291085d15fa35d.jpg"
+            "img": "https://i.pinimg.com/originals/1f/7b/af/1f7bafb51e19898ab0291085d15fa35d.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "caitlin stasey",
@@ -488,7 +721,16 @@
             "avatar": false,
             "crackships": false,
             "gifs": true,
-            "img": "http://images6.fanpop.com/image/photos/39000000/Caitlin-Stasey-caitlin-stasey-39087512-429-553.png"
+            "img": "http://images6.fanpop.com/image/photos/39000000/Caitlin-Stasey-caitlin-stasey-39087512-429-553.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "caity lotz",
@@ -502,7 +744,16 @@
             "avatar": false,
             "crackships": true,
             "gifs": true,
-            "img": "https://cutewallpaper.org/21/caity-lotz-photoshoot/Caity-Lotz-Legends-of-Tomorrow-in-2019-White-canary-Dc-.jpg"
+            "img": "https://cutewallpaper.org/21/caity-lotz-photoshoot/Caity-Lotz-Legends-of-Tomorrow-in-2019-White-canary-Dc-.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "camila cabello",
@@ -516,7 +767,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/26538475ce88b28c1e5f3cabb5a6d06e/tumblr_pv7ank6RP91urv59mo2_500.png"
+            "img": "https://64.media.tumblr.com/26538475ce88b28c1e5f3cabb5a6d06e/tumblr_pv7ank6RP91urv59mo2_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "candice swanepoel",
@@ -530,7 +790,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/213fe6fab3c1db25302b4c12846a13ff/tumblr_pc0fi2sdq01urv59mo9_250.png"
+            "img": "https://64.media.tumblr.com/213fe6fab3c1db25302b4c12846a13ff/tumblr_pc0fi2sdq01urv59mo9_250.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "carolina porqueddu",
@@ -545,7 +814,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://data.whicdn.com/images/322462258/original.jpg"
+            "img": "https://data.whicdn.com/images/322462258/original.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "casey deidrick",
@@ -560,7 +838,16 @@
             "avatar": true,
             "crackships": true,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/70/64/50/70645080fa6a1f0dcdd46f53b76db08e.jpg"
+            "img": "https://i.pinimg.com/originals/70/64/50/70645080fa6a1f0dcdd46f53b76db08e.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "chace crawford",
@@ -574,7 +861,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://www.theplace2.ru/archive/chace_crawford/img/-hg1wnzrwxe.jpg"
+            "img": "https://www.theplace2.ru/archive/chace_crawford/img/-hg1wnzrwxe.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "charleen weiss",
@@ -589,7 +885,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://cowboyzoom.com/wp-content/uploads/2020/11/charleen-weiss-by-lina-tesch-for-galeries-lafayette-jewellery-11.jpg"
+            "img": "https://cowboyzoom.com/wp-content/uploads/2020/11/charleen-weiss-by-lina-tesch-for-galeries-lafayette-jewellery-11.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "charlie heaton",
@@ -603,7 +908,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://media.gq.com/photos/5e5003d499911e0008498e12/master/w_3150,h_4200,c_limit/charlie-heaton-gq-march-2019-11.jpg"
+            "img": "https://media.gq.com/photos/5e5003d499911e0008498e12/master/w_3150,h_4200,c_limit/charlie-heaton-gq-march-2019-11.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "charlie hunnam",
@@ -617,7 +931,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/e1/83/c9/e183c9a221678223d89c1f5dc10447d4.jpg"
+            "img": "https://i.pinimg.com/originals/e1/83/c9/e183c9a221678223d89c1f5dc10447d4.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "chloe moretz",
@@ -631,7 +954,16 @@
             "avatar": false,
             "crackships": false,
             "gifs": true,
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZHW2mVG9jnl-dvUqVSqq6FZgg1GdZR8jow&usqp=CAU"
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZHW2mVG9jnl-dvUqVSqq6FZgg1GdZR8jow&usqp=CAU",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "chris evans",
@@ -645,7 +977,16 @@
             "avatar": true,
             "crackships": true,
             "gifs": true,
-            "img": "https://data.whicdn.com/images/279754674/original.jpg"
+            "img": "https://data.whicdn.com/images/279754674/original.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "chris wood",
@@ -659,7 +1000,16 @@
             "avatar": false,
             "crackships": false,
             "gifs": true,
-            "img": "https://m.media-amazon.com/images/M/MV5BNmRlNmFkOWItMDZiOS00ZGI5LWE2ZGQtZGNhMDRiOGI1OWNiXkEyXkFqcGdeQXVyNDExNzEzNzA@._V1_.jpg"
+            "img": "https://m.media-amazon.com/images/M/MV5BNmRlNmFkOWItMDZiOS00ZGI5LWE2ZGQtZGNhMDRiOGI1OWNiXkEyXkFqcGdeQXVyNDExNzEzNzA@._V1_.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "christina nadin",
@@ -674,7 +1024,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/27/45/a1/2745a1d405b6376c7afa7bb9aee59fcb.jpg"
+            "img": "https://i.pinimg.com/originals/27/45/a1/2745a1d405b6376c7afa7bb9aee59fcb.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "cindy kimberly",
@@ -688,7 +1047,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://live.staticflickr.com/959/42040252752_18a8136785_b.jpg"
+            "img": "https://live.staticflickr.com/959/42040252752_18a8136785_b.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "clive standen",
@@ -702,7 +1070,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/69ec9a3908580e452bb8cb5c76a994e1/tumblr_op1fc6aowy1urv59mo1_250.png"
+            "img": "https://64.media.tumblr.com/69ec9a3908580e452bb8cb5c76a994e1/tumblr_op1fc6aowy1urv59mo1_250.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "codie young",
@@ -716,7 +1093,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/f2ed7f8b66ec0391b0e4f686a8886321/tumblr_pnhztihuN41urv59mo7_500.png"
+            "img": "https://64.media.tumblr.com/f2ed7f8b66ec0391b0e4f686a8886321/tumblr_pnhztihuN41urv59mo7_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "cole mohr",
@@ -730,7 +1116,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/df/71/64/df71648566e0a522ddbe5cc96eae6bfa.png"
+            "img": "https://i.pinimg.com/originals/df/71/64/df71648566e0a522ddbe5cc96eae6bfa.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "coline aulagnier",
@@ -744,7 +1139,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/bde3e8e25196a39c98bb2fa7ec186b3f/tumblr_pv7fkfTbHv1urv59mo3_500.png"
+            "img": "https://64.media.tumblr.com/bde3e8e25196a39c98bb2fa7ec186b3f/tumblr_pv7fkfTbHv1urv59mo3_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "dakota johnson",
@@ -759,7 +1163,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://celebmafia.com/wp-content/uploads/2019/09/dakota-johnson-the-friend-portrait-session-2019-tiff-18.jpg"
+            "img": "https://celebmafia.com/wp-content/uploads/2019/09/dakota-johnson-the-friend-portrait-session-2019-tiff-18.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "damiano david",
@@ -776,7 +1189,16 @@
             "gifs": false,
             "icons": false,
             "gificons": false,
-            "img": "https://wallpaperaccess.com/full/6163560.jpg"
+            "img": "https://wallpaperaccess.com/full/6163560.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "dane dehaan",
@@ -792,7 +1214,16 @@
             "gifs": true,
             "icons": true,
             "gificons": true,
-            "img": "https://www.theplace2.ru/cache/archive/dane_dehaan/img/Dane_DeHaan_0042-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg"
+            "img": "https://www.theplace2.ru/cache/archive/dane_dehaan/img/Dane_DeHaan_0042-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "danielle campbell",
@@ -808,7 +1239,16 @@
             "gifs": true,
             "icons": false,
             "gificons": false,
-            "img": "https://www.theplace2.ru/cache/archive/danielle_campbell/img/danielle-campbell-pu(5)-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg"
+            "img": "https://www.theplace2.ru/cache/archive/danielle_campbell/img/danielle-campbell-pu(5)-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "danielle rose russell",
@@ -824,7 +1264,16 @@
             "gifs": true,
             "icons": true,
             "gificons": true,
-            "img": "https://images.squarespace-cdn.com/content/v1/5701b390cf80a1095e57fb7a/1552429819945-DWBY50P6CR4LQAZ7G6RC/Danielle+Rose+Russell2910DoneREv1.jpg?format=2500w"
+            "img": "https://images.squarespace-cdn.com/content/v1/5701b390cf80a1095e57fb7a/1552429819945-DWBY50P6CR4LQAZ7G6RC/Danielle+Rose+Russell2910DoneREv1.jpg?format=2500w",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "danna paola",
@@ -841,7 +1290,16 @@
             "gifs": false,
             "icons": false,
             "gificons": false,
-            "img": "https://i.pinimg.com/originals/6b/97/46/6b974662437e56adfb0d4bf0b0a3742c.jpg"
+            "img": "https://i.pinimg.com/originals/6b/97/46/6b974662437e56adfb0d4bf0b0a3742c.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "romy flores",
@@ -856,7 +1314,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://lastfm.freetls.fastly.net/i/u/ar0/04ee15487d1d37f9dbc40e0d2724c727.jpg"
+            "img": "https://lastfm.freetls.fastly.net/i/u/ar0/04ee15487d1d37f9dbc40e0d2724c727.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "dichen lachman",
@@ -870,7 +1337,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/78db1036cce96eebd22ea9956b65b233/92409cce26649392-f1/s500x750/ce8f5799e9a7fa618d573784b6e727350a10e51d.png"
+            "img": "https://64.media.tumblr.com/78db1036cce96eebd22ea9956b65b233/92409cce26649392-f1/s500x750/ce8f5799e9a7fa618d573784b6e727350a10e51d.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "diego barrueco",
@@ -884,7 +1360,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/f5c183614a3ae6cdc58424e6846f1c7f/ceaa5a9b330e8947-ad/s500x750/eac8cedb5fb0b55016bdefef92b07219617ef138.png"
+            "img": "https://64.media.tumblr.com/f5c183614a3ae6cdc58424e6846f1c7f/ceaa5a9b330e8947-ad/s500x750/eac8cedb5fb0b55016bdefef92b07219617ef138.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "dove cameron",
@@ -899,7 +1384,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://www.mordeo.org/files/uploads/2021/09/Dove-Cameron-Grazia-2021-Photoshoot-4K-Ultra-HD-Mobile-Wallpaper.jpg"
+            "img": "https://www.mordeo.org/files/uploads/2021/09/Dove-Cameron-Grazia-2021-Photoshoot-4K-Ultra-HD-Mobile-Wallpaper.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "drake bell",
@@ -913,7 +1407,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/42c06a5ce081df8494dc18cdc64ac4ed/tumblr_prg3p4sPp41urv59mo4_500.png"
+            "img": "https://64.media.tumblr.com/42c06a5ce081df8494dc18cdc64ac4ed/tumblr_prg3p4sPp41urv59mo4_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "dua lipa",
@@ -928,7 +1431,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://celebmafia.com/wp-content/uploads/2020/12/dua-lipa-billboard-december-2020-photoshoot-5.jpg"
+            "img": "https://celebmafia.com/wp-content/uploads/2020/12/dua-lipa-billboard-december-2020-photoshoot-5.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "dylan rieder",
@@ -944,7 +1456,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/474x/6b/39/9d/6b399d11a78ac5e0b4e5ca553e179edf--hair-reference-men-photography.jpg"
+            "img": "https://i.pinimg.com/474x/6b/39/9d/6b399d11a78ac5e0b4e5ca553e179edf--hair-reference-men-photography.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "earth vangwithayakul",
@@ -959,7 +1480,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/723f1db152dbe3e7cf6465a2bc3bbfa7/tumblr_ovwuzvEhBE1w5bzojo2_400.png"
+            "img": "https://64.media.tumblr.com/723f1db152dbe3e7cf6465a2bc3bbfa7/tumblr_ovwuzvEhBE1w5bzojo2_400.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "eiza gonzalez",
@@ -973,7 +1503,16 @@
             "avatar": true,
             "crackships": true,
             "gifs": true,
-            "img": "https://celebmafia.com/wp-content/uploads/2020/04/eiza-gonzales-instyle-magazine-mexico-2020-more-photos-1.jpg"
+            "img": "https://celebmafia.com/wp-content/uploads/2020/04/eiza-gonzales-instyle-magazine-mexico-2020-more-photos-1.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "elle fanning",
@@ -987,7 +1526,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://celebmafia.com/wp-content/uploads/2019/03/elle-fanning-photoshoot-for-wildflowers-music-video-1.jpg"
+            "img": "https://celebmafia.com/wp-content/uploads/2019/03/elle-fanning-photoshoot-for-wildflowers-music-video-1.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "eliza bennett",
@@ -1001,7 +1549,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/c628e4f6163ac2228af9bd9e597fb1e3/tumblr_oktg4kgupe1urv59mo3_250.png"
+            "img": "https://64.media.tumblr.com/c628e4f6163ac2228af9bd9e597fb1e3/tumblr_oktg4kgupe1urv59mo3_250.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "elizabeth gillies",
@@ -1015,7 +1572,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/55a6502bb5ea04b2c1b8bde3d17d6224/34ac952ad87316ef-1d/s500x750/6e662ecdbb11905a8f3b8b16fb6ad59792595ad5.png"
+            "img": "https://64.media.tumblr.com/55a6502bb5ea04b2c1b8bde3d17d6224/34ac952ad87316ef-1d/s500x750/6e662ecdbb11905a8f3b8b16fb6ad59792595ad5.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "elizabeth olsen",
@@ -1029,7 +1595,16 @@
             "avatar": false,
             "crackships": true,
             "gifs": false,
-            "img": "https://elizabeth-olsen.com/photos/albums/Studio%20Photoshoots/Outtakes%20Sessions/2019/2019-010-InStyle/007.jpg"
+            "img": "https://elizabeth-olsen.com/photos/albums/Studio%20Photoshoots/Outtakes%20Sessions/2019/2019-010-InStyle/007.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "emeraude toubia",
@@ -1044,7 +1619,16 @@
             "avatar": false,
             "crackships": true,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/f326db035e4bc65c6a51c987db0dad54/tumblr_p9wkgoVKXH1vqtnzxo1_r1_500.png"
+            "img": "https://64.media.tumblr.com/f326db035e4bc65c6a51c987db0dad54/tumblr_p9wkgoVKXH1vqtnzxo1_r1_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "emily alyn lind",
@@ -1058,7 +1642,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": true,
-            "img": "https://celebmafia.com/wp-content/uploads/2021/06/emily-alyn-lind-the-face-magazine-june-2021-more-photos-7.jpg"
+            "img": "https://celebmafia.com/wp-content/uploads/2021/06/emily-alyn-lind-the-face-magazine-june-2021-more-photos-7.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "emily browning",
@@ -1072,7 +1665,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": true,
-            "img": "https://celebmafia.com/wp-content/uploads/2015/11/emily-browning-photoshoot-for-interview-magazine-october-2015_3.jpg"
+            "img": "https://celebmafia.com/wp-content/uploads/2015/11/emily-browning-photoshoot-for-interview-magazine-october-2015_3.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "emma mackey",
@@ -1087,7 +1689,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": true,
-            "img": "https://www.hungertv.com/app/uploads/2021/09/PR_HUN2006-EMMA-MACKEY-4092_F1_EXT_RGB-min-scaled.jpg"
+            "img": "https://www.hungertv.com/app/uploads/2021/09/PR_HUN2006-EMMA-MACKEY-4092_F1_EXT_RGB-min-scaled.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "emma stone",
@@ -1102,7 +1713,16 @@
             "avatar": false,
             "crackships": true,
             "gifs": false,
-            "img": "https://www.theplace2.ru/archive/emma_stone/img/emma_stone_madame_figaro_september_2018_photos_1.jpg"
+            "img": "https://www.theplace2.ru/archive/emma_stone/img/emma_stone_madame_figaro_september_2018_photos_1.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "ester exposito",
@@ -1117,7 +1737,16 @@
             "avatar": false,
             "crackships": false,
             "gifs": true,
-            "img": "https://64.media.tumblr.com/86911f4f38bb51592616aa8fcfa92d8e/4dfc67df4b7f286e-92/s1280x1920/ffafe26f00f799bb944a8caed8b9a4c14deddd5f.jpg"
+            "img": "https://64.media.tumblr.com/86911f4f38bb51592616aa8fcfa92d8e/4dfc67df4b7f286e-92/s1280x1920/ffafe26f00f799bb944a8caed8b9a4c14deddd5f.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "evan rachel wood",
@@ -1132,7 +1761,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://www.theplace2.ru/archive/evan_rachel_wood/img/wouoq4ljnz4.jpg"
+            "img": "https://www.theplace2.ru/archive/evan_rachel_wood/img/wouoq4ljnz4.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "ezra miller",
@@ -1146,7 +1784,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://i.pinimg.com/736x/37/a8/d9/37a8d9900253af82e35b434bcc858190.jpg"
+            "img": "https://i.pinimg.com/736x/37/a8/d9/37a8d9900253af82e35b434bcc858190.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "fabian gray",
@@ -1160,7 +1807,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/16b66619a310ba83b0319048f1a6869c/tumblr_pc0qed1YJQ1urv59mo4_250.png"
+            "img": "https://64.media.tumblr.com/16b66619a310ba83b0319048f1a6869c/tumblr_pc0qed1YJQ1urv59mo4_250.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "felicity jones",
@@ -1175,7 +1831,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://media.vogue.co.uk/photos/5d54628a12e31a00084817e0/master/pass/meet-miss-jones-p159-feb14-vogue-alasdair-mclellan_b.jpg"
+            "img": "https://media.vogue.co.uk/photos/5d54628a12e31a00084817e0/master/pass/meet-miss-jones-p159-feb14-vogue-alasdair-mclellan_b.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "felisja fishball",
@@ -1189,7 +1854,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/fd816ebfdc67c74d74ab910af79dda88/3fcfd92e0b179799-ca/s500x750/06f494e1f39c3d38aec74ceebbfde68600956bf8.png"
+            "img": "https://64.media.tumblr.com/fd816ebfdc67c74d74ab910af79dda88/3fcfd92e0b179799-ca/s500x750/06f494e1f39c3d38aec74ceebbfde68600956bf8.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "florence pugh",
@@ -1204,7 +1878,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cover-story-fp-x-chanel-new-2-1588673685.jpg"
+            "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cover-story-fp-x-chanel-new-2-1588673685.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "frank grillo",
@@ -1219,7 +1902,16 @@
             "avatar": true,
             "crackships": true,
             "gifs": false,
-            "img": "https://i.pinimg.com/originals/90/7a/f0/907af0082a7bbeb6aba4f68b4e68040b.jpg"
+            "img": "https://i.pinimg.com/originals/90/7a/f0/907af0082a7bbeb6aba4f68b4e68040b.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "freddy carter",
@@ -1234,7 +1926,16 @@
             "avatar": true,
             "crackships": true,
             "gifs": false,
-            "img": "https://boysbygirls.co.uk/uploads/imager/cc2bbf40a27afe11ddf77d1706b64b5e/149202/FC-1_146a30488795a0a62e41f68340c5291f.jpg"
+            "img": "https://boysbygirls.co.uk/uploads/imager/cc2bbf40a27afe11ddf77d1706b64b5e/149202/FC-1_146a30488795a0a62e41f68340c5291f.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "freida pinto",
@@ -1249,7 +1950,16 @@
             "avatar": true,
             "crackships": true,
             "gifs": false,
-            "img": "https://media.vogue.fr/photos/5c6446fe488cdc871bdf5025/master/w_1600%2Cc_limit/00009FreidaPinto-25Jan19-vogueint-RyanPfluger.jpg"
+            "img": "https://media.vogue.fr/photos/5c6446fe488cdc871bdf5025/master/w_1600%2Cc_limit/00009FreidaPinto-25Jan19-vogueint-RyanPfluger.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "froy gutierrez",
@@ -1264,7 +1974,16 @@
             "avatar": false,
             "crackships": true,
             "gifs": false,
-            "img": "https://media.wonderlandmagazine.com/uploads/2021/04/Froy-Gutierrez-Cover-Blank.jpg"
+            "img": "https://media.wonderlandmagazine.com/uploads/2021/04/Froy-Gutierrez-Cover-Blank.jpg",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "garrett hedlund",
@@ -1278,7 +1997,16 @@
             "avatar": true,
             "crackships": false,
             "gifs": false,
-            "img": "https://64.media.tumblr.com/de6cf7f3587186bdc8a32128f615af73/tumblr_pnxtd9e6EH1urv59mo3_500.png"
+            "img": "https://64.media.tumblr.com/de6cf7f3587186bdc8a32128f615af73/tumblr_pnxtd9e6EH1urv59mo3_500.png",
+            "datas": {
+                "gender": "cism",
+                "year": "80",
+                "eth": "white",
+                "nationality": "american",
+                "hair": "blondeh",
+                "eyes": "bluee",
+                "occupation": "actor singer musician"
+            }
         },
         {
             "name": "gal gadot",
@@ -1902,6 +2630,7 @@
             "avatar": true,
             "crackships": false,
             "gifs": true,
+            "icons": true,
             "img": "http://images6.fanpop.com/image/photos/34500000/Ksenia-Solo-lost-girl-34569636-1280-1920.jpg"
         },
         {
