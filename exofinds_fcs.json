@@ -702,7 +702,7 @@
             "nationality": "Australian",
             "occupation": "actress",
             "avatar": false,
-            "crackships": false,
+            "crackships": true,
             "gifs": true,
             "icons": false,
             "gificons": false,
