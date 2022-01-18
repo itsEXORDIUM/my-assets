@@ -1940,7 +1940,7 @@
             "eth": "Irish, English",
             "nationality": "British",
             "occupation": "actor",
-            "avatar": false,
+            "avatar": true,
             "crackships": true,
             "gifs": false,
             "icons": false,
