@@ -2,7 +2,7 @@
     "fcs": [
         {
             "name": "aaron johnson",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "13/06/1990",
             "eth": "English, Irish, Ashkenazi Jewish",
@@ -23,7 +23,7 @@
         },
         {
             "name": "aaron tveit",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "21/10/1983",
             "eth": "German, Norwegian, Swedish, Danish, English, Irish, Polish",
@@ -44,7 +44,7 @@
         },
         {
             "name": "abigail cowen",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "18/03/1998",
             "eth": "white",
@@ -65,7 +65,7 @@
         },
         {
             "name": "adam senn",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "10/03/1984",
             "eth": "white",
@@ -86,7 +86,7 @@
         },
         {
             "name": "adelaide kane",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "09/08/1990",
             "eth": "Scottish, French, Irish",
@@ -107,7 +107,7 @@
         },
         {
             "name": "adria arjona",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "25/04/1992",
             "eth": "Guatemalan, Puerto Rican",
@@ -128,7 +128,7 @@
         },
         {
             "name": "aimee carrero",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "15/07/1988",
             "eth": "Puerto Rican, Dominican",
@@ -149,7 +149,7 @@
         },
         {
             "name": "alexa demie",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "11/12/1990",
             "eth": "latin",
@@ -170,7 +170,7 @@
         },
         {
             "name": "alexander skarsgard",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "25/08/1976",
             "eth": "Swedish",
@@ -191,7 +191,7 @@
         },
         {
             "name": "alexis ren",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "23/11/1996",
             "eth": "Serbian, German, English, Irish",
@@ -212,7 +212,7 @@
         },
         {
             "name": "alice pagani",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "19/02/1998",
             "eth": "white",
@@ -233,7 +233,7 @@
         },
         {
             "name": "alicia vikander",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "03/10/1988",
             "eth": "Swedish",
@@ -254,7 +254,7 @@
         },
         {
             "name": "amanda seyfried",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "03/12/1985",
             "eth": "German, Welsh, Swiss-German, Scottish, Scots-Irish/Northern Irish, and English",
@@ -275,7 +275,7 @@
         },
         {
             "name": "ana de armas",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "30/04/1988",
             "eth": "Spanish",
@@ -296,7 +296,7 @@
         },
         {
             "name": "andy biersack",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "26/12/1990",
             "eth": "white",
@@ -317,7 +317,7 @@
         },
         {
             "name": "anthony mackie",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "23/09/1978",
             "eth": "African-American",
@@ -338,7 +338,7 @@
         },
         {
             "name": "anya chalotra",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "21/07/1996",
             "eth": "Kashmiri Indian, English",
@@ -359,7 +359,7 @@
         },
         {
             "name": "anya taylor joy",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "16/04/1996",
             "eth": "English, Scottish, Spanish",
@@ -380,7 +380,7 @@
         },
         {
             "name": "ash stymest",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "31/07/1991",
             "eth": "white",
@@ -401,7 +401,7 @@
         },
         {
             "name": "ashley moore",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "15/07/1993",
             "eth": "African/Caucasian- American",
@@ -422,7 +422,7 @@
         },
         {
             "name": "ashley tisdale",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "02/07/1985",
             "eth": "white",
@@ -443,7 +443,7 @@
         },
         {
             "name": "auli'i cravalho",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "22/11/2000",
             "eth": "Puerto Rican, Native Hawaiian, Portuguese, Chinese",
@@ -464,7 +464,7 @@
         },
         {
             "name": "avan jogia",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "09/02/1992",
             "eth": "Gujarati Indian, English, Welsh",
@@ -485,7 +485,7 @@
         },
         {
             "name": "beatrice laus",
-            "pseudo": "Beabadoobee",
+            "alias": "Beabadoobee",
             "gender": "cis woman",
             "birth": "03/06/2000",
             "eth": "Indigenous, English",
@@ -506,7 +506,7 @@
         },
         {
             "name": "becky gomez",
-            "pseudo": "becky g",
+            "alias": "becky g",
             "gender": "cis woman",
             "birth": "02/03/1997",
             "eth": "Mexican, Spanish",
@@ -527,7 +527,7 @@
         },
         {
             "name": "bella thorne",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "08/10/1997",
             "eth": "Italian, Cuban, Irish, English, German, Welsh",
@@ -548,7 +548,7 @@
         },
         {
             "name": "ben barnes",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "20/08/1981",
             "eth": "English, Dutch-German Jewish",
@@ -569,7 +569,7 @@
         },
         {
             "name": "billie eilish",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "18/12/2001",
             "eth": "irish, english",
@@ -590,7 +590,7 @@
         },
         {
             "name": "billie lourd",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "17/07/1992",
             "eth": "Ashkenazi Jewish, english, Scottish, Scots-Irish/Northern Irish, Welsh, German, Cajun/French",
@@ -611,7 +611,7 @@
         },
         {
             "name": "blanca suarez",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "21/10/1988",
             "eth": "Spanish",
@@ -632,7 +632,7 @@
         },
         {
             "name": "boyd holbrook",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "01/09/1981",
             "eth": "English, Scottish, Irish",
@@ -653,7 +653,7 @@
         },
         {
             "name": "brenda song",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "27/03/1988",
             "eth": "Hmong, Thai",
@@ -674,7 +674,7 @@
         },
         {
             "name": "bryan dechart",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "17/03/1987",
             "eth": "Scottish, German, English, Irish",
@@ -695,7 +695,7 @@
         },
         {
             "name": "bryana holly",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "12/07/1993",
             "eth": "Hawaiian, Slovenian, Russian, Japanese",
@@ -716,7 +716,7 @@
         },
         {
             "name": "bryden jenkins",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "12/09/1991",
             "eth": "white",
@@ -737,7 +737,7 @@
         },
         {
             "name": "caitlin stasey",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "01/05/1990",
             "eth": "English",
@@ -758,7 +758,7 @@
         },
         {
             "name": "caity lotz",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "30/12/1986",
             "eth": "white",
@@ -779,7 +779,7 @@
         },
         {
             "name": "camila cabello",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "03/03/1997",
             "eth": "Mexican, Cuban",
@@ -800,7 +800,7 @@
         },
         {
             "name": "candice swanepoel",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "20/10/1988",
             "eth": "Afrikaner, Belgian, Dutch, French, German",
@@ -821,7 +821,7 @@
         },
         {
             "name": "cara delevingne",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "12/08/1992",
             "eth": "English, Welsh, Ashkenazi Jewish",
@@ -842,7 +842,7 @@
         },
         {
             "name": "carolina porqueddu",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "17/11/1995",
             "eth": "white",
@@ -863,7 +863,7 @@
         },
         {
             "name": "casey deidrick",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "25/04/1987",
             "eth": "German, Irish, Italian",
@@ -884,7 +884,7 @@
         },
         {
             "name": "chace crawford",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "18/07/1985",
             "eth": "English, Scottish, Scots-Irish/Northern Irish, German",
@@ -905,7 +905,7 @@
         },
         {
             "name": "charleen weiss",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "29/04/1995",
             "eth": "caucasian, german",
@@ -926,7 +926,7 @@
         },
         {
             "name": "charlie heaton",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "06/02/1994",
             "eth": "English, Norwegian",
@@ -947,7 +947,7 @@
         },
         {
             "name": "charlie hunnam",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "10/04/1980",
             "eth": "English, Irish, Scottish",
@@ -968,7 +968,7 @@
         },
         {
             "name": "chloe moretz",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "10/02/1997",
             "eth": "white",
@@ -989,7 +989,7 @@
         },
         {
             "name": "chris evans",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "13/06/1981",
             "eth": "German, Irish, Italian, Welsh, English, Scottish",
@@ -1010,7 +1010,7 @@
         },
         {
             "name": "chris wood",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "14/04/1988",
             "eth": "English, Polish",
@@ -1031,7 +1031,7 @@
         },
         {
             "name": "christina nadin",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "07/03/1995",
             "eth": "Saudi Arabian",
@@ -1052,7 +1052,7 @@
         },
         {
             "name": "cillian murphy",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "25/05/1976",
             "eth": "Irish",
@@ -1073,7 +1073,7 @@
         },
         {
             "name": "cindy kimberly",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "16/11/1998",
             "eth": "Spanish, Indonesian",
@@ -1094,7 +1094,7 @@
         },
         {
             "name": "cole mohr",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "27/04/1986",
             "eth": "white",
@@ -1115,7 +1115,7 @@
         },
         {
             "name": "dakota johnson",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "04/10/1989",
             "eth": "English, Welsh, Swedish, German, Norwegian, Scots-Irish/Northern Irish, Irish, Scottish",
@@ -1136,7 +1136,7 @@
         },
         {
             "name": "damiano david",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "08/01/1999",
             "eth": "Italian",
@@ -1157,7 +1157,7 @@
         },
         {
             "name": "dane dehaan",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "06/02/1986",
             "eth": "Dutch, German, Italian/Sicilian, English",
@@ -1178,7 +1178,7 @@
         },
         {
             "name": "danielle campbell",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "30/01/1995",
             "eth": "German, Scottish, Cajun French, English, Irish",
@@ -1199,7 +1199,7 @@
         },
         {
             "name": "danielle rose russell",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "31/10/1999",
             "eth": "English German",
@@ -1220,7 +1220,7 @@
         },
         {
             "name": "danna paola",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "23/06/1995",
             "eth": "Mexican",
@@ -1241,7 +1241,7 @@
         },
         {
             "name": "romy flores",
-            "pseudo": "deathbyromy",
+            "alias": "deathbyromy",
             "gender": "cis woman",
             "birth": "19/12/1999",
             "eth": "White",
@@ -1262,7 +1262,7 @@
         },
         {
             "name": "dichen lachman",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "22/02/1982",
             "eth": "Nepali Tibetan, German, Mixed",
@@ -1283,7 +1283,7 @@
         },
         {
             "name": "diego barrueco",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "28/01/1991",
             "eth": "spanish",
@@ -1304,7 +1304,7 @@
         },
         {
             "name": "dove cameron",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "15/01/1996",
             "eth": "Austrian, German, French, English, Scottish, Swedish, Danish, Hungarian",
@@ -1325,7 +1325,7 @@
         },
         {
             "name": "dua lipa",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "22/08/1995",
             "eth": "Albanian, Bosniak",
@@ -1346,7 +1346,7 @@
         },
         {
             "name": "earth vangwithayakul",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "1994",
             "eth": "Thai, Danish",
@@ -1367,7 +1367,7 @@
         },
         {
             "name": "eiza gonzalez",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "30/01/1990",
             "eth": "Mexican, Spanish, Indigenous",
@@ -1388,7 +1388,7 @@
         },
         {
             "name": "elle fanning",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "09/04/1998",
             "eth": "German, English, Irish, French, Channel Islander",
@@ -1409,7 +1409,7 @@
         },
         {
             "name": "elizabeth gillies",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "26/07/1993",
             "eth": "white",
@@ -1430,7 +1430,7 @@
         },
         {
             "name": "elizabeth lail",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "25/03/1992",
             "eth": "English, German, Scottish",
@@ -1451,7 +1451,7 @@
         },
         {
             "name": "elizabeth olsen",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "16/02/1989",
             "eth": "Norwegian, English, German",
@@ -1472,7 +1472,7 @@
         },
         {
             "name": "emeraude toubia",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "01/03/1989",
             "eth": "Lebanese, Mexican",
@@ -1493,7 +1493,7 @@
         },
         {
             "name": "emily alyn lind",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "06/05/2002",
             "eth": "Swedish, German, English",
@@ -1514,7 +1514,7 @@
         },
         {
             "name": "emily browning",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "07/12/1988",
             "eth": "English",
@@ -1535,7 +1535,7 @@
         },
         {
             "name": "emma mackey",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "04/01/1996",
             "eth": "French, English",
@@ -1556,7 +1556,7 @@
         },
         {
             "name": "emma stone",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "06/11/1988",
             "eth": "Swedish, German, Welsh, Irish, English, Scottish, Swiss-German",
@@ -1577,7 +1577,7 @@
         },
         {
             "name": "ester exposito",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "26/01/2000",
             "eth": "English, Irish, Scottish, German",
@@ -1598,7 +1598,7 @@
         },
         {
             "name": "evan rachel wood",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "07/09/1987",
             "eth": "English, Irish, Scottish, German",
@@ -1619,7 +1619,7 @@
         },
         {
             "name": "ezra miller",
-            "pseudo": "",
+            "alias": "",
             "gender": "non binary",
             "birth": "30/09/1992",
             "eth": "Ashkenazi Jewish, German, Dutch",
@@ -1640,7 +1640,7 @@
         },
         {
             "name": "felicity jones",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "17/10/1983",
             "eth": "English, Italian",
@@ -1661,7 +1661,7 @@
         },
         {
             "name": "florence pugh",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "03/01/1996",
             "eth": "English, Irish",
@@ -1682,7 +1682,7 @@
         },
         {
             "name": "frank grillo",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "08/06/1965",
             "eth": "Italian",
@@ -1703,7 +1703,7 @@
         },
         {
             "name": "freddy carter",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "27/01/1993",
             "eth": "English",
@@ -1724,7 +1724,7 @@
         },
         {
             "name": "freida pinto",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "18/10/1984",
             "eth": "Konkani Indian",
@@ -1745,7 +1745,7 @@
         },
         {
             "name": "froy gutierrez",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "27/04/1998",
             "eth": "Mexican/Caxcan Indigenous, European",
@@ -1766,7 +1766,7 @@
         },
         {
             "name": "garrett hedlund",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "03/09/1984",
             "eth": "white",
@@ -1787,7 +1787,7 @@
         },
         {
             "name": "gal gadot",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "30/04/1985",
             "eth": "Ashkenazi Jewish",
@@ -1808,7 +1808,7 @@
         },
         {
             "name": "gemma arteton",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "02/02/1986",
             "eth": "English, Jewish",
@@ -1829,7 +1829,7 @@
         },
         {
             "name": "ashley frangipane",
-            "pseudo": "halsey",
+            "alias": "halsey",
             "gender": "cis woman",
             "birth": "29/09/1994",
             "eth": "African-American, Irish, Italian, Hungarian, Mixed",
@@ -1850,7 +1850,7 @@
         },
         {
             "name": "halston sage",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "10/05/1993",
             "eth": "Ashkenazi Jewish",
@@ -1871,7 +1871,7 @@
         },
         {
             "name": "hannah snowdon",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "19/01/1993",
             "eth": "white",
@@ -1892,7 +1892,7 @@
         },
         {
             "name": "hayley kiyoko",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "03/04/1991",
             "eth": "Japanese, Scottish, Welsh, German",
@@ -1913,7 +1913,7 @@
         },
         {
             "name": "henry cavill",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "05/05/1983",
             "eth": "english, irish, scottish",
@@ -1934,7 +1934,7 @@
         },
         {
             "name": "herman tømmeraas",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "02/04/1997",
             "eth": "Norwegian",
@@ -1955,7 +1955,7 @@
         },
         {
             "name": "hugh dancy",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "19/07/1975",
             "eth": "English, Welsh, Scottish",
@@ -1976,7 +1976,7 @@
         },
         {
             "name": "hunter schafer",
-            "pseudo": "",
+            "alias": "",
             "gender": "trans woman",
             "birth": "31/12/1998",
             "eth": "white",
@@ -1997,7 +1997,7 @@
         },
         {
             "name": "idris elba",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "06/09/1972",
             "eth": "Sierra Leonean, Ghanaian",
@@ -2018,7 +2018,7 @@
         },
         {
             "name": "inbar lavi",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "27/10/1986",
             "eth": "Polish Jewish, Moroccan Jewish",
@@ -2039,7 +2039,7 @@
         },
         {
             "name": "india eisley",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "29/10/1993",
             "eth": "English, Argentinian, Scottish, German",
@@ -2060,7 +2060,7 @@
         },
         {
             "name": "jack falahee",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "20/02/1989",
             "eth": "Irish, Italian, German, Swiss, English",
@@ -2081,7 +2081,7 @@
         },
         {
             "name": "jack o'connell",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "01/08/1990",
             "eth": "Irish, English",
@@ -2102,7 +2102,7 @@
         },
         {
             "name": "jade thirlwall",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "26/12/1992",
             "eth": "Egyptian, Yemenite, Macedonian Greek, English",
@@ -2123,7 +2123,7 @@
         },
         {
             "name": "jake bass",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "22/02/1991",
             "eth": "white",
@@ -2144,7 +2144,7 @@
         },
         {
             "name": "jake gyllenhaal",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "19/12/1980",
             "eth": "Swedish, English, Swiss-German, German, Scottish, Ashkenazi Jewish",
@@ -2165,7 +2165,7 @@
         },
         {
             "name": "jaimie alexander",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "12/03/1984",
             "eth": "German, English, Welsh, Scots-Irish/Northern Irish",
@@ -2186,7 +2186,7 @@
         },
         {
             "name": "jamie campbell bower",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "22/11/1988",
             "eth": "English, Scottish",
@@ -2207,7 +2207,7 @@
         },
         {
             "name": "jared leto",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "26/12/1971",
             "eth": "white",
@@ -2228,7 +2228,7 @@
         },
         {
             "name": "jelle haen",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "eth": "white",
             "nationality": "dutch",
@@ -2248,7 +2248,7 @@
         },
         {
             "name": "jenna coleman",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "27/04/1986",
             "eth": "English",
@@ -2269,7 +2269,7 @@
         },
         {
             "name": "jenna ortega",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "27/09/2002",
             "eth": "Mexican, Puerto Rican",
@@ -2290,7 +2290,7 @@
         },
         {
             "name": "jeremy irvine",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "18/06/1990",
             "eth": "white",
@@ -2311,7 +2311,7 @@
         },
         {
             "name": "jessica alba",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "28/04/1981",
             "eth": "Mexican , Spanish, Danish, Welsh, English, Scottish, Scots-Irish/Northern Irish, French",
@@ -2332,7 +2332,7 @@
         },
         {
             "name": "joel kinnaman",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "25/11/1979",
             "eth": "German, English, Scottish, Irish, Swedish, Ashkenazi Jewish",
@@ -2353,7 +2353,7 @@
         },
         {
             "name": "jimmi simpson",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "21/11/1975",
             "eth": "English",
@@ -2374,7 +2374,7 @@
         },
         {
             "name": "joseph gilgun",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "09/03/1984",
             "eth": "white",
@@ -2395,7 +2395,7 @@
         },
         {
             "name": "jung hoyeon",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "23/06/1994",
             "eth": "South Korean",
@@ -2416,7 +2416,7 @@
         },
         {
             "name": "kallie kaiser",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "13/08/1996",
             "eth": "white",
@@ -2437,7 +2437,7 @@
         },
         {
             "name": "kailee morgue",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "15/07/1998",
             "eth": "white",
@@ -2458,7 +2458,7 @@
         },
         {
             "name": "karen gillan",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "28/11/1987",
             "eth": "Scottish",
@@ -2479,7 +2479,7 @@
         },
         {
             "name": "kat dennings",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "13/06/1986",
             "eth": "Ashkenazi Jewish",
@@ -2500,7 +2500,7 @@
         },
         {
             "name": "kate beckinsale",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "26/07/1973",
             "eth": "English, Burmese",
@@ -2521,7 +2521,7 @@
         },
         {
             "name": "katheryn winnick",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "17/12/1977",
             "eth": "Ukrainian",
@@ -2542,7 +2542,7 @@
         },
         {
             "name": "katie loo",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "28/03/1986",
             "eth": "white",
@@ -2563,7 +2563,7 @@
         },
         {
             "name": "katrina law",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "30/09/1985",
             "eth": "German, Italian, Taiwanese",
@@ -2584,7 +2584,7 @@
         },
         {
             "name": "kelsey chow",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "09/09/1991",
             "eth": "Chinese Taiwanese, English, German",
@@ -2605,7 +2605,7 @@
         },
         {
             "name": "kit harington",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "26/12/1986",
             "eth": "English, Scottish, Northern Irish, Welsh, Dutch",
@@ -2626,7 +2626,7 @@
         },
         {
             "name": "kristen stewart",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "09/04/1990",
             "eth": "English, Irish, Scottish, Welsh, Scots-Irish/Northern Irish, Ashkenazi Jewish",
@@ -2647,7 +2647,7 @@
         },
         {
             "name": "kristine froseth",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "21/09/1995",
             "eth": "Norwegian",
@@ -2668,7 +2668,7 @@
         },
         {
             "name": "ksenia solo",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "08/10/1987",
             "eth": "Russian, Baltic German",
@@ -2689,7 +2689,7 @@
         },
         {
             "name": "laurel thoma",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "23/03/1997",
             "eth": "unknown",
@@ -2710,7 +2710,7 @@
         },
         {
             "name": "lauren jauregui",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "27/06/1996",
             "eth": "Cuban",
@@ -2731,7 +2731,7 @@
         },
         {
             "name": "lil nas x",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "09/04/1999",
             "eth": "African-American",
@@ -2752,7 +2752,7 @@
         },
         {
             "name": "lily collins",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "18/03/1989",
             "eth": "English, German, Ashkenazi Jewish",
@@ -2773,7 +2773,7 @@
         },
         {
             "name": "juliet simms",
-            "pseudo": "lilith czar",
+            "alias": "lilith czar",
             "gender": "cis woman",
             "birth": "26/02/1986",
             "eth": "white",
@@ -2794,7 +2794,7 @@
         },
         {
             "name": "lucky blue smith",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "04/06/1998",
             "eth": "English",
@@ -2815,7 +2815,7 @@
         },
         {
             "name": "lucy liu",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "02/12/1968",
             "eth": "Han Chinese",
@@ -2836,7 +2836,7 @@
         },
         {
             "name": "lynn gunn",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "15/03/1994",
             "eth": "white",
@@ -2857,7 +2857,7 @@
         },
         {
             "name": "cody christian",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "15/04/1995",
             "eth": "English, Penobscot Native American and Passamaquody Native American",
@@ -2878,7 +2878,7 @@
         },
         {
             "name": "colson baker",
-            "pseudo": "machine gun kelly",
+            "alias": "machine gun kelly",
             "gender": "cis man",
             "birth": "22/04/1990",
             "eth": "Norwegian, English, German, Scottish",
@@ -2899,7 +2899,7 @@
         },
         {
             "name": "madelaine petsch",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "18/08/1994",
             "eth": "Afrikaner",
@@ -2920,7 +2920,7 @@
         },
         {
             "name": "madison beer",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "05/03/1999",
             "eth": "white",
@@ -2941,7 +2941,7 @@
         },
         {
             "name": "maggie lindemann",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "21/07/1998",
             "eth": "English, German, Irish, Scots-Irish/Northern Irish, Scottish, Welsh",
@@ -2962,7 +2962,7 @@
         },
         {
             "name": "maia mitchell",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "18/08/1993",
             "eth": "English",
@@ -2983,7 +2983,7 @@
         },
         {
             "name": "maika monroe",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "29/05/1993",
             "eth": "English, Irish, Scottish, Icelandic",
@@ -3004,7 +3004,7 @@
         },
         {
             "name": "markel williams",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "05/09/1995",
             "eth": "African-American",
@@ -3025,7 +3025,7 @@
         },
         {
             "name": "matthew daddario",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "01/10/1987",
             "eth": "Italian, Hungarian/Slovak, English, German, Irish",
@@ -3046,7 +3046,7 @@
         },
         {
             "name": "matthew gray gubler",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "09/03/1980",
             "eth": "Swiss-German, German, English, Irish, Manx, Scottish, Dutch",
@@ -3067,7 +3067,7 @@
         },
         {
             "name": "maxence danet-fauvel",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "27/06/1993",
             "eth": "white",
@@ -3088,7 +3088,7 @@
         },
         {
             "name": "megan fox",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "16/05/1986",
             "eth": "English",
@@ -3109,7 +3109,7 @@
         },
         {
             "name": "michiel huisman",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "18/07/1981",
             "eth": "Dutch-Ashkenazi Jewish",
@@ -3130,7 +3130,7 @@
         },
         {
             "name": "misha collins",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "20/08/1974",
             "eth": "English, German, Ashkenazi Jewish, Scottish, Irish",
@@ -3151,7 +3151,7 @@
         },
         {
             "name": "natalia dyer",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "13/01/1995",
             "eth": " English, Bohemian Czech, Finland-Swedish, Ukrainian",
@@ -3172,7 +3172,7 @@
         },
         {
             "name": "nathalie kelley",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "05/10/1984",
             "eth": "Argentinian, Peruvian",
@@ -3193,7 +3193,7 @@
         },
         {
             "name": "nicola peltz",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "09/01/1995",
             "eth": "Ashkenazi Jewish, Italian, German, Welsh, English",
@@ -3214,7 +3214,7 @@
         },
         {
             "name": "nyane lebajoa",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "31/03/1994",
             "eth": "South African",
@@ -3235,7 +3235,7 @@
         },
         {
             "name": "olivia cooke",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "27/12/1993",
             "eth": "English",
@@ -3256,7 +3256,7 @@
         },
         {
             "name": "otto seppalainen",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "04/04/1994",
             "eth": "White",
@@ -3277,7 +3277,7 @@
         },
         {
             "name": "perrie edwards",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "10/07/1993",
             "eth": "English, Scottish, Irish",
@@ -3298,7 +3298,7 @@
         },
         {
             "name": "phoebe tonkin",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "12/07/1989",
             "eth": "English",
@@ -3319,7 +3319,7 @@
         },
         {
             "name": "pia kristine cruz",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "eth": "asian",
             "nationality": "",
@@ -3339,7 +3339,7 @@
         },
         {
             "name": "rachel weisz",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "07/03/1970",
             "eth": "Ashkenazi Jewish and Austrian-Italian",
@@ -3360,7 +3360,7 @@
         },
         {
             "name": "rami malek",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "12/05/1981",
             "eth": "Egyptian, Greek",
@@ -3381,7 +3381,7 @@
         },
         {
             "name": "remington leith",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "05/05/1994",
             "eth": "white",
@@ -3402,7 +3402,7 @@
         },
         {
             "name": "richard madden",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "18/06/1986",
             "eth": "Irish, Scottish",
@@ -3423,7 +3423,7 @@
         },
         {
             "name": "robbie amell",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "21/03/1988",
             "eth": " English, Scottish, German, Irish, French-Canadian",
@@ -3444,7 +3444,7 @@
         },
         {
             "name": "robert downey jr",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "04/04/1965",
             "eth": "Ashkenazi Jewish, English, Scottis, German, Swiss-German, Irish",
@@ -3465,7 +3465,7 @@
         },
         {
             "name": "robert sheehan",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "07/01/1988",
             "eth": "Irish",
@@ -3486,7 +3486,7 @@
         },
         {
             "name": "sabrina carpenter",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "11/05/1999",
             "eth": "German, Scottish, English, Irish",
@@ -3507,7 +3507,7 @@
         },
         {
             "name": "sebastian stan",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "13/08/1982",
             "eth": "Romanian",
@@ -3528,7 +3528,7 @@
         },
         {
             "name": "selena gomez",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "22/07/1992",
             "eth": "Mexican, Italian",
@@ -3549,7 +3549,7 @@
         },
         {
             "name": "sen mitsuji",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "26/11/1987",
             "eth": "Japanese, Australian",
@@ -3570,7 +3570,7 @@
         },
         {
             "name": "shay mitchell",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "10/04/1987",
             "eth": "Irish, Scottish, Filipino, Spanish",
@@ -3591,7 +3591,7 @@
         },
         {
             "name": "sky ferreira",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "08/07/1992",
             "eth": "white",
@@ -3612,7 +3612,7 @@
         },
         {
             "name": "skye sweetnam",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "05/05/1988",
             "eth": "white",
@@ -3633,7 +3633,7 @@
         },
         {
             "name": "sofia boutella",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "03/04/1982",
             "eth": "Algerian",
@@ -3654,7 +3654,7 @@
         },
         {
             "name": "stephanie cam",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "14/07/1992",
             "eth": "latin",
@@ -3675,7 +3675,7 @@
         },
         {
             "name": "swantje paulina",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "10/05/1996",
             "eth": "White",
@@ -3696,7 +3696,7 @@
         },
         {
             "name": "sydney sweeney",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "12/09/1997",
             "eth": "Irish, English",
@@ -3717,7 +3717,7 @@
         },
         {
             "name": "taylor momsen",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "26/07/1993",
             "eth": "German",
@@ -3738,7 +3738,7 @@
         },
         {
             "name": "thomas brodie sangster",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "16/05/1990",
             "eth": "Scottish, English",
@@ -3759,7 +3759,7 @@
         },
         {
             "name": "tom hardy",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "15/09/1977",
             "eth": "english",
@@ -3780,7 +3780,7 @@
         },
         {
             "name": "tom holland",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "01/06/1996",
             "eth": "English, Irish",
@@ -3801,7 +3801,7 @@
         },
         {
             "name": "ursula corbero",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "11/08/1989",
             "eth": "Catalan, Spanish",
@@ -3822,7 +3822,7 @@
         },
         {
             "name": "vanessa morgan",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "23/03/1992",
             "eth": "Tanzanian, Scottish",
@@ -3843,7 +3843,7 @@
         },
         {
             "name": "vanja jagnic",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "30/08/1995",
             "eth": "serbian",
@@ -3864,7 +3864,7 @@
         },
         {
             "name": "victoria de angelis",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "28/03/2000",
             "eth": "Mixed",
@@ -3885,7 +3885,7 @@
         },
         {
             "name": "victoria pedretti",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "23/03/1995",
             "eth": "Italian, Swiss-Italian, Austrian, Sudeten German, English, German, Ashkenazi Jewish",
@@ -3906,7 +3906,7 @@
         },
         {
             "name": "vika bronova",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "05/05/1997",
             "eth": "Ukrainian",
@@ -3927,7 +3927,7 @@
         },
         {
             "name": "willy cartier",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "15/09/1991",
             "eth": "French, Vietnamese, Senegalese",
@@ -3948,7 +3948,7 @@
         },
         {
             "name": "xavier samuel",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "10/12/1983",
             "eth": "Scottish, Irish",
@@ -3969,7 +3969,7 @@
         },
         {
             "name": "yulia rose",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "06/03/1996",
             "eth": "russian",
@@ -3990,7 +3990,7 @@
         },
         {
             "name": "dominic harrison",
-            "pseudo": "yungblud",
+            "alias": "yungblud",
             "gender": "cis man",
             "birth": "05/08/1997",
             "eth": "white",
@@ -4011,7 +4011,7 @@
         },
         {
             "name": "yuri pleskun",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis man",
             "birth": "14/05/1990",
             "eth": "russian",
@@ -4032,7 +4032,7 @@
         },
         {
             "name": "zendaya coleman",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "01/09/1996",
             "eth": "African-American, German, Irish, English, Scottish",
@@ -4053,7 +4053,7 @@
         },
         {
             "name": "zoe kravitz",
-            "pseudo": "",
+            "alias": "",
             "gender": "cis woman",
             "birth": "01/12/1988",
             "eth": "African-American/African-Bahamian, Ashkenazi Jewish",
