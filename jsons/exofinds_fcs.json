@@ -3632,6 +3632,27 @@
             "img": "https://pbs.twimg.com/media/DcxqptHWAAAeBTV.jpg"
         },
         {
+            "name": "Robert Pattinson",
+            "alias": "",
+            "gender": "cis man",
+            "birth": "13/05/1986",
+            "eth": "english",
+            "nationality": "english",
+            "occupation": "actor, musician, producer, model",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "icons": false,
+            "gificons": false,
+            "tattoos": "",
+            "dyear": "80",
+            "deth": "white",
+            "dhair": "blondeh",
+            "deyes": "hazele",
+            "doccupation": "actor musician producer model",
+            "img": "https://media.gq.com/photos/61fac1d0e9c82d7466e91c02/master/w_2000,h_2667,c_limit/robert-pattinson-gq-cover-march-2022-15_d.jpg"
+        },
+        {
             "name": "robert sheehan",
             "alias": "",
             "gender": "cis man",
