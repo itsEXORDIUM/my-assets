@@ -2017,7 +2017,7 @@
             "img": "http://images6.fanpop.com/image/photos/39900000/Gal-Gadot-Interview-Russia-Photoshoot-2016-gal-gadot-39964711-926-1200.jpg"
         },
         {
-            "name": "gemma arteton",
+            "name": "gemma arterton",
             "alias": "",
             "gender": "cis woman",
             "birth": "02/02/1986",
@@ -2812,6 +2812,27 @@
             "deyes": "browne",
             "doccupation": "actor",
             "img": "https://s11.favim.com/orig/181101/chow-cosmo-kelsey-magazin-Favim.com-5317941.jpeg"
+        },
+        {
+            "name": "kevin creekman",
+            "alias": "",
+            "gender": "cis man",
+            "birth": "17/07/1988",
+            "eth": "",
+            "nationality": "swiss",
+            "occupation": "model tattoo-artist influencer",
+            "avatar": true,
+            "crackships": false,
+            "gifs": false,
+            "icons": false,
+            "gificons": false,
+            "tattoos": "tattoos",
+            "dyear": "80",
+            "deth": "white",
+            "dhair": "blondeh",
+            "deyes": "bluee",
+            "doccupation": "model tattoo-artist influencer",
+            "img": "https://cdn.shopify.com/s/files/1/0019/9249/1067/files/bodafinal2.jpeg?v=1562745154"
         },
         {
             "name": "kit harington",
