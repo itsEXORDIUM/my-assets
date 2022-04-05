@@ -1,7 +1,7 @@
 ---
 fcs:
 - name: aaron johnson
-  alias: ""
+  alias: ''
   gender: cis man
   birth: 13/06/1990
   eth: English, Irish, Ashkenazi Jewish
@@ -340,7 +340,7 @@ fcs:
   deth: asian
   dhair: brownh
   deyes: browne
-  doccupation: ''
+  doccupation: musician
   img: https://assets-global.website-files.com/5db63dc519de55e028ef4816/60d18124fcfb2c91170553a5_Andy%20Blossom%20(1).jpg
 - name: anjelica bette fellini
   alias: ''
@@ -589,6 +589,25 @@ fcs:
   deyes: browne blacke
   doccupation: actor singer musician
   img: https://i.pinimg.com/originals/be/3e/78/be3e786239bef63175775dc3bb67c7c8.jpg
+- name: BILL SKARSGARD
+  alias:
+  gender: cis man
+  birth: 09/08/1990
+  eth: swedish
+  nationality: swedish
+  occupation: actor, model
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: 90
+  deth: swedish
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor model
+  img: https://wwd.com/wp-content/uploads/2019/08/bill-skarsgard-1.jpg?w=800
 - name: billie eilish
   alias: ''
   gender: cis woman
@@ -2092,6 +2111,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://www.thefashionisto.com/wp-content/uploads/2019/06/Jack-OConnell-2019-The-Last-Magazine-004.jpg
+- name: jade tailor
+  alias: ''
+  gender: cis woman
+  birth: 12/08/1985
+  eth: Ashkenazi Jewish, German, English, Irish, Dutch, Scottish
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: jewish germanic white
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/736x/dc/69/6a/dc696ae28ac61df921cd2a0dc7e83a5f.jpg
 - name: jade thirlwall
   alias: ''
   gender: cis woman
@@ -2206,6 +2244,25 @@ fcs:
   deyes: bluee
   doccupation: actor singer musician
   img: https://ilarge.lisimg.com/image/6759751/853full-jared-leto.jpg
+- name: jeffrey dean morgan
+  alias: ''
+  gender: cis man
+  birth: 22/4/1966
+  eth: welsh, irish, english
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '60'
+  deth: white
+  dhair: brownh grayh
+  deyes: bluee
+  doccupation: actor
+  img: http://images6.fanpop.com/image/photos/43000000/Jeffrey-Dean-Morgan-Esquire-Mexico-Photoshoot-2016-jeffrey-dean-morgan-43037016-1510-2006.jpg
 - name: jelle haen
   alias: ''
   gender: cis man
@@ -2320,6 +2377,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.thefashionisto.com/wp-content/uploads/2019/06/Joel-Kinnaman-2019-Mens-Journal-005.jpg
+- name: Jon Bernthal
+  alias: ''
+  gender: cis man
+  birth: 20/09/1976
+  eth: Ashkenazi Jewish
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: jewish
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://64.media.tumblr.com/98ea81f5b5ab21752bea8ccea8cc79e1/696b1cbd63608ea1-bc/s1280x1920/5f934c680e923d89ff5768a2c455aa579aaeea3e.jpg
 - name: jimmi simpson
   alias: ''
   gender: cis man
@@ -3441,6 +3517,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://i.pinimg.com/1200x/34/44/d7/3444d76425bd160951bf42f284e05fec.jpg
+- name: rebecca breeds
+  alias: ''
+  gender: cis woman
+  birth: 17/06/1987
+  eth: english
+  nationality: australian
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: white
+  dhair: brownh blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/474x/f5/ec/69/f5ec69ec7102925340b456799205cad9.jpg
 - name: remington leith
   alias: ''
   gender: cis man
@@ -3950,7 +4045,7 @@ fcs:
   tattoos: ''
   dyear: '90'
   deth: jewish white afrikaner
-  dhair: bronwh
+  dhair: brownh
   deyes: bluee
   doccupation: singer musician actor influencer
   img: https://i.pinimg.com/originals/e8/b3/f2/e8b3f25b1ccc87f6f9d7ad51bf2f2180.png
