@@ -1,0 +1,24 @@
+{
+  "name": "my-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsEXORDIUM/my-json.git"
+  },
+  "author": "exordium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsEXORDIUM/my-json/issues"
+  },
+  "homepage": "https://github.com/itsEXORDIUM/my-json#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-debug": "^4.0.0",
+    "gulp-yaml": "^2.0.4"
+  }
+}
