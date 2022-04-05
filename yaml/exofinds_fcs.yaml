@@ -589,7 +589,7 @@ fcs:
   deyes: browne blacke
   doccupation: actor singer musician
   img: https://i.pinimg.com/originals/be/3e/78/be3e786239bef63175775dc3bb67c7c8.jpg
-- name: BILL SKARSGARD
+- name: bill skarsgard
   alias:
   gender: cis man
   birth: 09/08/1990
@@ -602,7 +602,7 @@ fcs:
   icons: false
   gificons: false
   tattoos:
-  dyear: 90
+  dyear: "90"
   deth: swedish
   dhair: brownh
   deyes: bluee
@@ -1332,6 +1332,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://mediaslide-europe.storage.googleapis.com/uno/pictures/2784/35977/large-1523545475-e52a4605a538665253c596a2df2d3bdb.jpg
+- name: dorothy martin
+  alias: dorothy
+  gender: cis woman
+  birth: 11/04/1986
+  eth: white
+  nationality: hungarian
+  occupation: singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: tattoos
+  dyear: "80"
+  deth: white
+  dhair: brownh blackh
+  deyes: hazele
+  doccupation: singer musician
+  img: https://m.media-amazon.com/images/M/MV5BZmE4MTQ5ODItNGY4MC00MGYzLTljZmMtNGNiZDlmNmNlZGIyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY1200_CR85,0,630,1200_AL_.jpg
 - name: dove cameron
   alias: ''
   gender: cis woman
@@ -3195,6 +3214,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://www.thefashionisto.com/wp-content/uploads/2015/05/Michiel-Huisman-Interview-Magazine-2015-Photo-Shoot-002.jpg
+- name: milo ventimiglia
+  alias:
+  gender: cis man
+  birth: 08/07/1977
+  eth: italian, sicilian, english, scottish
+  nationality: american
+  occupation: actor, director, producer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: "70"
+  deth: white
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.thefashionisto.com/wp-content/uploads/2017/12/Milo-Ventimiglia-2017-Los-Angeles-Confidential-Photo-Shoot-002.jpg
 - name: mina el hammani
   alias: ''
   gender: cis woman
