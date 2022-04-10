@@ -628,8 +628,8 @@ fcs:
   doccupation: actor singer musician
   img: https://i.pinimg.com/originals/be/3e/78/be3e786239bef63175775dc3bb67c7c8.jpg
 - name: bill skarsgard
-  alias:
-  gender: cis man
+  alias: ''
+  gender: "cis man"
   birth: 09/08/1990
   eth: swedish
   nationality: swedish
@@ -639,12 +639,12 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ""
   dyear: "90"
-  deth: swedish
-  dhair: brownh
-  deyes: bluee
-  doccupation: actor model
+  deth: "swedish"
+  dhair: "brownh"
+  deyes: "bluee"
+  doccupation: "actor model"
   img: https://wwd.com/wp-content/uploads/2019/08/bill-skarsgard-1.jpg?w=800
 - name: billie eilish
   alias: ''
