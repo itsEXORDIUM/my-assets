@@ -152,25 +152,6 @@ fcs:
   deyes: greene
   doccupation: actor singer musician
   img: https://www.interviewmagazine.com/wp-content/uploads/2014/04/img-aimee-carrero_110626251373.jpg
-- name: Andrea Joy Cook
-  alias: aj cook
-  gender: cis woman
-  birth: 22/07/1978
-  eth: English, Scottish, Northern Irish
-  nationality: canadian
-  occupation: actress
-  avatar: true
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  tattoos: ''
-  dyear: '70'
-  deth: white
-  dhair: blondeh
-  deyes: bluee
-  doccupation: actor
-  img: https://celebmafia.com/wp-content/uploads/2018/09/a.j.-cook-photoshoot-for-watch-magazine-11.jpg
 - name: alexa demie
   alias: ''
   gender: cis woman
@@ -180,7 +161,7 @@ fcs:
   occupation: actress musician
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -304,6 +285,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.xtrafondos.com/en/descargar.php?id=8849&vertical=1
+- name: Andrea Joy Cook
+  alias: aj cook
+  gender: cis woman
+  birth: 22/07/1978
+  eth: English, Scottish, Northern Irish
+  nationality: canadian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: white
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://celebmafia.com/wp-content/uploads/2018/09/a.j.-cook-photoshoot-for-watch-magazine-11.jpg
 - name: andy biersack
   alias: ''
   gender: cis man
@@ -361,6 +361,25 @@ fcs:
   deyes: browne
   doccupation: actor model
   img: https://images.squarespace-cdn.com/content/v1/53c71197e4b0db5fbd4fa87e/1599003839049-X2OQN42GVQFIUA3YADBL/ROSE+%26+IVY+Journal+Anjelica+Bette+Fellini+Takes+A+Walk+in+New+York%27s+91st+Street+Flower+Garden?format=1000w
+- name: anouchka gauthier
+  alias:
+  gender: cis woman
+  birth: 1997
+  eth:
+  nationality: french
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: '90'
+  deth: white
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model
+  img: https://iv1.lisimg.com/image/22884654/720full-anouchka-gauthier.jpg
 - name: anthony mackie
   alias: ''
   gender: cis man
@@ -380,6 +399,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://64.media.tumblr.com/d8c314dda8602381a56ef3331490b9cc/tumblr_o7qinglnS51vtiadio1_540.jpg
+- name: anton lisin
+  alias:
+  gender: cis man
+  birth: 1992
+  eth: russian
+  nationality: russian
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: '90'
+  deth: russian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model
+  img: https://64.media.tumblr.com/8734fe5246bbe6b707799c5bc1361822/tumblr_mp62gjLauv1rn8m5oo1_500.jpg
 - name: anya chalotra
   alias: ''
   gender: cis woman
@@ -2624,6 +2662,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://celebmafia.com/wp-content/uploads/2015/12/katrina-law-photoshoot-for-maxim-magazine-december-2015-_1.jpg
+- name: keanu reeves
+  alias:
+  gender: cis man
+  birth: 02/09/1964
+  eth: Native Hawaiian, Portuguese, English, Scottish
+  nationality: canadian
+  occupation: actor, musician, director, writer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: '60'
+  deth: white hawaiian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor musician
+  img: https://i.pinimg.com/originals/9e/f9/40/9ef940a3395d69f49533a20951459960.jpg
 - name: kelsey chow
   alias: ''
   gender: cis woman
@@ -2967,6 +3024,25 @@ fcs:
   deyes: bluee
   doccupation: rapper singer musician actor
   img: https://64.media.tumblr.com/afac2604bdc00a1c21a7ce974101d4d5/cd956be5e73f8731-d3/s1280x1920/136ea121b0683043005f7c9055de522bc8d6b4a5.jpg
+- name: maddie ziegler
+  alias:
+  gender: cis woman
+  birth: 30/09/2002
+  eth: German, Polish, Italian, Scottish
+  nationality: american
+  occupation: dancer, actress, model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: '00'
+  deth: germanic white
+  dhair: brownh blondeh
+  deyes: bluee
+  doccupation: dancer actor model
+  img: https://www.theplace2.ru/archive/maddie_ziegler/img/maddie-ziegler-photo(5).jpg
 - name: madelaine petsch
   alias: ''
   gender: cis woman
@@ -3517,6 +3593,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://i.pinimg.com/originals/52/28/86/5228868ec90481dd94a89b4f0c10c536.jpg
+- name: polly ellens
+  alias:
+  gender: cis woman
+  birth:
+  eth: english
+  nationality: english
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: tattoos freckles
+  dyear:
+  deth: white
+  dhair: redh gingerh
+  deyes: bluee
+  doccupation: model
+  img: https://i.pinimg.com/564x/66/ae/b4/66aeb4be5a73d7462049580d419a753a.jpg
 - name: rachel weisz
   alias: ''
   gender: cis woman
@@ -3840,6 +3935,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://backend.unikomodels.com/wp-content/uploads/2019/09/BOOK-SHEROUK-FARID-14.jpg
+- name: simone ashley
+  alias:
+  gender: cis woman
+  birth: 30/03/1995
+  eth: Indian Tamil
+  nationality: English
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: '90'
+  deth: indian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.hawtcelebs.com/wp-content/uploads/2022/03/simone-ashley-for-net-a-porter-march-2022-8.jpg
 - name: sky ferreira
   alias: ''
   gender: cis woman
@@ -3916,6 +4030,25 @@ fcs:
   deyes: browne
   doccupation: actor singer musician
   img: https://media.allure.com/photos/6166e98e7fd8a844dca17385/master/pass/Sofia%20Carson%20Allure%20Talking%20Beauty-01.jpg
+- name: sophie turner
+  alias:
+  gender: cis woman
+  birth: 21/02/1996
+  eth: english
+  nationality: english
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: '90'
+  deth: white
+  dhair: redh gingerh blondeh
+  deyes: bluee
+  doccupation: actress
+  img: https://i.pinimg.com/originals/46/ae/ec/46aeecca88e3bde1494161410005fa46.jpg
 - name: stephanie cam
   alias: ''
   gender: cis woman
@@ -4011,6 +4144,25 @@ fcs:
   deyes: bluee
   doccupation: singer musician model actor
   img: https://boloround3.files.wordpress.com/2018/10/taylor_momsen_2013_indira_cesarine_photoshoot_for_untitled_magazine_19.jpg
+- name: tessa thompson
+  alias:
+  gender: cis woman
+  birth: 03/10/1983
+  eth: African-Panamanian, Mexican, English, German, Scottish, Irish
+  nationality: american
+  occupation: actress, musician
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: '80'
+  deth: black hispanic white
+  dhair: brownh
+  deyes: browne
+  doccupation: actor musician
+  img: https://hashtaglegend.com/wp-content/uploads/2020/08/10-AUG-2020_PORTER_TESSA-THOMPSON_COURTESY-OF-NET-A-PORTER-2-768x1024.jpg
 - name: thomas brodie sangster
   alias: ''
   gender: cis man
