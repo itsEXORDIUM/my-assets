@@ -119,7 +119,7 @@ fcs:
   gender: cis woman
   birth: 25/04/1992
   eth: Guatemalan, Puerto Rican
-  nationality: Puerto Rican
+  nationality: Puerto-Rican
   occupation: actress
   avatar: true
   crackships: false
@@ -1261,7 +1261,7 @@ fcs:
   gender: cis man
   birth: 16/06/1978
   eth: German, Spanish
-  nationality: German, Spanish
+  nationality: German Spanish
   occupation: Actor
   avatar: true
   crackships: false
@@ -4225,7 +4225,7 @@ fcs:
   gender: cis man
   birth: 16/08/1975
   eth: Māori, Irish, English, Scottish, Northern Irish, Ashkenazi Jewish
-  nationality: New Zealander
+  nationality: New-Zealander
   occupation: director, screenwriter, actor, comedian
   avatar: true
   crackships: false
