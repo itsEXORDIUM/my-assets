@@ -4,7 +4,7 @@ const { src, dest, watch, series } = require('gulp');
 
 function toJson() {
     return src('./yaml/exofinds_fcs.yaml')
-        .pipe(yaml({ space: 2 }))
+        .pipe(yaml({ safe: true }))
         .pipe(dest('./jsons/'))
 }
 
