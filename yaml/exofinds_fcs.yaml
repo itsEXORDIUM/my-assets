@@ -362,10 +362,10 @@ fcs:
   doccupation: actor model
   img: https://images.squarespace-cdn.com/content/v1/53c71197e4b0db5fbd4fa87e/1599003839049-X2OQN42GVQFIUA3YADBL/ROSE+%26+IVY+Journal+Anjelica+Bette+Fellini+Takes+A+Walk+in+New+York%27s+91st+Street+Flower+Garden?format=1000w
 - name: anouchka gauthier
-  alias:
+  alias: ''
   gender: cis woman
   birth: 1997
-  eth:
+  eth: ''
   nationality: french
   occupation: model
   avatar: true
@@ -373,7 +373,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: '90'
   deth: white
   dhair: blondeh
@@ -400,7 +400,7 @@ fcs:
   doccupation: actor
   img: https://64.media.tumblr.com/d8c314dda8602381a56ef3331490b9cc/tumblr_o7qinglnS51vtiadio1_540.jpg
 - name: anton lisin
-  alias:
+  alias: ''
   gender: cis man
   birth: 1992
   eth: russian
@@ -411,7 +411,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: '90'
   deth: russian
   dhair: blondeh
@@ -525,7 +525,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: 80
   deth: hispanic, germanic, white
   dhair: brownh
@@ -1952,7 +1952,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: "80"
   deth: asian
   dhair: brownh
@@ -2701,7 +2701,7 @@ fcs:
   doccupation: actor
   img: https://celebmafia.com/wp-content/uploads/2015/12/katrina-law-photoshoot-for-maxim-magazine-december-2015-_1.jpg
 - name: keanu reeves
-  alias:
+  alias: ''
   gender: cis man
   birth: 02/09/1964
   eth: Native Hawaiian, Portuguese, English, Scottish
@@ -2712,7 +2712,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: '60'
   deth: white hawaiian
   dhair: brownh
@@ -3063,7 +3063,7 @@ fcs:
   doccupation: rapper singer musician actor
   img: https://64.media.tumblr.com/afac2604bdc00a1c21a7ce974101d4d5/cd956be5e73f8731-d3/s1280x1920/136ea121b0683043005f7c9055de522bc8d6b4a5.jpg
 - name: maddie ziegler
-  alias:
+  alias: ''
   gender: cis woman
   birth: 30/09/2002
   eth: German, Polish, Italian, Scottish
@@ -3074,7 +3074,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: '00'
   deth: germanic white
   dhair: brownh blondeh
@@ -3226,7 +3226,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: "90"
   deth: Caribbean
   dhair: brownh
@@ -3348,7 +3348,7 @@ fcs:
   doccupation: actor
   img: https://www.thefashionisto.com/wp-content/uploads/2015/05/Michiel-Huisman-Interview-Magazine-2015-Photo-Shoot-002.jpg
 - name: milo ventimiglia
-  alias:
+  alias: ''
   gender: cis man
   birth: 08/07/1977
   eth: italian, sicilian, english, scottish
@@ -3359,7 +3359,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: "70"
   deth: white
   dhair: brownh
@@ -3511,7 +3511,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: "80"
   deth: germanic white
   dhair: blondeh brownh
@@ -3681,7 +3681,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: 80
   deth: white
   dhair: brownh
@@ -3689,9 +3689,9 @@ fcs:
   doccupation: actor
   img: https://i.pinimg.com/originals/9b/29/30/9b2930e03159e0d9ea0fe4d9a5116045.jpg
 - name: polly ellens
-  alias:
+  alias: ''
   gender: cis woman
-  birth:
+  birth: ''
   eth: english
   nationality: english
   occupation: model
@@ -3701,7 +3701,7 @@ fcs:
   icons: false
   gificons: false
   tattoos: tattoos freckles
-  dyear:
+  dyear: ''
   deth: white
   dhair: redh gingerh
   deyes: bluee
@@ -3909,7 +3909,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: "00"
   deth: white
   dhair: redh gingerh
@@ -4050,7 +4050,7 @@ fcs:
   doccupation: model
   img: https://backend.unikomodels.com/wp-content/uploads/2019/09/BOOK-SHEROUK-FARID-14.jpg
 - name: simone ashley
-  alias:
+  alias: ''
   gender: cis woman
   birth: 30/03/1995
   eth: Indian Tamil
@@ -4061,7 +4061,7 @@ fcs:
   gifs: true
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: '90'
   deth: indian
   dhair: brownh
@@ -4145,7 +4145,7 @@ fcs:
   doccupation: actor singer musician
   img: https://media.allure.com/photos/6166e98e7fd8a844dca17385/master/pass/Sofia%20Carson%20Allure%20Talking%20Beauty-01.jpg
 - name: sophie turner
-  alias:
+  alias: ''
   gender: cis woman
   birth: 21/02/1996
   eth: english
@@ -4156,7 +4156,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: '90'
   deth: white
   dhair: redh gingerh blondeh
@@ -4259,7 +4259,7 @@ fcs:
   doccupation: singer musician model actor
   img: https://boloround3.files.wordpress.com/2018/10/taylor_momsen_2013_indira_cesarine_photoshoot_for_untitled_magazine_19.jpg
 - name: tessa thompson
-  alias:
+  alias: ''
   gender: cis woman
   birth: 03/10/1983
   eth: African-Panamanian, Mexican, English, German, Scottish, Irish
@@ -4270,7 +4270,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear: '80'
   deth: black hispanic white
   dhair: brownh

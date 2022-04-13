@@ -1,5 +1,5 @@
 - name:
-  alias:
+  alias: ''
   gender:
   birth:
   eth:
@@ -10,7 +10,7 @@
   gifs: false
   icons: false
   gificons: false
-  tattoos:
+  tattoos: ''
   dyear:
   deth:
   dhair:
