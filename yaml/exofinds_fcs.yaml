@@ -513,6 +513,25 @@ fcs:
   deyes: browne
   doccupation: actor singer musician
   img: https://celebmafia.com/wp-content/uploads/2016/06/ashley-tisdale-highbrow-photoshoot-2016-1.jpg
+- name: aubrey plaza
+  alias: ''
+  gender: cis woman
+  birth: 26/06/1984
+  eth: Puerto Rican, German, English, Irish
+  nationality: American
+  occupation: actress, comedian, producer, writer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: 80
+  deth: hispanic, germanic, white
+  dhair: brownh
+  deyes: browne
+  doccupation: actor comedian
+  img: https://i.pinimg.com/originals/5f/d2/8c/5fd28c23f59af5bbb4967cae9a245ee0.jpg
 - name: auli'i cravalho
   alias: ''
   gender: cis woman
@@ -1921,6 +1940,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://i.pinimg.com/originals/4e/8e/73/4e8e735e516a9b1e293144b9d0e8f926.jpg
+- name: gemma chan
+  alias: ''
+  gender: cis woman
+  birth: 29/11/1982
+  eth: asian
+  nationality: english
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: "80"
+  deth: asian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.fashiongonerogue.com/wp-content/uploads/2019/03/Gemma-Chan-Modern-Luxury-Photoshoot02.jpg
 - name: halsey
   alias: ashley frangipane
   gender: cis woman
@@ -2613,7 +2651,7 @@ fcs:
   nationality: Canadian
   occupation: actress
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -3176,6 +3214,25 @@ fcs:
   deyes: bluee
   doccupation: actor model producer
   img: https://i.pinimg.com/originals/bd/26/46/bd26465105f1277c5f0e0d5dfa60ade2.jpg
+- name: Marianly Tejada
+  alias: ''
+  gender: cis woman
+  birth: 04/07/1992
+  eth: Caribbean
+  nationality: Caribbean
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: "90"
+  deth: Caribbean
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.wikibuff.com/wp-content/uploads/2022/02/marianly-tejada-height-age-family-boyfriend-movies-tv-biography-facts-1200x1200.jpg
 - name: markel williams
   alias: ''
   gender: cis man
@@ -3442,6 +3499,25 @@ fcs:
   deyes: hazele
   doccupation: actor
   img: https://64.media.tumblr.com/03e6acb8559b4fbad7f5d206c2664949/tumblr_p8399bUN681vvs6wgo1_1280.png
+- name: noel fisher
+  alias: ''
+  gender: cis man
+  birth: 13/03/1984
+  eth: German, English, Irish, Scottish, Eastern European
+  nationality: canadian
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: "80"
+  deth: germanic white
+  dhair: blondeh brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/a4/1a/d1/a41ad115163bcd78826db76ce79d6137.jpg
 - name: nyane lebajoa
   alias: ''
   gender: cis woman
@@ -3593,6 +3669,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://i.pinimg.com/originals/52/28/86/5228868ec90481dd94a89b4f0c10c536.jpg
+- name: pierre niney
+  alias: ''
+  gender: cis man
+  birth: 13/03/1989
+  eth: white
+  nationality: french
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: 80
+  deth: white
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/originals/9b/29/30/9b2930e03159e0d9ea0fe4d9a5116045.jpg
 - name: polly ellens
   alias:
   gender: cis woman
@@ -3802,6 +3897,25 @@ fcs:
   deyes: bluee
   doccupation: actor singer musician
   img: https://s1.r29static.com/bin/entry/7b1/0,0,2000,2400/960xbm,70/2236448/image.jpg
+- name: sadie sink
+  alias: ''
+  gender: cis woman
+  birth: 16/04/2002
+  eth: English, Irish, German, Scottish
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos:
+  dyear: "00"
+  deth: white
+  dhair: redh gingerh
+  deyes: bluee
+  doccupation: actor
+  img: https://dazedimg-dazedgroup.netdna-ssl.com/1080/azure/dazed-prod/1230/9/1239436.jpg
 - name: samara weaving
   alias: ''
   gender: cis woman
@@ -4323,7 +4437,7 @@ fcs:
     Jewish
   nationality: American
   occupation: actress
-  avatar: false
+  avatar: true
   crackships: false
   gifs: true
   icons: false
