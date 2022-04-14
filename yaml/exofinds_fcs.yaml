@@ -989,6 +989,25 @@ fcs:
   deyes: browne
   doccupation: actor singer musician
   img: https://images.squarespace-cdn.com/content/v1/541f5d9fe4b0be37af65e1e7/1614711904841-GEFW7726OJIFU5R8LOXP/2019-07-10+01.44.55+5.jpg?format=1500w
+- name: cenit nadir
+  alias: ''
+  gender: cis woman
+  birth: unknown
+  eth: hispanic
+  nationality: puerto-rican
+  occupation: model influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: unknown
+  deth: hispanic
+  dhair: brownh
+  deyes: browne
+  doccupation: model influencer
+  img: https://vmgnt.com/wp-content/uploads/2020/07/293102352_52268848_1064658693718715_4297740486560018051_n.jpg
 - name: chace crawford
   alias: ''
   gender: cis man
@@ -1522,6 +1541,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://i.pinimg.com/originals/ff/e6/df/ffe6df9f30baacf7788b71330fb843e7.png
+- name: ellie thatcher
+  alias: ''
+  gender: cis woman
+  birth: unknown
+  eth: white
+  nationality: unknown
+  occupation: artist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: unknown
+  deth: white
+  dhair: brownh
+  deyes: hazele
+  doccupation: artist
+  img: https://assets.vogue.com/photos/5b8972c1449bf73aacdaa46f/master/w_2002,h_3000,c_limit/05-streetstyle-100-ellie-thatcher.jpg
 - name: elizabeth gillies
   alias: ''
   gender: cis woman
@@ -2852,6 +2890,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://balistarz.com/wp-content/uploads/Balistarz-model-Laurel-Thoma-582.jpg
+- name: Lauren de Graaf
+  alias: ''
+  gender: cis woman
+  birth: 23/03/1997
+  eth: white
+  nationality: Netherlands
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: white
+  dhair: blondeh
+  deyes: greene
+  doccupation: model
+  img: https://mediaslide-europe.storage.googleapis.com/uno/pictures/1445/14083/large-1454340560-77653a950337cfc79a4b30f03f6ffdbe.jpg
 - name: lauren jauregui
   alias: ''
   gender: cis woman
@@ -4296,6 +4353,25 @@ fcs:
   deyes: browne
   doccupation: actor musician
   img: http://images6.fanpop.com/image/photos/37700000/Thomas-Brodie-Sangster-thomas-sangster-37795376-512-768.jpg
+- name: timothée chalamet
+  alias: ''
+  gender: cis man
+  birth: 27/12/1995
+  eth: French, English, Scottish, Irish, Ashkenazi Jewish
+  nationality: French, American
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: white, jewish
+  dhair: brownh
+  deyes: greene
+  doccupation: actor
+  img: https://i.pinimg.com/736x/4b/99/c2/4b99c24f894b8bfe015a0352df28762a.jpg
 - name: tom hardy
   alias: ''
   gender: cis man
