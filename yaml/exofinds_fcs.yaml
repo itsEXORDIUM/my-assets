@@ -913,6 +913,25 @@ fcs:
   deyes: bluee
   doccupation: actor model
   img: https://i.pinimg.com/originals/79/76/12/79761267f2f0ee7951a3a657cb81593c.jpg
+- name: camille rowe
+  alias: ''
+  gender: cis woman
+  birth: 07/01/1990
+  eth: french, english, irish
+  nationality: french american
+  occupation: model actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: white
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model actor
+  img: https://i.pinimg.com/736x/e3/62/df/e362dfefcb655ff66a8812bab540f5f7--guy-aroch-blonde.jpg
 - name: candice swanepoel
   alias: ''
   gender: cis woman
@@ -1198,6 +1217,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://i.pinimg.com/736x/98/87/fc/9887fcfa7fab344aa49e4bac00d6bca4.jpg
+- name: claire holt
+  alias: ''
+  gender: cis woman
+  birth: 11/06/1988
+  eth: english
+  nationality: australian
+  occupation: actress model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: white
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor model
+  img: https://celebmafia.com/wp-content/uploads/2021/08/claire-holt-photoshoot-2018-dh-2.jpg
 - name: cole mohr
   alias: ''
   gender: cis man
@@ -3347,7 +3385,7 @@ fcs:
   deyes: browne
   doccupation: actor model
   img: https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDQzMDk1My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcwMDEyNTUwM30.SE0H8vDkX446gTZzZe9DZ6fpBvmIlbQCVKYtoh1sLWs/img.jpg?width=744&quality=80
-- name: maxence danet-fauvel
+- name: maxence danet fauvel
   alias: ''
   gender: cis man
   birth: 27/06/1993
@@ -3840,6 +3878,25 @@ fcs:
   deyes: browne
   doccupation: singer musician model
   img: https://m.media-amazon.com/images/M/MV5BNjgzM2ViODMtNTNlYS00YTA3LThiNGItOGZmYzY3NWZiYWM5XkEyXkFqcGdeQXVyMTQ1OTI5ODA@._V1_.jpg
+- name: rihanna
+  alias: robyn rihanna fenty
+  gender: cis woman
+  birth: 20/02/1988
+  eth: barbadian guyanese
+  nationality: barbadian
+  occupation: singer songwriter dancer producer actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: tattoos
+  dyear: '80'
+  deth: barbadian guyanese
+  dhair: brownh
+  deyes: browne
+  doccupation: singer musician dancer producer actor
+  img: https://www.celebritybikinibooty.com/wp-content/uploads/2018/12/Rihanna-in-Fenty-Beauty-Mattemoiselle-Photoshoot-2018-4.jpg
 - name: richard madden
   alias: ''
   gender: cis man
@@ -4201,6 +4258,25 @@ fcs:
   deyes: browne
   doccupation: actor singer musician
   img: https://media.allure.com/photos/6166e98e7fd8a844dca17385/master/pass/Sofia%20Carson%20Allure%20Talking%20Beauty-01.jpg
+- name: sophia bush
+  alias: ''
+  gender: cis woman
+  birth: 08/07/1982
+  eth: italian, irish, english, scottish
+  nationality: american
+  occupation: actress, activist, director, producer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: "80"
+  deth: white
+  dhair: brownh
+  deyes: greene
+  doccupation: actor activist director producer
+  img: https://i.pinimg.com/originals/ab/fe/16/abfe16cacaeaec3b28f99b652d47c93f.jpg
 - name: sophie turner
   alias: ''
   gender: cis woman
@@ -4358,7 +4434,7 @@ fcs:
   gender: cis man
   birth: 27/12/1995
   eth: French, English, Scottish, Irish, Ashkenazi Jewish
-  nationality: French, American
+  nationality: French American
   occupation: actor
   avatar: true
   crackships: false
