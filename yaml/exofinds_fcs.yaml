@@ -2624,6 +2624,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://pbs.twimg.com/media/EbcE3BHWkAMIXCL.jpg
+- name: julia adamenko
+  alias: ''
+  gender: cis woman
+  birth: 20/05/1998
+  eth: ukrainian
+  nationality: ukrainian
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: freckles
+  dyear: '90'
+  deth: ukrainian
+  dhair: gingerh redh
+  deyes: bluee
+  doccupation: influencer
+  img: https://i.pinimg.com/originals/b0/2e/5d/b02e5dfc9c7f665605ccc8d8199c2bfa.jpg
 - name: jung hoyeon
   alias: ''
   gender: cis woman
@@ -3309,6 +3328,25 @@ fcs:
   deyes: browne
   doccupation: actor athlete
   img: https://media.gq.com/photos/577fafe51581f29e21b4bcd2/master/w_1600%2Cc_limit/maika-monroe-gq-4.jpg
+- name: malin akerman
+  alias: ''
+  gender: cis woman
+  birth: 12/05/1978
+  eth: swedish
+  nationality: swedish canadian
+  occupation: actress, producer, model
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: swedish
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor producer model
+  img: https://celebmafia.com/wp-content/uploads/2013/12/malin-akerman-photoshoot-by-chris-pizzello-portraits-year-2012_1.jpg
 - name: margot robbie
   alias: ''
   gender: cis woman
