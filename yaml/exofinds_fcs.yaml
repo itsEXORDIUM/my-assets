@@ -1182,8 +1182,8 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 07/03/1995
-  eth: Saudi Arabian
-  nationality: Saudi Arabian
+  eth: Saudi-Arabian
+  nationality: Saudi-Arabian
   occupation: model
   avatar: true
   crackships: false
@@ -2773,7 +2773,7 @@ fcs:
   deyes: bluee
   doccupation: influencer
   img: https://pbs.twimg.com/media/Darsqf3VMAAxoUP.jpg
-- name: kaia greber
+- name: kaia gerber
   alias: ''
   gender: cis woman
   birth: 03/09/2001
@@ -3908,8 +3908,8 @@ fcs:
   gificons: false
   tattoos: ''
   dyear: '90'
-  deth: afam
-  dhair: african northwest-eurasian
+  deth: african northwest-eurasian
+  dhair: brownh
   deyes: browne
   doccupation: model
   img: https://i.pinimg.com/originals/9f/99/68/9f9968b33a988bb68cabb8ebb9b66122.jpg
