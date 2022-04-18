@@ -1,0 +1,51 @@
+southern-eurasian
+    indian
+    brazilian
+    Tamil
+
+northwest-eurasian
+    white
+    europe
+    dominican
+    puerto-rican
+    cuba
+    Denmark
+    Ashkenazi Jewish
+    Argentinian
+
+southwest-eurasian
+    Sephardi Jewish
+    iranian
+    sudanese
+    saudi arabia
+    lebanon
+    Israeli
+    maroc
+    egyptian
+    Yemenite
+
+eastern-eurasian
+    United Arab Emirates
+    filipino
+    malaysian
+    chinese
+    thailand
+    japan
+    indonesian
+    nepal
+    tibet
+    South Korean
+
+african
+    African-American
+
+amerindian
+    Native American
+    hawaii
+    Yemenite
+
+oceanian
+    australia
+
+hispanic
+    Mexican
