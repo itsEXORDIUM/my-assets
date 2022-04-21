@@ -1463,7 +1463,7 @@ fcs:
   deyes: browne
   doccupation: singer musician
   img: https://64.media.tumblr.com/413b1a6764fc10c550c427d445eb2139/a2c9afef7574e393-a4/s500x750/01a30d387090f0899ac7368d2d860810f9c24e3e.png
-- name: diana agron
+- name: dianna agron
   alias: ''
   gender: cis woman
   birth: 30/04/1986
@@ -1888,9 +1888,9 @@ fcs:
   eth: English, Irish, Scottish, German
   nationality: American
   occupation: actress, model, musician
-  avatar: false
+  avatar: true
   crackships: false
-  gifs: true
+  gifs: false
   icons: false
   gificons: false
   tattoos: ''
@@ -4434,7 +4434,7 @@ fcs:
   occupation: actor, musician, producer, model
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
