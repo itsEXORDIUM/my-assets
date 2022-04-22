@@ -1159,6 +1159,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: http://images6.fanpop.com/image/photos/41400000/Chlo-Moretz-by-Bareskin-Photoshoot-June-2018-chloe-moretz-41451463-1600-2400.jpg
+- name: chiara scelsi
+  alias: ''
+  gender: cis woman
+  birth: 14/06/1997
+  eth: ''
+  nationality: italian
+  occupation: influencer and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: influencer model
+  img: https://www.theplace2.ru/cache/archive/chiara_scelsi/img/bianca-balti-and-chi(5)-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg
 - name: chris evans
   alias: ''
   gender: cis man
@@ -4634,6 +4653,25 @@ fcs:
   deyes: browne
   doccupation: model actor
   img: https://pbs.twimg.com/media/EU7MrafU8AAkBOh.jpg
+- name: shailene woodley
+  alias: ''
+  gender: cis woman
+  birth: 15/11/1991
+  eth: English, African-American, Louisiana Creole, Swiss-German
+  nationality: american
+  occupation: actress and activist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian african
+  dhair: brownh blondeh
+  deyes: greene
+  doccupation: actor activist
+  img: http://images6.fanpop.com/image/photos/42800000/Shailene-Woodley-C-Magazine-Photoshoot-2019-shailene-woodley-42882322-800-1066.jpg
 - name: shay mitchell
   alias: ''
   gender: cis woman
