@@ -1311,6 +1311,25 @@ fcs:
   deyes: bluee
   doccupation: actor model
   img: https://celebmafia.com/wp-content/uploads/2021/08/claire-holt-photoshoot-2018-dh-2.jpg
+- name: cody christian
+  alias: ''
+  gender: cis man
+  birth: 15/04/1995
+  eth: English, Penobscot Native American and Passamaquody Native American
+  nationality: American
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian amerindian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/27/03/a3/2703a3e47661e12f1fe50fb1d35ea3c6.jpg
 - name: cody fern
   alias: ''
   gender: cis man
@@ -2516,7 +2535,7 @@ fcs:
   nationality: American
   occupation: actor, singer
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -3039,6 +3058,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://i.pinimg.com/originals/4c/1f/d0/4c1fd00bfe1452cbd1e1bf5025a29a0d.png
+- name: kat mcnamara
+  alias: katherine mcnamara
+  gender: cis woman
+  birth: 22/11/1995
+  eth: English, Irish, Welsh, German, Swedish, Swiss-German
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: redh gingerh blondeh
+  deyes: hazele
+  doccupation: actor
+  img: https://browsecat.net/sites/default/files/actress-katherine-mcnamara-2020-wallpapers-64682-924929-1675630.png
 - name: kate beckinsale
   alias: ''
   gender: cis woman
@@ -3533,25 +3571,6 @@ fcs:
   deyes: greene
   doccupation: singer
   img: https://i.pinimg.com/originals/44/3d/a1/443da1fced9d5244d8b63790e6b6995d.jpg
-- name: cody christian
-  alias: ''
-  gender: cis man
-  birth: 15/04/1995
-  eth: English, Penobscot Native American and Passamaquody Native American
-  nationality: American
-  occupation: actor
-  avatar: true
-  crackships: false
-  gifs: true
-  icons: false
-  gificons: false
-  tattoos: ''
-  dyear: '90'
-  deth: northwest-eurasian amerindian
-  dhair: blondeh
-  deyes: bluee
-  doccupation: actor
-  img: https://i.pinimg.com/originals/27/03/a3/2703a3e47661e12f1fe50fb1d35ea3c6.jpg
 - name: machine gun kelly
   alias: colson baker
   gender: cis man
@@ -3807,7 +3826,7 @@ fcs:
   nationality: American
   occupation: actor
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
