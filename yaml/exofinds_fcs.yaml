@@ -464,7 +464,7 @@ fcs:
   nationality: Argentinian English
   occupation: actress and model
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -475,6 +475,25 @@ fcs:
   deyes: browne
   doccupation: actor model
   img: http://images6.fanpop.com/image/photos/43600000/Anya-Taylor-Joy-Pip-Photoshoot-2020-anya-taylor-joy-43602400-1080-1350.jpg
+- name: archie renaux
+  alias: ''
+  gender: cis man
+  birth: 22/11/1997
+  eth: english, anglo-indian
+  nationality: english
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian southern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://pbs.twimg.com/media/E0uVpEXX0AE8Xb_.jpg:large
 - name: ash stymest
   alias: ''
   gender: cis man
@@ -2156,7 +2175,7 @@ fcs:
   occupation: actress, model
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -2270,7 +2289,7 @@ fcs:
   occupation: actress
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -4482,6 +4501,25 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://pbs.twimg.com/media/EfPhTJqXkAAupUC.jpg
+- name: rose leslie
+  alias: ''
+  gender: cis woman
+  birth: 09/02/1987
+  eth: Scottish, English, Welsh, Mexican
+  nationality: scottis
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian hispanic
+  dhair: redh gingerh
+  deyes: bluee
+  doccupation: actor
+  img: https://pbs.twimg.com/media/Evz-LPpXAAExNmY.jpg
 - name: ruby rose
   alias: ''
   gender: cis woman
@@ -4710,6 +4748,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://backend.unikomodels.com/wp-content/uploads/2019/09/BOOK-SHEROUK-FARID-14.jpg
+- name: shonali singh
+  alias: ''
+  gender: cis woman
+  birth: 20/12/1981
+  eth: indian
+  nationality: indian
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: southern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://dfocupmdlnlkc.cloudfront.net/original/9c6574cf-7a98-4eb6-90d8-21ae03d4af17_500x1500.jpg
 - name: simone ashley
   alias: ''
   gender: cis woman
@@ -4938,6 +4995,25 @@ fcs:
   deyes: browne
   doccupation: director screenwriter actor comedian
   img: http://images6.fanpop.com/image/photos/43200000/Taika-Waititi-GQ-Photoshoot-2017-taika-waititi-43287124-1429-2000.jpg
+- name: tashi rodriguez
+  alias: ''
+  gender: cis woman
+  birth: 08/01/1994
+  eth: puerto-rican, african
+  nationality: american
+  occupation: model influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian african
+  dhair: brownh
+  deyes: browne
+  doccupation: model influencer
+  img: https://photogenicsmedia.com/wp-content/uploads/2020/01/TASHI_RODRIGUEZ_10.jpg
 - name: taylor marie hill
   alias: ''
   gender: cis woman
@@ -5014,6 +5090,25 @@ fcs:
   deyes: browne
   doccupation: actor musician
   img: http://images6.fanpop.com/image/photos/37700000/Thomas-Brodie-Sangster-thomas-sangster-37795376-512-768.jpg
+- name: thomas doherty
+  alias: ''
+  gender: cis man
+  birth: 21/04/1995
+  eth: irish, scottish
+  nationality: scottish
+  occupation: actor and singer
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor singer musician
+  img: https://i.pinimg.com/736x/54/4e/65/544e65a50407038a5049e4db8203ba7b.jpg
 - name: thylane blondeau
   alias: ''
   gender: cis woman
