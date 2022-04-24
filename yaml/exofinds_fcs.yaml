@@ -494,6 +494,26 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://pbs.twimg.com/media/E0uVpEXX0AE8Xb_.jpg:large
+- name: aron piper
+  alias: ''
+  gender: cis man
+  birth: 29/03/1997
+  eth: german, spanish
+  nationality: german spanish
+  occupation: actor, singer and model
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: true
+  tattoos: tattoos
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer musician model
+  img: https://lastfm.freetls.fastly.net/i/u/770x0/6b68d476563d14938e992975481d7c3a.jpg
 - name: ash stymest
   alias: ''
   gender: cis man
@@ -602,6 +622,7 @@ fcs:
   icons: false
   gificons: true
   tattoos: ''
+  other: true
   dyear: '90'
   deth: southern-eurasian northwest-eurasian
   dhair: brownh
@@ -1520,6 +1541,26 @@ fcs:
   deyes: browne
   doccupation: singer musician
   img: https://64.media.tumblr.com/413b1a6764fc10c550c427d445eb2139/a2c9afef7574e393-a4/s500x750/01a30d387090f0899ac7368d2d860810f9c24e3e.png
+- name: diane kruger
+  alias: ''
+  gender: cis woman
+  birth: 15/07/1976
+  eth: German, Polish
+  nationality: german
+  occupation: actress and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor model
+  img: https://i.pinimg.com/originals/26/83/3a/26833ae8cc47b793de16046fe0aefb9d.jpg
 - name: dianna agron
   alias: ''
   gender: cis woman
@@ -2292,6 +2333,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '90'
   deth: african northwest-eurasian
@@ -3248,6 +3290,25 @@ fcs:
   deyes: browne
   doccupation: singer actor musician
   img: https://lastfm.freetls.fastly.net/i/u/770x0/cba2ef35859a814aad30d291f24d6f6e.jpg
+- name: kiernan shipka
+  alias: ''
+  gender: cis woman
+  birth: 10/11/1999
+  eth: Irish, slovak, german, italian, english, scottish, french
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: browne
+  doccupation: actor
+  img: https://www.gotceleb.com/wp-content/uploads/photos/kiernan-shipka/teen-vogue-magazine-september-2015/Kiernan-Shipka:-Teen-Vogue-Magazine-2015--01.jpg
 - name: kit harington
   alias: ''
   gender: cis man
@@ -3495,6 +3556,25 @@ fcs:
   deyes: bluee
   doccupation: singer musician actor
   img: http://ftpunks.com/wp-content/uploads/2021/05/image1-1024x683.jpg
+- name: loic williams
+  alias: ''
+  gender: cis man
+  birth: 17/06/1993
+  eth: ''
+  nationality: english
+  occupation: model influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: tattoos
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: bluee
+  doccupation: model influencer
+  img: https://i.pinimg.com/originals/74/fd/32/74fd3256c3679adb08072d6fe2735e1b.jpg
 - name: lucky blue smith
   alias: ''
   gender: cis man
@@ -4912,6 +4992,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: "80"
   deth: northwest-eurasian
