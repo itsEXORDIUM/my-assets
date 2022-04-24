@@ -465,7 +465,7 @@ fcs:
   occupation: actress and model
   avatar: true
   crackships: true
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -1389,6 +1389,25 @@ fcs:
   deyes: bluee
   doccupation: model
   img: https://64.media.tumblr.com/0854464ad419bf3d1074a9e5cd13b1b4/tumblr_mvuuc1i7Bw1qme6n7o1_1280.jpg
+- name: connor swindells
+  alias: ''
+  gender: cis man
+  birth: 19/09/1996
+  eth: english
+  nationality: english
+  occupation: model, actor and boxer
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: model actor athlete
+  img: https://1883magazine.com/wp-content/uploads/2019/02/Connor-Swindells-11.jpg
 - name: dakota johnson
   alias: ''
   gender: cis woman
@@ -1550,7 +1569,7 @@ fcs:
   occupation: actress and model
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   other: false
@@ -1618,6 +1637,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://mediaslide-europe.storage.googleapis.com/uno/pictures/2784/35977/large-1523545475-e52a4605a538665253c596a2df2d3bdb.jpg
+- name: doja cat
+  alias: ''
+  gender: cis woman
+  birth: 21/10/1995
+  eth: Zulu South African, Ashkenazi Jewish
+  nationality: american
+  occupation: rapper, singer, songwriter and record producer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: african northwest-eurasian
+  dhair: blondeh redh pinkh
+  deyes: browne
+  doccupation: rapper singer musician producer
+  img: https://64.media.tumblr.com/1475735f81f0a3144ffda9e05f1a7341/de898aef0499b482-34/s1280x1920/cda8029ac391a640d8e59237d89e252710bfd823.jpg
 - name: dorothy martin
   alias: dorothy
   gender: cis woman
@@ -1694,7 +1732,7 @@ fcs:
   deyes: browne
   doccupation: singer actor musician
   img: https://f4.bcbits.com/img/a3678545256_10.jpg
-- name: Dylan O’Brien
+- name: dylan o'brien
   alias: ''
   gender: cis man
   birth: 26/08/1991
@@ -2891,6 +2929,25 @@ fcs:
   deyes: bluee
   doccupation: actor musician producer director activist
   img: https://static01.nyt.com/images/2017/09/06/t-magazine/joaquin-phoenix-slide-EUHZ-copy/joaquin-phoenix-slide-EUHZ-copy-superJumbo-v2.jpg
+- name: jodie comer
+  alias: ''
+  gender: cis woman
+  birth: 11/03/1993
+  eth: english
+  nationality: english
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/originals/4e/20/5c/4e205c1e794d44405a78779852c11dc0.png
 - name: joel kinnaman
   alias: ''
   gender: cis man
@@ -3404,7 +3461,7 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://balistarz.com/wp-content/uploads/Balistarz-model-Laurel-Thoma-582.jpg
-- name: Lauren de Graaf
+- name: lauren de graaf
   alias: ''
   gender: cis woman
   birth: 23/03/1997
@@ -3442,7 +3499,7 @@ fcs:
   deyes: browne
   doccupation: singer musician
   img: https://pbs.twimg.com/media/DZPmh6oXkAAadp1.jpg
-- name: Lesley-Ann Brandt
+- name: lesley-ann brandt
   alias: ''
   gender: cis woman
   birth: 02/12/1981
@@ -3613,7 +3670,7 @@ fcs:
   deyes: browne
   doccupation: actor singer musician
   img: https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_500,h_600/https://dujour.com/wp-content/uploads/lucy-liu-hero-500x600.jpg
-- name: lupito nyong'o
+- name: lupita nyong'o
   alias: ''
   gender: cis woman
   birth: 01/03/1983
@@ -3860,7 +3917,7 @@ fcs:
   deyes: bluee
   doccupation: actor model producer
   img: https://i.pinimg.com/originals/bd/26/46/bd26465105f1277c5f0e0d5dfa60ade2.jpg
-- name: Marianly Tejada
+- name: marianly tejada
   alias: ''
   gender: cis woman
   birth: 04/07/1992
@@ -4164,6 +4221,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.theplace2.ru/cache/archive/nathalie_kelley/img/vr8-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg
+- name: natasha lyonne
+  alias: ''
+  gender: cis woman
+  birth: 04/04/1979
+  eth: Ashkenazi Jewish
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: redh gingerh blondeh
+  deyes: browne
+  doccupation: actor
+  img: https://static.purple.fr/2015/06/1-4L4H9934-tasha.jpg
 - name: nicola peltz
   alias: ''
   gender: cis woman
@@ -4278,7 +4354,26 @@ fcs:
   deyes: bluee
   doccupation: model
   img: https://data.whicdn.com/images/339642643/original.jpg
-- name: Penelope Cruz
+- name: pablo schreiber
+  alias: ''
+  gender: cis man
+  birth: 26/04/1978
+  eth: German, Swiss-German, Danish, Dutch, English, French, Norwegian, Belgian, Scottish, Welsh, Irish
+  nationality: canadian-american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: brownh redh gingerh
+  deyes: greene
+  doccupation: actor
+  img: https://www.thewrap.com/wp-content/uploads/2019/04/Pablo-Schreiber-4.jpg
+- name: penelope cruz
   alias: ''
   gender: cis woman
   birth: 28/04/1974
@@ -4297,6 +4392,25 @@ fcs:
   deyes: browne
   doccupation: actor model
   img: http://images6.fanpop.com/image/photos/40900000/Pen-lope-Cruz-covers-Elle-Spain-February-2018-penelope-cruz-40975332-800-1049.jpg
+- name: penelope mitchell
+  alias: ''
+  gender: cis woman
+  birth: 24/07/1991
+  eth: scottish and french
+  nationality: australian
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://64.media.tumblr.com/1d0d1b420a0680b6a94180e37849016b/tumblr_mw413f8NGU1qcprg9o1_1280.jpg
 - name: perrie edwards
   alias: ''
   gender: cis woman
@@ -4448,6 +4562,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://i.pinimg.com/1200x/34/44/d7/3444d76425bd160951bf42f284e05fec.jpg
+- name: ravyanshi mehta
+  alias: ''
+  gender: cis woman
+  birth: 01/12/1994
+  eth: indian
+  nationality: indian
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: southern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://mediaslide-europe.storage.googleapis.com/premier/pictures/4160/13812/large-1584119930-9620d479e619517fde48c52cea5ebda5.jpg
 - name: rebecca breeds
   alias: ''
   gender: cis woman
@@ -4562,7 +4695,7 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://pbs.twimg.com/media/DcxqptHWAAAeBTV.jpg
-- name: Robert Pattinson
+- name: robert pattinson
   alias: ''
   gender: cis man
   birth: 13/05/1986
@@ -4657,6 +4790,25 @@ fcs:
   deyes: browne
   doccupation: actor producer
   img: https://i.pinimg.com/originals/25/ff/8b/25ff8bd98fcb626ae7582deddcc222a9.jpg
+- name: sab zada
+  alias: sabrina zada, pasabist
+  gender: cis woman
+  birth: 18/06/1999
+  eth: Filipino
+  nationality: american
+  occupation: model and influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian northwest-eurasian
+  dhair: pinkh blondeh
+  deyes: browne
+  doccupation: model influencer
+  img: https://i.pinimg.com/originals/cd/b6/0c/cdb60cb23b52aea0770629a46033b083.jpg
 - name: sabrina carpenter
   alias: ''
   gender: cis woman
@@ -4942,7 +5094,7 @@ fcs:
   deyes: browne
   doccupation: actor model dancer
   img: https://saucemonsters.com/wp-content/uploads/2017/05/Sofia-Boutella-01.jpg
-- name: Sofia Carson
+- name: sofia carson
   alias: ''
   gender: cis woman
   birth: 10/04/1993
@@ -5114,6 +5266,25 @@ fcs:
   deyes: browne
   doccupation: model influencer
   img: https://photogenicsmedia.com/wp-content/uploads/2020/01/TASHI_RODRIGUEZ_10.jpg
+- name: tati gabrielle
+  alias: ''
+  gender: cis woman
+  birth: 25/01/1996
+  eth: african-american and korean
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: african eastern-eurasian
+  dhair: brownh blondeh
+  deyes: browne
+  doccupation: actor
+  img: https://www.hawtcelebs.com/wp-content/uploads/2018/11/tati-gabrielle-for-status-magazine-october-2018-1.jpg
 - name: taylor marie hill
   alias: ''
   gender: cis woman
@@ -5437,6 +5608,25 @@ fcs:
   deyes: bluee
   doccupation: model
   img: https://i.pinimg.com/originals/68/62/d7/6862d7a47b80adcf2e099fa5e416e333.jpg
+- name: will poulter
+  alias: ''
+  gender: cis man
+  birth: 28/01/1993
+  eth: English, Welsh, Scottish
+  nationality: english
+  occupation: actor and producer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor producer
+  img: https://esquire-sg.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2019/07/28144755/will-poulter-bandersnatch-black-mirror-midsommar-style-interview-fashion-menswear-esquire-singapore-esquiresg-041.jpg
 - name: willy cartier
   alias: ''
   gender: cis man
