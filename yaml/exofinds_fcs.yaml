@@ -781,6 +781,25 @@ fcs:
   deyes: greene
   doccupation: actor
   img: http://images6.fanpop.com/image/photos/41200000/Blanca-Su-rez-at-Glamour-Photoshoot-blanca-suarez-41211635-449-600.jpg
+- name: bob morley
+  alias: ''
+  gender: cis man
+  birth: 20/12/1984
+  eth: Irish and filipino
+  nationality: australian
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian eastern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://m.media-amazon.com/images/M/MV5BNWY3ZWFkODEtZGY5MC00YmNiLWE2NGQtNDUyNTFlYmE5NDkyXkEyXkFqcGdeQXVyNTc3Njg4Ng@@._V1_UY1200_CR85,0,630,1200_AL_.jpg
 - name: boyd holbrook
   alias: ''
   gender: cis man
@@ -1144,7 +1163,7 @@ fcs:
   img: https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/1520553163306-QEH9N60BTXZ68VBADGMA/FLAUNT_CHARLIE_HEATON_TEST_LOOK_245.jpg?format=1000w
 - name: charlie hunnam
   alias: ''
-  gender: cis woman
+  gender: cis man
   birth: 10/04/1980
   eth: English, Irish, Scottish
   nationality: english
@@ -3993,6 +4012,25 @@ fcs:
   deyes: browne
   doccupation: actor model
   img: https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDQzMDk1My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcwMDEyNTUwM30.SE0H8vDkX446gTZzZe9DZ6fpBvmIlbQCVKYtoh1sLWs/img.jpg?width=744&quality=80
+- name: may calamawy
+  alias: ''
+  gender: cis woman
+  birth: 28/10/1986
+  eth: egyptian and palestinian
+  nationality: egyptian palestinian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: southwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.harpersbazaararabia.com/cloud/2021/09/09/CP9PbtUC-24hrs_calamawy-1-1200x1429.jpg
 - name: maxence danet fauvel
   alias: ''
   gender: cis man
@@ -4096,7 +4134,7 @@ fcs:
   nationality: american
   occupation: actor, director, producer
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -5221,6 +5259,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '90'
   deth: northwest-eurasian
@@ -5578,7 +5617,7 @@ fcs:
   nationality: American
   occupation: actress
   avatar: true
-  crackships: false
+  crackships: true
   gifs: true
   icons: false
   gificons: false
