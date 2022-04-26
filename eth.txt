@@ -23,6 +23,7 @@ southwest-eurasian
     maroc
     egyptian
     Yemenite
+    turkey
 
 eastern-eurasian
     United Arab Emirates
