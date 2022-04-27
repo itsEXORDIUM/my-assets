@@ -712,7 +712,7 @@ fcs:
   eth: swedish
   nationality: swedish
   occupation: actor and model
-  avatar: false
+  avatar: true
   crackships: true
   gifs: false
   icons: false
@@ -4126,6 +4126,25 @@ fcs:
   deyes: browne
   doccupation: actor model
   img: https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDQzMDk1My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcwMDEyNTUwM30.SE0H8vDkX446gTZzZe9DZ6fpBvmIlbQCVKYtoh1sLWs/img.jpg?width=744&quality=80
+- name: matty healy
+  alias: ''
+  gender: cis man
+  birth: 08/04/1989
+  eth: english
+  nationality: english
+  occupation: singer, guitarist and pianist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: singer musician
+  img: https://i.pinimg.com/originals/1d/80/bc/1d80bc049008d02103e11070a85d21de.jpg
 - name: may calamawy
   alias: ''
   gender: cis woman
@@ -4411,6 +4430,25 @@ fcs:
   deyes: hazele
   doccupation: actor
   img: https://64.media.tumblr.com/03e6acb8559b4fbad7f5d206c2664949/tumblr_p8399bUN681vvs6wgo1_1280.png
+- name: nilsu berfin aktas
+  alias: ''
+  gender: cis woman
+  birth: 17/08/1998
+  eth: turkish
+  nationality: turkish
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: southwest-eurasian
+  dhair: brownh blondeh
+  deyes: hazele
+  doccupation: actor
+  img: https://i.pinimg.com/originals/bd/79/a6/bd79a691c08d6e1eed5fe22d35c6f3d8.jpg
 - name: noel fisher
   alias: ''
   gender: cis man
@@ -5094,6 +5132,25 @@ fcs:
   deyes: browne
   doccupation: model actor
   img: https://pbs.twimg.com/media/EU7MrafU8AAkBOh.jpg
+- name: serena motola
+  alias: ''
+  gender: cis woman
+  birth: 09/10/1998
+  eth: japanese american
+  nationality: japanese
+  occupation: actress, model and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model singer musician
+  img: https://i.pinimg.com/originals/88/b8/83/88b883e8144dc98556d62c82a74a18b4.jpg
 - name: shailene woodley
   alias: ''
   gender: cis woman
