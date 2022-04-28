@@ -66,7 +66,7 @@ fcs:
   occupation: actress, model and singer
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -152,6 +152,25 @@ fcs:
   deyes: greene
   doccupation: actor singer musician
   img: https://www.interviewmagazine.com/wp-content/uploads/2014/04/img-aimee-carrero_110626251373.jpg
+- name: aiysha hart
+  alias: ''
+  gender: cis woman
+  birth: 08/08/1990
+  eth: English and Saudi-Arabian
+  nationality: english
+  occupation: actress and screenwriter
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian southwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/originals/dc/ce/12/dcce12a05df33766a8b041d9bb21396c.jpg
 - name: alexa demie
   alias: ''
   gender: cis woman
@@ -266,6 +285,25 @@ fcs:
   deyes: bluee
   doccupation: actor singer model musician
   img: https://openspaceparis.com/app/uploads/2019/06/93-Amanda-Seyfried.jpg
+- name: amita suman
+  alias: ''
+  gender: cis woman
+  birth: 19/07/1997
+  eth: Bhojpuri Nepalese
+  nationality: english
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: http://static1.squarespace.com/static/56c346b607eaa09d9189a870/587fe9d4d2b857e5d49ca782/608312499f806147f4536568/1619214928364/Flaunt-Amita-Suman-16.jpg?format=1500w
 - name: ana de armas
   alias: ''
   gender: cis woman
@@ -667,6 +705,25 @@ fcs:
   deyes: browne
   doccupation: singer musician actor rapper model dancer
   img: https://i.pinimg.com/originals/94/20/63/9420633008baaf1f6939c3b7470f6264.jpg
+- name: bella hadid
+  alias: ''
+  gender: cis woman
+  birth: 09/08/1996
+  eth: Palestinian and dutch
+  nationality: american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: southwest-eurasian northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: model
+  img: https://static.toiimg.com/photo/64520276/Bella-Hadid.jpg
 - name: bella thorne
   alias: ''
   gender: cis woman
@@ -2397,6 +2454,44 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.fashiongonerogue.com/wp-content/uploads/2019/03/Gemma-Chan-Modern-Luxury-Photoshoot02.jpg
+- name: gigi hadid
+  alias: ''
+  gender: cis woman
+  birth: 23/04/1995
+  eth: Palestinian and dutch
+  nationality: american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian southwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model
+  img: https://i.pinimg.com/originals/d2/93/9a/d2939ae6a4f9969941519634f9bdf609.jpg
+- name: giza lagarce
+  alias: ''
+  gender: cis woman
+  birth: 15/11/1990
+  eth: ''
+  nationality: american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://mediaslide-europe.storage.googleapis.com/established/pictures/287/4301/large-1588761200-8cc9aae35070dcbc57930281a7704b5a.jpg
 - name: grace neutral
   alias: ''
   gender: cis woman
@@ -3651,25 +3746,6 @@ fcs:
   deyes: browne
   doccupation: rapper singer musician
   img: https://www.liberation.fr/resizer/uS5edroH0_inx1375lqMveT7bcU=/800x0/filters:format(jpg):quality(70):focal(1995x2074:2005x2084)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/VFXHGBRX5RFKPI6WEJ5B4S2Y3M.jpg
-- name: lily collins
-  alias: ''
-  gender: cis woman
-  birth: 18/03/1989
-  eth: English, German, Ashkenazi Jewish
-  nationality: english/American
-  occupation: actress, model
-  avatar: false
-  crackships: false
-  gifs: true
-  icons: true
-  gificons: true
-  tattoos: ''
-  dyear: '80'
-  deth: northwest-eurasian
-  dhair: blackh
-  deyes: hazele
-  doccupation: actor model
-  img: https://celebmafia.com/wp-content/uploads/2019/05/lily-collins-photoshoot-for-the-observer-04-28-2019-2.jpg
 - name: lili reinhart
   alias: ''
   gender: cis woman
@@ -3708,6 +3784,44 @@ fcs:
   deyes: bluee
   doccupation: singer musician actor
   img: http://ftpunks.com/wp-content/uploads/2021/05/image1-1024x683.jpg
+- name: lily collins
+  alias: ''
+  gender: cis woman
+  birth: 18/03/1989
+  eth: English, German, Ashkenazi Jewish
+  nationality: english/American
+  occupation: actress, model
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: true
+  gificons: true
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blackh
+  deyes: hazele
+  doccupation: actor model
+  img: https://celebmafia.com/wp-content/uploads/2019/05/lily-collins-photoshoot-for-the-observer-04-28-2019-2.jpg
+- name: lily maymac
+  alias: ''
+  gender: cis woman
+  birth: 15/08/1994
+  eth: filipino and australian
+  nationality: australian
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian northwest-eurasian
+  dhair:  blondeh
+  deyes: browne
+  doccupation: influencer
+  img: https://1fjhoz3xffsz3t9g2r2vpod1-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/Lily-may-mac-influencer-3.jpg
 - name: loic williams
   alias: ''
   gender: cis man
@@ -4259,6 +4373,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.themoviedb.org/t/p/original/jJ8UKek4GvQrQUP9q97Kq2MWVqi.jpg
+- name: mila kunis
+  alias: ''
+  gender: cis woman
+  birth: 14/08/1983
+  eth: Ashkenazi Jewish
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: actor
+  img: https://www.xtrafondos.com/wallpapers/vertical/sesion-de-fotos-de-mila-kunis-6653.jpg
 - name: milo ventimiglia
   alias: ''
   gender: cis man
@@ -4411,6 +4544,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://static.purple.fr/2015/06/1-4L4H9934-tasha.jpg
+- name: ncuti gatwa
+  alias: ''
+  gender: cis man
+  birth: 15/10/1992
+  eth: Rwandan
+  nationality: Rwandan Scottish
+  occupation: actor
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: african
+  dhair: blackh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/originals/3e/7b/8f/3e7b8f5aea957c101a2b609e37e62268.jpg
 - name: nicola peltz
   alias: ''
   gender: cis woman
@@ -4961,6 +5113,25 @@ fcs:
   deyes: bluee
   doccupation: model musician actor presenter
   img: https://celebmafia.com/wp-content/uploads/2017/08/ruby-rose-photoshoot-september-2015-7.jpg
+- name: rudy pankow
+  alias: ''
+  gender: cis man
+  birth: 12/08/1998
+  eth: german and russian
+  nationality: american
+  occupation: actor
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/be/6e/40/be6e40846ddb225bda0d7814301e7902.jpg
 - name: ryan reynolds
   alias: ''
   gender: cis man
@@ -5056,6 +5227,25 @@ fcs:
   deyes: bluee
   doccupation: actor model
   img: https://celebmafia.com/wp-content/uploads/2019/10/samara-weaving-collider-spotlight-photoshoot-august-2019-3.jpg
+- name: sara orrego
+  alias: ''
+  gender: cis woman
+  birth: 01/03/1997
+  eth: cambodian
+  nationality: cambodian
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: brownh
+  deyes: hazele
+  doccupation: influencer
+  img: https://elitemodel.us-east-1.linodeobjects.com/media/c/i/2019/11/27/12/28/766006d2-53a8-45b9-a2f8-2a04e0ad890f.29adeed6450e.JPG
 - name: sara thompson
   alias: ''
   gender: cis woman
@@ -5275,8 +5465,8 @@ fcs:
   avatar: true
   crackships: false
   gifs: true
-  icons: false
-  gificons: false
+  icons: true
+  gificons: true
   tattoos: ''
   dyear: '90'
   deth: southern-eurasian
