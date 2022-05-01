@@ -1180,6 +1180,25 @@ fcs:
   deyes: bluee
   doccupation: actor model
   img: https://data.whicdn.com/images/202559539/original.jpg
+- name: chanmina
+  alias: Mina Otomonai
+  gender: cis woman
+  birth: 14/10/1998
+  eth: japenese and korean
+  nationality: South-Korean Japanese
+  occupation: rapper and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: rapper singer musician
+  img: https://lastfm.freetls.fastly.net/i/u/770x0/8438990a7afa430ba4feca587a007793.jpg
 - name: charithra chandran
   alias: ''
   gender: cis woman
@@ -1245,7 +1264,7 @@ fcs:
   nationality: english
   occupation: actor, model
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -1522,6 +1541,44 @@ fcs:
   deyes: greene
   doccupation: model actor athlete
   img: https://1883magazine.com/wp-content/uploads/2019/02/Connor-Swindells-11.jpg
+- name: dacre montgomery
+  alias: ''
+  gender: cis man
+  birth: 22/11/1994
+  eth: Scottish, English and Irish
+  nationality: australian
+  occupation: actor and podcaster
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://dacre-montgomery.net/gallery/albums/Photoshoots/2017/Photoshoot014/0001.jpg
+- name: daisy edgar jones
+  alias: ''
+  gender: cis woman
+  birth: 24/05/1998
+  eth: Scottish, Northern Irish
+  nationality: english
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://media.wonderlandmagazine.com/uploads/2022/02/000011450006-copy-JT-Cover-scaled.jpg
 - name: dakota johnson
   alias: ''
   gender: cis woman
@@ -1655,6 +1712,25 @@ fcs:
   deyes: browne
   doccupation: actor singer musician model
   img: https://lastfm.freetls.fastly.net/i/u/770x0/18c14ce0dbd72e173d0c7217b54cdcd8.jpg
+- name: darren barnet
+  alias: ''
+  gender: cis man
+  birth: 27/04/1991
+  eth: swedish, japanese, german and cherokee
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian eastern-eurasian amerindian
+  dhair: brownh
+  deyes: greene
+  doccupation: actor
+  img: https://i.pinimg.com/originals/0c/a2/cf/0ca2cff17d15063364e3efb0527e7d76.jpg
 - name: deathbyromy
   alias: romy flores
   gender: cis woman
@@ -2519,7 +2595,7 @@ fcs:
   nationality: american
   occupation: actress, singer and model
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -3495,7 +3571,7 @@ fcs:
   tattoos: ''
   dyear: '80'
   deth: southwest-eurasian northwest-eurasian
-  dhair: redh gingerh bornwh
+  dhair: redh gingerh brownh
   deyes: browne
   doccupation: actor
   img: https://data.whicdn.com/images/297861243/original.jpg
@@ -3518,6 +3594,25 @@ fcs:
   deyes: bluee
   doccupation: model tattoo_artist influencer
   img: https://cdn.shopify.com/s/files/1/0019/9249/1067/files/bodafinal2.jpeg?v=1562745154
+- name: kian lawley
+  alias: ''
+  gender: cis man
+  birth: 02/09/1995
+  eth: ''
+  nationality: american
+  occupation: influencer, singer and actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: bluee
+  doccupation: influencer singer musician actor
+  img: https://pbs.twimg.com/media/CsqDDncWIAIXjCu.jpg
 - name: kiana lede
   alias: ''
   gender: cis woman
@@ -3822,6 +3917,25 @@ fcs:
   deyes: browne
   doccupation: influencer
   img: https://1fjhoz3xffsz3t9g2r2vpod1-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/Lily-may-mac-influencer-3.jpg
+- name: lin yun
+  alias: ''
+  gender: cis woman
+  birth: 16/04/1996
+  eth: chinese
+  nationality: chinese
+  occupation: actress and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model
+  img: https://pbs.twimg.com/media/Da3XH9nUQAEArpr.jpg
 - name: loic williams
   alias: ''
   gender: cis man
@@ -4278,6 +4392,44 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.harpersbazaararabia.com/cloud/2021/09/09/CP9PbtUC-24hrs_calamawy-1-1200x1429.jpg
+- name: max irons
+  alias: ''
+  gender: cis man
+  birth: 17/10/1985
+  eth: English, Irish and Scottish
+  nationality: english
+  occupation: actor and model
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model
+  img: https://p5.storage.canalblog.com/51/20/712462/81791946_o.jpg
+- name: max schneider
+  alias: MAX, MΛX
+  gender: cis man
+  birth: 21/06/1992
+  eth: Ashkenazi Jewish, German, Irish, English
+  nationality: american
+  occupation: singer, songwriter, actor, dancer and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: singer musician actor dancer model
+  img: https://i.pinimg.com/originals/d4/30/e7/d430e7e998385374b7bd2c0a6a6bc949.jpg
 - name: maxence danet fauvel
   alias: ''
   gender: cis man
@@ -4335,6 +4487,25 @@ fcs:
   deyes: bluee
   doccupation: actor model
   img: https://glamstyled.com/wp-content/uploads/2021/10/megan-fox-sensual-photoshoot-for-boohoo-x-megan-fox-collection-2021-0.jpeg
+- name: melisa aslı pamuk
+  alias: ''
+  gender: cis woman
+  birth: 14/04/1991
+  eth: turkish
+  nationality: turkish
+  occupation: model and actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: southwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model actor
+  img: https://i.pinimg.com/originals/c0/b0/9e/c0b09eccf12b363be75bf01af15d1b58.jpg
 - name: michiel huisman
   alias: ''
   gender: cis man
@@ -4430,6 +4601,25 @@ fcs:
   deyes: browne
   doccupation: actor model director
   img: https://data.whicdn.com/images/345833639/original.jpg
+- name: miriam leone
+  alias: ''
+  gender: cis woman
+  birth: 14/04/1985
+  eth: italian
+  nationality: italian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '0'
+  deth: northwest-eurasian
+  dhair: gingerh redh
+  deyes: greene
+  doccupation: actor
+  img: https://i.pinimg.com/originals/10/45/69/10456906f3fb326c75557473d89420e3.jpg
 - name: misha collins
   alias: ''
   gender: cis man
@@ -4601,6 +4791,25 @@ fcs:
   deyes: hazele
   doccupation: actor
   img: https://i.pinimg.com/originals/bd/79/a6/bd79a691c08d6e1eed5fe22d35c6f3d8.jpg
+- name: noah centineo
+  alias: ''
+  gender: cis man
+  birth: 09/05/1996
+  eth: italian and german
+  nationality: american
+  occupation: actor
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/736x/32/c1/c5/32c1c52fbfa22032bee0c545af8476d0.jpg
 - name: noel fisher
   alias: ''
   gender: cis man
@@ -4620,6 +4829,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://i.pinimg.com/originals/a4/1a/d1/a41ad115163bcd78826db76ce79d6137.jpg
+- name: nora attal
+  alias: ''
+  gender: cis woman
+  birth: 12/06/1999
+  eth: moroccan
+  nationality: british
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: southwest-eurasian northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://fashioneditorials.com/wp-content/uploads/2017/08/Nora-Attal-Interview-1-4.jpg
 - name: nyane lebajoa
   alias: ''
   gender: cis woman
@@ -4961,6 +5189,25 @@ fcs:
   deyes: browne
   doccupation: singer musician model
   img: https://m.media-amazon.com/images/M/MV5BNjgzM2ViODMtNTNlYS00YTA3LThiNGItOGZmYzY3NWZiYWM5XkEyXkFqcGdeQXVyMTQ1OTI5ODA@._V1_.jpg
+- name: rianne van rompaey
+  alias: ''
+  gender: cis woman
+  birth: 03/01/1996
+  eth: ''
+  nationality: dutch
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: freckles
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model
+  img: https://1.bp.blogspot.com/-P9C0F_bDlLs/YSTEM5Uy-TI/AAAAAAACpUU/J7l-_47yEk87-oAUV-B2pacyi2uY3PZeQCNcBGAsYHQ/s2000/Purple%2BSS%2B21%2B%252335%2B2021%2B108.jpg
 - name: rihanna
   alias: robyn rihanna fenty
   gender: cis woman
@@ -5075,6 +5322,25 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://pbs.twimg.com/media/EfPhTJqXkAAupUC.jpg
+- name: romaneincc
+  alias: ''
+  gender: cis woman
+  birth: 02/12/1993
+  eth: ''
+  nationality: french
+  occupation: model and influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: hazele
+  doccupation: model influencer
+  img: https://data.whicdn.com/images/353410669/original.jpg
 - name: rose leslie
   alias: ''
   gender: cis woman
@@ -5673,7 +5939,7 @@ fcs:
   nationality: American
   occupation: actress
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -5970,6 +6236,44 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://data.whicdn.com/images/339208812/original.jpg
+- name: valentina zenere
+  alias: ''
+  gender: cis woman
+  birth: 15/01/1997
+  eth: ''
+  nationality: argentinian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://www.theplace2.ru/archive/valentina_zenere/img/valentina-zenere-pho.jpg
+- name: vanessa kirby
+  alias: ''
+  gender: cis woman
+  birth: 18/04/1987
+  eth: english
+  nationality: english
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://media.gq-magazine.co.uk/photos/5d139df27fcc8ef76782043b/3:4/w_960,h_1280,c_limit/Vanessa-Kirby-GQ-15Dec17_Matt-Holyoak_b.jpg
 - name: vanessa morgan
   alias: ''
   gender: cis woman

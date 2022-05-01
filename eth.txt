@@ -12,6 +12,7 @@ northwest-eurasian
     Denmark
     Ashkenazi Jewish
     Argentinian
+    netherlands / dutch
 
 southwest-eurasian
     Sephardi Jewish
