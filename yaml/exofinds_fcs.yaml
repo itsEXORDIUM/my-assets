@@ -76,6 +76,25 @@ fcs:
   deyes: bluee
   doccupation: singer actor model
   img: https://i.pinimg.com/originals/7c/d0/3a/7cd03aae75f71abea670ffea5f5f2921.jpg
+- name: adam huber
+  alias: ''
+  gender: cis man
+  birth: 08/05/1987
+  eth: ''
+  nationality: american
+  occupation: actor and model
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: bluee
+  doccupation: actor model
+  img: https://i.pinimg.com/550x/70/7d/5b/707d5bf5dd1c0becae440a9ef59b5818.jpg
 - name: adam senn
   alias: ''
   gender: cis man
@@ -285,6 +304,25 @@ fcs:
   deyes: browne
   doccupation: actor musician
   img: https://www.theplace2.ru/archive/alicia_vikander/img/36(16).jpg
+- name: alisha boe
+  alias: ''
+  gender: cis woman
+  birth: 06/03/1997
+  eth: Somali and norwegian
+  nationality: norwegian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: african northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://images.squarespace-cdn.com/content/v1/55e8defce4b059be118e060a/1527735401074-2S1HIG8XFJIRITP6FTF6/W_ALISHABOE_0007.jpg
 - name: amanda seyfried
   alias: ''
   gender: cis woman
