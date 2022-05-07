@@ -742,6 +742,25 @@ fcs:
   deyes: browne
   doccupation: actor singer musician
   img: https://celebmafia.com/wp-content/uploads/2016/06/ashley-tisdale-highbrow-photoshoot-2016-1.jpg
+- name: astrid berges frisbey
+  alias: Àstrid Bergès-Frisbey
+  gender: cis woman
+  birth: 26/05/1986
+  eth: spanish, english, french
+  nationality: french spanish
+  occupation: actress and model
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: actor model
+  img: https://www.theplace2.ru/cache/archive/astrid_berges_frisbey/img/celeber_ru_brit_marling_be_magazine_photoshoot_2014_07-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg
 - name: aubrey plaza
   alias: ''
   gender: cis woman
@@ -819,6 +838,25 @@ fcs:
   deyes: bluee
   doccupation: model
   img: https://media.paperblog.fr/i/525/5250418/decouverte-bambi-northwood-blyth-L-j6EQGK.jpeg
+- name: barry keoghan
+  alias: ''
+  gender: cis man
+  birth: 18/10/1992
+  eth: irish
+  nationality: irish
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/9a/43/a4/9a43a464e7c92b4d060de6f2936fda19.jpg
 - name: Beabadoobee
   alias: beatrice laus
   gender: cis woman
@@ -2112,6 +2150,25 @@ fcs:
   deyes: browne
   doccupation: singer actor musician
   img: https://f4.bcbits.com/img/a3678545256_10.jpg
+- name: dwayne johnson
+  alias: the rock
+  gender: cis man
+  birth: 02/05/1972
+  eth: African-Canadian and Samoan
+  nationality: american
+  occupation: actor, producer, professional wrestler and football player
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: tattoos
+  dyear: '70'
+  deth: african oceanian northwest-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: actor athlete
+  img: http://www.photogriffon.com/photos-du-monde/DWAYNE-JOHNSON-THE-ROCK-th-best-pictures-ses-plus-belles-photos/DWAYNE-JOHNSON-THE-ROCK-photo-man-maxy-force-bodybuilding-1.jpg
 - name: dylan o'brien
   alias: ''
   gender: cis man
@@ -2178,7 +2235,7 @@ fcs:
   occupation: actress
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -2378,6 +2435,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://celebmafia.com/wp-content/uploads/2020/01/emma-mackey-photoshoot-for-wwd-january-2020-1.jpg
+- name: emma roberts
+  alias: ''
+  gender: cis woman
+  birth: 10/02/1991
+  eth: English, German, Swedish, Irish, Scottish, Welsh
+  nationality: american
+  occupation: actress and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: browne
+  doccupation: actor singer
+  img: https://www.hawtcelebs.com/wp-content/uploads/2017/12/emma-roberts-by-nick-walker-photoshoot-2017-8.jpg
 - name: emma stone
   alias: ''
   gender: cis woman
@@ -2454,6 +2530,25 @@ fcs:
   deyes: browne
   doccupation: actor model athlete
   img: https://www.thefashionisto.com/wp-content/uploads/2021/04/Evan-Mock-2021-Vogue-Hong-Kong-Fashion-Editorial-008.jpg
+- name: evan peters
+  alias: ''
+  gender: cis man
+  birth: 20/01/1987
+  eth: german
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: browne
+  doccupation: actor
+  img: https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/1525377482910-9WR9RYOEXTRLKKRV7G9Z/Evan_Peters_0419.jpg
 - name: evan rachel wood
   alias: ''
   gender: cis woman
@@ -2530,6 +2625,25 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cover-story-fp-x-chanel-new-2-1588673685.jpg
+- name: frank carter
+  alias: ''
+  gender: cis man
+  birth: 27/04/1984
+  eth: ''
+  nationality: english
+  occupation: singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: tattoos
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: redh gingerh
+  deyes: bluee
+  doccupation:
+  img: https://www.blog-zik.com/wp-content/uploads/2016/10/Frank-Carter-The-Rattlesnakes-credit-Chris-Moore-MEDIUM-res-1.jpg
 - name: frank grillo
   alias: ''
   gender: cis man
@@ -2777,6 +2891,25 @@ fcs:
   deyes: browne
   doccupation: tattoo_artist model presenter
   img: https://i.pinimg.com/550x/03/02/b8/0302b8754daf32845b15275e01da1944.jpg
+- name: gregg sulkin
+  alias: ''
+  gender: cis man
+  birth: 29/05/1992
+  eth: English, Ashkenazi Jewish and Sephardi Jewish
+  nationality: english
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian southwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: http://www.fringuesdeseries.com/wp-content/uploads/2015/04/greggsulkin7.jpg
 - name: hailee steinfeld
   alias: ''
   gender: cis woman
@@ -3044,6 +3177,25 @@ fcs:
   deyes: bluee
   doccupation: model influencer
   img: https://quemodels.com/_media/talent/39e4e75b747fddc781269bb53fdbcf61.jpg
+- name: ivana baquero
+  alias: ''
+  gender: cis woman
+  birth: 11/06/1994
+  eth: spanish
+  nationality: spanish
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://files-cdn.sharenator.com/2020/05/61303061_2335988530056476_2822950259370238561_n-819x1024.jpg
 - name: jack falahee
   alias: ''
   gender: cis man
@@ -3278,7 +3430,7 @@ fcs:
   eth: English
   nationality: English
   occupation: actress
-  avatar: false
+  avatar: true
   crackships: true
   gifs: false
   icons: false
@@ -3565,7 +3717,7 @@ fcs:
   occupation: actress and model
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -3613,6 +3765,25 @@ fcs:
   deyes: hazele
   doccupation: actor model
   img: https://celebmafia.com/wp-content/uploads/2017/12/karen-gillan-the-sunday-times-photoshoot-december-2017-4.jpg
+- name: karl urban
+  alias: ''
+  gender: cis man
+  birth: 07/06/1972
+  eth: german
+  nationality: new-zealander
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: actor
+  img: https://64.media.tumblr.com/6910af1c92e9fd4059de4acd2f7eea2a/tumblr_pqur10qUBE1wqif7ko5_1280.png
 - name: kat dennings
   alias: ''
   gender: cis woman
@@ -3746,6 +3917,25 @@ fcs:
   deyes: browne
   doccupation: actor musician
   img: https://i.pinimg.com/originals/9e/f9/40/9ef940a3395d69f49533a20951459960.jpg
+- name: keira knightley
+  alias: ''
+  gender: cis woman
+  birth: 26/03/1985
+  eth: english, scottish and welsh
+  nationality: english
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: browne
+  doccupation: actor
+  img: https://www.fashiongonerogue.com/wp-content/uploads/2020/03/Keira-Knightley-PORTER-Edit-Cover-Photoshoot05.jpg
 - name: keke palmer
   alias: ''
   gender: cis woman
@@ -4202,6 +4392,44 @@ fcs:
   deyes: bluee
   doccupation: model influencer
   img: https://i.pinimg.com/originals/74/fd/32/74fd3256c3679adb08072d6fe2735e1b.jpg
+- name: louis garrel
+  alias: ''
+  gender: cis man
+  birth: 14/06/1983
+  eth: french and jewish
+  nationality: french
+  occupation: actor and filmmaker
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://folkr.fr/wp-content/uploads/2018/12/a-guide-to-cool-louis-garrel-moodboard-folkr-17.jpg
+- name: lucas lynggaard tønnesen
+  alias: ''
+  gender: cis man
+  birth: 13/07/2000
+  eth: ''
+  nationality: danish
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://static.wikia.nocookie.net/the-rain/images/a/a9/Lucas_Lynggaard_T%C3%B8nnesen_2018_photoshoot.jpg/revision/latest?cb=20190529204742
 - name: lucky blue smith
   alias: ''
   gender: cis man
@@ -4620,6 +4848,25 @@ fcs:
   deyes: browne
   doccupation: singer musician
   img: https://i.pinimg.com/originals/1d/80/bc/1d80bc049008d02103e11070a85d21de.jpg
+- name: maude apatow
+  alias: ''
+  gender: cis woman
+  birth: 15/12/1997
+  eth: Ashkenazi Jewish, irish, scottish, finnish, german
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: browne
+  doccupation: actor
+  img: https://sistaticv2.blob.core.windows.net/cultured-mag/img/library/6346d3e0-03f1-48eb-80c0-c3effec7bca9.jpg
 - name: may calamawy
   alias: ''
   gender: cis woman
@@ -4629,7 +4876,7 @@ fcs:
   occupation: actress
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -5405,9 +5652,9 @@ fcs:
   eth: Egyptian, Greek
   nationality: american
   occupation: actor
-  avatar: true
+  avatar: false
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -5626,6 +5873,25 @@ fcs:
   deyes: hazele
   doccupation: model influencer
   img: https://data.whicdn.com/images/353410669/original.jpg
+- name: rosamund pike
+  alias: ''
+  gender: cis woman
+  birth: 27/01/1979
+  eth: english and irish
+  nationality: english
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://www.hawtcelebs.com/wp-content/uploads/2021/12/rosamund-pike-at-a-photoshoot-2021-1.jpg
 - name: rose leslie
   alias: ''
   gender: cis woman
@@ -6216,6 +6482,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://res.cloudinary.com/next-management/image/upload/c_fill,f_auto,g_north,h_720,q_auto:best,w_540/v1/photos/hurtzlrhzihkbwyznczr
+- name: suki waterhouse
+  alias: ''
+  gender: cis woman
+  birth: 05/02/1992
+  eth: English, Scottish
+  nationality: english
+  occupation: actress and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: browne
+  doccupation: actor model
+  img: https://64.media.tumblr.com/a486e5f0e04ff7de0bf479be77339548/9c746c4d0f7d5ddd-ca/s1280x1920/fb87a28d8bd0cea4fdce2f4d83b4545c566def9d.jpg
 - name: summer bishil
   alias: ''
   gender: cis woman
@@ -6274,6 +6559,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://i.pinimg.com/originals/f2/c6/82/f2c682204639bff35c14029de6880f12.jpg
+- name: tahar rahim
+  alias: ''
+  gender: cis man
+  birth: 04/07/1981
+  eth: algerian
+  nationality: french
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: southwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.interviewmagazine.com/wp-content/uploads/2021/04/Interview_Issue536_Spring_Tahar_Rahim_3.jpg
 - name: taika waititi
   alias: ''
   gender: cis man
@@ -6338,7 +6642,7 @@ fcs:
   eth: french and colombian
   nationality: american
   occupation: actress, model and influencer
-  avatar: false
+  avatar: true
   crackships: false
   gifs: true
   icons: false
