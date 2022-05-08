@@ -535,7 +535,7 @@ fcs:
 - name: anouchka gauthier
   alias: ''
   gender: cis woman
-  birth: '1997'
+  birth: 1997
   eth: ''
   nationality: french
   occupation: model
@@ -573,7 +573,7 @@ fcs:
 - name: anton lisin
   alias: ''
   gender: cis man
-  birth: '1992'
+  birth: 1992
   eth: russian
   nationality: russian
   occupation: model
@@ -1178,7 +1178,7 @@ fcs:
   deth: northwest-eurasian
   dhair: blondeh
   deyes: bluee
-  doccupation: actor dancer singer martial_artist
+  doccupation: actor dancer singer athlete
   img: https://64.media.tumblr.com/230b42bcb25c7d89bff4ff5f87ad9b57/4e4a3a1e1198d0c1-71/s540x810/7144358d3445f0c59d35c04fcc690da35abdee89.png
 - name: camila cabello
   alias: ''
@@ -2210,7 +2210,7 @@ fcs:
 - name: earth vangwithayakul
   alias: ''
   gender: cis man
-  birth: '1994'
+  birth: 1994
   eth: Thai, Danish
   nationality: Danish
   occupation: model
@@ -6408,7 +6408,7 @@ fcs:
 - name: sky ferreira
   alias: ''
   gender: cis woman
-  birth: 08/07/1992
+  birth: 08/07/1992'
   eth: ''
   nationality: American
   occupation: actress, model, singer
