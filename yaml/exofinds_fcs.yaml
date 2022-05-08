@@ -573,7 +573,7 @@ fcs:
 - name: anton lisin
   alias: ''
   gender: cis man
-  birth: 1992
+  birth: '1992'
   eth: russian
   nationality: russian
   occupation: model
@@ -2210,7 +2210,7 @@ fcs:
 - name: earth vangwithayakul
   alias: ''
   gender: cis man
-  birth: 1994
+  birth: '1994'
   eth: Thai, Danish
   nationality: Danish
   occupation: model
