@@ -1211,6 +1211,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '90'
   deth: hispanic southern-eurasian northwest-eurasian
@@ -1344,6 +1345,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian
@@ -1477,6 +1479,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian
@@ -1503,25 +1506,6 @@ fcs:
   deyes: greene
   doccupation: model
   img: https://suburbanmen.com/wp-content/uploads/2020/10/instagram-crush-charly-jordan-20201012-1006.jpg
-- name: chloe moretz
-  alias: ''
-  gender: cis woman
-  birth: 10/02/1997
-  eth: ''
-  nationality: American
-  occupation: actress
-  avatar: false
-  crackships: false
-  gifs: true
-  icons: false
-  gificons: false
-  tattoos: ''
-  dyear: '90'
-  deth: northwest-eurasian
-  dhair: blondeh
-  deyes: bluee
-  doccupation: actor
-  img: http://images6.fanpop.com/image/photos/41400000/Chlo-Moretz-by-Bareskin-Photoshoot-June-2018-chloe-moretz-41451463-1600-2400.jpg
 - name: chiara scelsi
   alias: ''
   gender: cis woman
@@ -1541,6 +1525,63 @@ fcs:
   deyes: browne
   doccupation: influencer model
   img: https://www.theplace2.ru/cache/archive/chiara_scelsi/img/bianca-balti-and-chi(5)-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg
+- name: chloe moretz
+  alias: ''
+  gender: cis woman
+  birth: 10/02/1997
+  eth: ''
+  nationality: American
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: http://images6.fanpop.com/image/photos/41400000/Chlo-Moretz-by-Bareskin-Photoshoot-June-2018-chloe-moretz-41451463-1600-2400.jpg
+- name: cho mi-yeon
+  alias: ''
+  gender: cis woman
+  birth: 31/01/1997
+  eth: asian
+  nationality: south-korean
+  occupation: singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: brownh redh
+  deyes: browne
+  doccupation: singer musician
+  img: https://pbs.twimg.com/media/D0P-0llW0AAc0lg.jpg
+- name: choi soobin
+  alias: ''
+  gender: cis man
+  birth: 04/08/2000
+  eth: Asian
+  nationality: south-korean
+  occupation: singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '00'
+  deth: eastern-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: singer musician
+  img: https://64.media.tumblr.com/3d446b306fcbe9e269640b558d42eae2/67183e7ce8a29ebe-6f/s540x810/d1ecd54a18d0556581d59acd182c2de3f5c7a166.png
 - name: chris evans
   alias: ''
   gender: cis man
@@ -2074,6 +2115,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://mediaslide-europe.storage.googleapis.com/uno/pictures/2784/35977/large-1523545475-e52a4605a538665253c596a2df2d3bdb.jpg
+- name: diego luna
+  alias: ''
+  gender: cis man
+  birth: 29/12/1979
+  eth: Mexican, Scottish and English
+  nationality: mexican
+  occupation: actor, singer, director and producer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '70'
+  deth: hispanic northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer
+  img: https://i.pinimg.com/originals/a5/b5/a4/a5b5a48fb1535940f63a74e70c1345fb.jpg
 - name: doja cat
   alias: ''
   gender: cis woman
@@ -3177,6 +3237,25 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://64.media.tumblr.com/599e5c98a686b028012ce4db8f96feb3/tumblr_pm2obqte8i1qj5qfv_400.jpg
+- name: isabella ferreira
+  alias: ''
+  gender: cis woman
+  birth: 20/12/2002
+  eth: puerto rican
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: true
+  gificons: true
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://theviraler.com/wp-content/uploads/2021/11/51-hot-pictures-of-isabella-ferreira-that-will-make-your-heart-pound-for-her-best-of-comic-books-9.jpg
 - name: isabelle mathers
   alias: ''
   gender: cis woman
@@ -3670,6 +3749,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/1564779175792-QI1KPYXTENZPC7ZTQWUW/Flaunt+Magazine+-+Jimmi+Simpson+-+1.jpg?format=1000w
+- name: josefine petterson
+  alias: ''
+  gender: cis woman
+  birth: 18/05/1996
+  eth: Norwegian
+  nationality: Norwegian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/ee/c1/64/eec1649e839983497285c795204c4dd5.jpg
 - name: joseph gilgun
   alias: ''
   gender: cis man
@@ -4981,6 +5079,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.harpersbazaararabia.com/cloud/2021/09/09/CP9PbtUC-24hrs_calamawy-1-1200x1429.jpg
+- name: max churlyaev
+  alias: ''
+  gender: cis man
+  birth: 01/08/1996
+  eth: ''
+  nationality: polish
+  occupation: model
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: model
+  img: https://static.wixstatic.com/media/1c4bf0_a4adbbc0f59c43e8af00f0bd640ce0e4~mv2.jpg/v1/crop/x_438,y_60,w_2144,h_3008/fill/w_428,h_600,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Nastya%20Short_22.jpg
 - name: max irons
   alias: ''
   gender: cis man
@@ -5551,6 +5668,25 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://www.thewrap.com/wp-content/uploads/2019/04/Pablo-Schreiber-4.jpg
+- name: paul dano
+  alias: ''
+  gender: cis man
+  birth: 19/06/1984
+  eth: Rusyn, Swedish, Slovenian and Bohemian Czech
+  nationality: american
+  occupation: actor, director, screenwriter, producer and musician
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: greene
+  doccupation: actor musician
+  img: https://images.squarespace-cdn.com/content/v1/50f5d076e4b0bf97bb9c5de2/1560386189965-6DJ4LPX956I79ZVWDZFW/040419_Variety_AoA_Emmys_16_PaulDano_195.jpg?format=1500w
 - name: penelope cruz
   alias: ''
   gender: cis woman
@@ -5721,6 +5857,25 @@ fcs:
   deyes: browne
   doccupation: actor model
   img: https://www.theplace2.ru/archive/rachel_weisz/img/retrobombshells-2021(5).jpg
+- name: rafaella kalimann
+  alias: rafa kalimann
+  gender: cis woman
+  birth: 02/04/1993
+  eth: brazilian
+  nationality: brazilian
+  occupation: model and television personality
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: tattoos
+  dyear: '90'
+  deth: hispanic
+  dhair: brownh blondeh
+  deyes: browne
+  doccupation: model influencer reality_star
+  img: http://conteudo.imguol.com.br/c/entretenimento/34/2020/01/18/bbb20---rafa-kalimann-1579392052591_v2_1080x1223.jpg
 - name: rahul kohli
   alias: ''
   gender: cis man
@@ -6825,6 +6980,25 @@ fcs:
   deyes: browne
   doccupation: actor musician
   img: https://hashtaglegend.com/wp-content/uploads/2020/08/10-AUG-2020_PORTER_TESSA-THOMPSON_COURTESY-OF-NET-A-PORTER-2-768x1024.jpg
+- name: thalia crawford
+  alias: HeyItsThalia
+  gender: cis woman
+  birth: 31/08/1999
+  eth: ''
+  nationality: canadian
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: influencer
+  img: https://i.pinimg.com/originals/40/a4/b5/40a4b5a7504e09072035beab3483e671.jpg
 - name: thomas brodie sangster
   alias: ''
   gender: cis man
@@ -7015,6 +7189,25 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://www.theplace2.ru/archive/valentina_zenere/img/valentina-zenere-pho.jpg
+- name: valeria henriquez
+  alias: valeria henríquez
+  gender: cis woman
+  birth: 04/02/1994
+  eth: colombian
+  nationality: colombian
+  occupation: actress and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian amerindian african
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer
+  img: https://www.academy.ca/wp-content/uploads/2019/02/Valeria-Henri%CC%81quez-The-Padre-copy.jpg
 - name: vanessa kirby
   alias: ''
   gender: cis woman
@@ -7148,6 +7341,25 @@ fcs:
   deyes: bluee
   doccupation: model
   img: https://i.pinimg.com/originals/68/62/d7/6862d7a47b80adcf2e099fa5e416e333.jpg
+- name: virginia gardner
+  alias: ''
+  gender: cis woman
+  birth: 18/04/1995
+  eth: English, Dutch, German, Welsh
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/bf/86/65/bf86652be48f3efc935b6e7002b431d8.jpg
 - name: will poulter
   alias: ''
   gender: cis man
@@ -7243,6 +7455,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://64.media.tumblr.com/ef0772443e2e4c4232e2fb70931ee848/tumblr_nqj2o5DVeQ1qgyrepo1_640.jpg
+- name: xavier serrano
+  alias: ''
+  gender: cis man
+  birth: 09/06/1993
+  eth: spanish
+  nationality: spanish
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://i.pinimg.com/736x/7c/a7/90/7ca790f900fe569752e2cc81a5d779ab--hercules-men-fashion.jpg
 - name: yuko araki
   alias: ''
   gender: cis woman
