@@ -407,7 +407,7 @@ fcs:
   nationality: english
   occupation: actress
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -1525,6 +1525,26 @@ fcs:
   deyes: browne
   doccupation: influencer model
   img: https://www.theplace2.ru/cache/archive/chiara_scelsi/img/bianca-balti-and-chi(5)-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg
+- name: chloe bennett
+  alias: ''
+  gender: cis woman
+  birth: 18/04/1992
+  eth: Chinese, English, Scottish, Irish, Swiss-German, German
+  nationality: american
+  occupation: actress and singer
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: true
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian eastern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer
+  img: https://i.pinimg.com/originals/b3/06/9f/b3069fb0c9be04996d001db115edd842.png
 - name: chloe moretz
   alias: ''
   gender: cis woman
@@ -1532,11 +1552,12 @@ fcs:
   eth: ''
   nationality: American
   occupation: actress
-  avatar: false
+  avatar: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '90'
   deth: northwest-eurasian
@@ -1544,7 +1565,7 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: http://images6.fanpop.com/image/photos/41400000/Chlo-Moretz-by-Bareskin-Photoshoot-June-2018-chloe-moretz-41451463-1600-2400.jpg
-- name: cho mi-yeon
+- name: cho miyeon
   alias: ''
   gender: cis woman
   birth: 31/01/1997
@@ -1594,6 +1615,7 @@ fcs:
   gifs: true
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian
@@ -1613,6 +1635,7 @@ fcs:
   gifs: true
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian
@@ -3635,6 +3658,25 @@ fcs:
   deyes: bluee
   doccupation: actor producer
   img: https://pbs.twimg.com/media/EpvcUIjXUAAnEHe.jpg
+- name: jessica matten
+  alias: ''
+  gender: cis woman
+  birth: 30/11/1985
+  eth: ''
+  nationality: canadian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://images.squarespace-cdn.com/content/v1/5d640d202efc290001213c04/1567338107264-0UJBU8LAB141I7Z6RBV9/10colors.jpg?format=1500w
 - name: jessie mei li
   alias: ''
   gender: cis woman
@@ -3749,7 +3791,7 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/1564779175792-QI1KPYXTENZPC7ZTQWUW/Flaunt+Magazine+-+Jimmi+Simpson+-+1.jpg?format=1000w
-- name: josefine petterson
+- name: josefine pettersen
   alias: ''
   gender: cis woman
   birth: 18/05/1996
@@ -4775,6 +4817,25 @@ fcs:
   deyes: browne
   doccupation: singer musician influencer
   img: https://pbs.twimg.com/media/EBd0O8DXYAA6LlW.jpg
+- name: madison davenport
+  alias: ''
+  gender: cis woman
+  birth: 22/11/1996
+  eth: English, German, Danish and Northern Irish
+  nationality: american
+  occupation: actress and singer
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: actor singer
+  img: https://geeksoncoffee.com/wp-content/uploads/2020/01/Madison-Davenport-sexy-picture.jpg
 - name: maggie lindemann
   alias: ''
   gender: cis woman
@@ -4832,6 +4893,25 @@ fcs:
   deyes: browne
   doccupation: actor athlete
   img: https://media.gq.com/photos/577fafe51581f29e21b4bcd2/master/w_1600%2Cc_limit/maika-monroe-gq-4.jpg
+- name: maisie williams
+  alias: ''
+  gender: cis woman
+  birth: 15/04/1997
+  eth: english
+  nationality: english
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh pinkh
+  deyes: greene
+  doccupation: actor
+  img: http://images6.fanpop.com/image/photos/42900000/Maisie-Williams-Tings-Magazine-Photoshoot-maisie-williams-42922191-1280-1707.jpg
 - name: malin akerman
   alias: ''
   gender: cis woman
@@ -5421,6 +5501,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://data.whicdn.com/images/345047772/original.jpg
+- name: natalie dormer
+  alias: ''
+  gender: cis woman
+  birth: 11/02/1982
+  eth: english, Norwegian, Welsh
+  nationality: english
+  occupation: actress
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/c1/2e/50/c12e50f9445f6b1ce803adc549d42f5e.jpg
 - name: nathalie kelley
   alias: ''
   gender: cis woman
@@ -5619,7 +5718,7 @@ fcs:
   nationality: American
   occupation: actor, singer
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -5819,6 +5918,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://i.pinimg.com/originals/9b/29/30/9b2930e03159e0d9ea0fe4d9a5116045.jpg
+- name: pinkpantheress
+  alias: ''
+  gender: cis woman
+  birth: 2001
+  eth: Kenyan and english
+  nationality: english
+  occupation: singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian african
+  dhair: blackh
+  deyes: browne
+  doccupation:
+  img: https://crackmagazine.net/wp-content/uploads/2021/11/Pink-Pantheress-Portrait-Gallery-4.jpg
 - name: polly ellens
   alias: ''
   gender: cis woman
