@@ -1769,6 +1769,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian oceanian
@@ -3298,6 +3299,25 @@ fcs:
   deyes: bluee
   doccupation: model influencer
   img: https://quemodels.com/_media/talent/39e4e75b747fddc781269bb53fdbcf61.jpg
+- name: isis battaglia
+  alias: ''
+  gender: cis woman
+  birth: 05/03/1991
+  eth: brazilian
+  nationality: brazilian
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: southern-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: model
+  img: https://www.fordmodels.com.br/upload/models/thumb_9b69413345d74ab5d3707ef10a304ad1.jpg
 - name: ivana baquero
   alias: ''
   gender: cis woman
@@ -5956,6 +5976,25 @@ fcs:
   deyes: bluee
   doccupation: model
   img: https://i.pinimg.com/564x/66/ae/b4/66aeb4be5a73d7462049580d419a753a.jpg
+- name: priyanka chopra
+  alias: priyanka chopra jonas
+  gender: cis woman
+  birth: 18/07/1982
+  eth: indian (Punjabi, Malayali, Bihari)
+  nationality: indian
+  occupation: actress and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: southern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer
+  img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9GDmvOlqplOZiKMuoYMCkaOOn4jVMFLJFfCY0YtOplUQyEiQSETZx7_Hx8rZEf6hhRYQ&usqp=CAU
 - name: rachel weisz
   alias: ''
   gender: cis woman
