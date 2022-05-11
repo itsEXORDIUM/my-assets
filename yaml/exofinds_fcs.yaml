@@ -5941,7 +5941,7 @@ fcs:
 - name: pinkpantheress
   alias: ''
   gender: cis woman
-  birth: 2001
+  birth: '2001'
   eth: Kenyan and english
   nationality: english
   occupation: singer
