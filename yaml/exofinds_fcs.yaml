@@ -1827,6 +1827,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian
@@ -1872,6 +1873,26 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://media.wonderlandmagazine.com/uploads/2022/02/000011450006-copy-JT-Cover-scaled.jpg
+- name: daisy ridley
+  alias: ''
+  gender: cis woman
+  birth: 10/04/1992
+  eth: English, Irish and German
+  nationality: english
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: true
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://pbs.twimg.com/media/ESRjbGKXcAIxboZ.jpg
 - name: dakota johnson
   alias: ''
   gender: cis woman
@@ -1922,6 +1943,7 @@ fcs:
   gifs: true
   icons: false
   gificons: true
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian
@@ -1960,6 +1982,7 @@ fcs:
   gifs: true
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '80'
   deth: northwest-eurasian
@@ -1979,6 +2002,7 @@ fcs:
   gifs: true
   icons: false
   gificons: true
+  other: true
   tattoos: ''
   dyear: '90'
   deth: northwest-eurasian
@@ -2024,6 +2048,26 @@ fcs:
   deyes: hazele
   doccupation: actor model
   img: https://az617363.vo.msecnd.net/imgmodels/models/MD30001669/2021-02-14_13_51_50.9920000ffa1905fe9cad309ab3c616fc4ae24af.jpg
+- name: daria sidorchuk
+  alias: ''
+  gender: cis woman
+  birth: ''
+  eth: Ukranian
+  nationality: Ukranian
+  occupation: model and influencer
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: true
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: redh gingerh
+  deyes: browne
+  doccupation: model influencer
+  img: https://data.whicdn.com/images/328035484/original.jpg
 - name: darren barnet
   alias: ''
   gender: cis man
@@ -3013,6 +3057,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: http://www.fringuesdeseries.com/wp-content/uploads/2015/04/greggsulkin7.jpg
+- name: greeicy rendon
+  alias: greeicy rendón, greeicy
+  gender: cis woman
+  birth: 30/10/1992
+  eth: colombian
+  nationality: colombian
+  occupation: actress, singer, model and dancer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: hispanic
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer model dancer
+  img: https://lastfm.freetls.fastly.net/i/u/770x0/f2a1304e52412a1346464e3290b652bf.jpg
 - name: hailee steinfeld
   alias: ''
   gender: cis woman
@@ -3032,6 +3095,45 @@ fcs:
   deyes: browne
   doccupation: actor singer musician model
   img: https://www.gotceleb.com/wp-content/uploads/photos/hailee-steinfeld/by-katia-temkin-photoshoot-november-2019/Hailee-Steinfeld-by-Katia-Temkin-Photoshoot-2019-03.jpg
+- name: haley lu richardson
+  alias: ''
+  gender: cis woman
+  birth: 07/03/1995
+  eth: English, German, Northern Irish, Scottish, French and Welsh
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://mfiles.alphacoders.com/841/841930.jpg
+- name: halle bailey
+  alias: halle
+  gender: cis woman
+  birth: 27/03/2000
+  eth: african-american
+  nationality: american
+  occupation: actress and singer
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '00'
+  deth: african
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer musician
+  img: https://i.pinimg.com/originals/c7/8e/8b/c78e8bc7b5e24b29a86ef8bfd0836803.jpg
 - name: halsey
   alias: ashley frangipane
   gender: cis woman
@@ -3666,7 +3768,7 @@ fcs:
   eth: English, Irish, Scottish, Welsh, Irish, French, Dutch, German, Basque, Castilian/Spanish, Greek.
   nationality: american
   occupation: actress and producer
-  avatar: false
+  avatar: true
   crackships: true
   gifs: false
   icons: false
@@ -4286,6 +4388,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.gotceleb.com/wp-content/uploads/photos/kiernan-shipka/teen-vogue-magazine-september-2015/Kiernan-Shipka:-Teen-Vogue-Magazine-2015--01.jpg
+- name: kim jennie
+  alias: jennie
+  gender: cis woman
+  birth: 16/01/1996
+  eth: Korean
+  nationality: south-korean
+  occupation: singer, rapper and musician
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: singer musician
+  img: https://i.pinimg.com/736x/99/dd/55/99dd55ffc745d9061100b2ebf4d7e65e.jpg
 - name: kit harington
   alias: ''
   gender: cis man
@@ -4426,7 +4547,7 @@ fcs:
   eth: German, English, Scottish and Welsh
   nationality: american
   occupation: actor
-  avatar: false
+  avatar: true
   crackships: false
   gifs: true
   icons: false
@@ -5597,6 +5718,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://i.pinimg.com/originals/3e/7b/8f/3e7b8f5aea957c101a2b609e37e62268.jpg
+- name: nick robinson
+  alias: ''
+  gender: cis man
+  birth: 22/03/1995
+  eth: English, Croatian, Irish, Scottish, Swedish, Danish and Welsh
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://inglam.ru/img/2020/02/nick-robinson-boys-by-girls-magazine-2016-003.jpg
 - name: nicola peltz
   alias: ''
   gender: cis woman
@@ -5813,11 +5953,11 @@ fcs:
   eth: Spanish
   nationality: Spanish
   occupation: Actress, Model
-  avatar: false
+  avatar: true
   crackships: false
   gifs: true
-  icons: false
-  gificons: false
+  icons: true
+  gificons: true
   tattoos: ''
   dyear: '70'
   deth: northwest-eurasian
@@ -5955,7 +6095,7 @@ fcs:
   deth: northwest-eurasian african
   dhair: blackh
   deyes: browne
-  doccupation:
+  doccupation: singer musician
   img: https://crackmagazine.net/wp-content/uploads/2021/11/Pink-Pantheress-Portrait-Gallery-4.jpg
 - name: polly ellens
   alias: ''
@@ -6052,6 +6192,25 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://assets.vogue.in/photos/5fbc9da8260388fa9edaec4e/master/w_2400,h_3600,c_limit/Rahul%20Kohli%207.jpg
+- name: rainey qualley
+  alias: ''
+  gender: cis woman
+  birth: 11/03/1990
+  eth: Norwegian, English, French, Scottish, Irish, Welsh, Belgian, and Dutch
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://celebmafia.com/wp-content/uploads/2020/10/rainey-qualley-photoshoot-for-office-magazine-october-2020-8.jpg
 - name: rami malek
   alias: ''
   gender: cis man
@@ -6679,6 +6838,25 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://backend.unikomodels.com/wp-content/uploads/2019/09/BOOK-SHEROUK-FARID-14.jpg
+- name: shomari francis
+  alias: ''
+  gender: cis man
+  birth: ''
+  eth: ''
+  nationality: american
+  occupation: model and influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '90'
+  deth: african
+  dhair: brownh
+  deyes: browne
+  doccupation: model influencer
+  img: https://pbs.twimg.com/media/E_l43x3XoAUOZKr.jpg
 - name: shonali singh
   alias: ''
   gender: cis woman
@@ -7270,6 +7448,25 @@ fcs:
   deyes: browne
   doccupation: actor dancer
   img: https://media.gq.com/photos/5d657d4995cc730009a32cd5/3:2/w_4022,h_2681,c_limit/tom-holland-cover-gq-style-fall-2019-social.jpg
+- name: tomer kapon
+  alias: ''
+  gender: cis man
+  birth: 16/06/1985
+  eth: iraqi, algerian and jewish
+  nationality: israeli
+  occupation: actor and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: southwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model
+  img: https://m.media-amazon.com/images/M/MV5BZGFhNGEwMDMtYWI5My00OTQzLTk5OTQtNTM4N2YzMzNmYzAzXkEyXkFqcGdeQXVyODEwOTI5OTc@._V1_UY1200_CR107,0,630,1200_AL_.jpg
 - name: tommy genesis
   alias: ''
   gender: cis woman
@@ -7555,6 +7752,44 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/1578946517863-J60VW9LLWUIA5NQWHSIH/Flaunt-Willa-Fitzgerald-1.jpg
+- name: william moseley
+  alias: ''
+  gender: cis man
+  birth: 27/04/1987
+  eth: scottish, english and welsh
+  nationality: english
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/2b/0c/48/2b0c486cf5bb611bd4b0338024fe593d.jpg
+- name: willow smith
+  alias: WILLOW
+  gender: cis woman
+  birth: 31/10/2000
+  eth: african-american
+  nationality: american
+  occupation: singer, actress and dancer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  tattoos: ''
+  dyear: '00'
+  deth: african northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: singer musician actor dancer
+  img: https://www.fashiongonerogue.com/wp-content/uploads/2021/06/Willow-Smith-V-Magazine-Cover-Photoshoot03.jpg
 - name: willy cartier
   alias: ''
   gender: cis man
