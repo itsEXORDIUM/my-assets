@@ -2176,6 +2176,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '90'
   deth: northwest-eurasian
@@ -2487,6 +2488,26 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: http://www.celebzz.com/wp-content/uploads/2018/03/elizabeth-olsen-at-photoshoot-for-h-m-2018-2.jpg
+- name: elizabeth vasilenko
+  alias: eli vasilenko
+  gender: cis woman
+  birth: 30/06/1998
+  eth: ''
+  nationality: ukrainian
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: influencer
+  img: https://img.wattpad.com/cd9fda783d91ebd19b8627e7668195b3b5f25fbf/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f504b6673653176736267686153773d3d2d36392e313630663834393566646330333130393236313336393736333436342e6a7067?s=fit&w=720&h=720
 - name: emeraude toubia
   alias: ''
   gender: cis woman
@@ -2762,7 +2783,7 @@ fcs:
   occupation: actress
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -2981,6 +3002,26 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.fashiongonerogue.com/wp-content/uploads/2019/03/Gemma-Chan-Modern-Luxury-Photoshoot02.jpg
+- name: genevieve gaunt
+  alias: ''
+  gender: cis woman
+  birth: 13/01/1991
+  eth: english
+  nationality: english
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://m.media-amazon.com/images/M/MV5BZGNiNmQ2YmItNmY3NS00NzViLTliNGItMTA4ZjVjNzkwY2JjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg
 - name: gigi hadid
   alias: ''
   gender: cis woman
@@ -4559,6 +4600,26 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://www.interviewmagazine.com/wp-content/uploads/2014/12/img-lee-pace_094404728674.jpg
+- name: leo suter
+  alias: ''
+  gender: cis man
+  birth: 26/09/1993
+  eth: english
+  nationality: english
+  occupation: actor and influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: hazele
+  doccupation: actor influencer
+  img: https://i.pinimg.com/originals/f1/4e/97/f14e978c3c7d4ed9c803bc00bc3429dd.jpg
 - name: lesley-ann brandt
   alias: ''
   gender: cis woman
@@ -6781,6 +6842,26 @@ fcs:
   deyes: greene
   doccupation: model
   img: https://i.pinimg.com/736x/6e/de/32/6ede3292a2531c2773b9298d767e2205.jpg
+- name: shannon berry
+  alias: ''
+  gender: cis woman
+  birth: 27/06/1999
+  eth: australian
+  nationality: australian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh brownh redh gingerh
+  deyes: greene
+  doccupation: actor
+  img: https://www.wallofcelebrities.com/celebrity/shannon-berry/pictures/xxlarge/shannon-berry_461446.jpg
 - name: shawn mendes
   alias: ''
   gender: cis man
@@ -7029,6 +7110,26 @@ fcs:
   deyes: greene
   doccupation: actor activist director producer
   img: https://i.pinimg.com/originals/ab/fe/16/abfe16cacaeaec3b28f99b652d47c93f.jpg
+- name: sophie cookson
+  alias: ''
+  gender: cis woman
+  birth: 15/05/1990
+  eth: english
+  nationality: english
+  occupation: actress
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.hawtcelebs.com/wp-content/uploads/2017/11/sophie-cookson-for-elle-magazine-october-2017-8.jpg
 - name: sophie skelton
   alias: ''
   gender: cis woman
@@ -7048,6 +7149,26 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://pbs.twimg.com/media/EwiSca5WUAIB_XJ.jpg:large
+- name: sophie thatcher
+  alias: ''
+  gender: cis woman
+  birth: 18/10/2000
+  eth: english
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://celebmafia.com/wp-content/uploads/2020/11/sophie-thatcher-photoshoot-april-2020-7.jpg
 - name: sophie turner
   alias: ''
   gender: cis woman
