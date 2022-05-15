@@ -1,15 +1,18 @@
 ---
 fcs:
-- name: aaron johnson
-  alias: ''
+- name: aaron taylor johnson
+  alias: aaron johnson
   gender: cis man
   birth: 13/06/1990
   eth: English, Irish and Ashkenazi Jewish
   nationality: English
   occupation: actor
   avatar: true
+  aimg:
+    - url: https://64.media.tumblr.com/8ff5a77c22f9e3d8e7b92b658e6dfb65/19ad90da92aa99c8-f4/s500x750/c7fe1286da8712274fa37d014de06ef0e0de7766.gifv
+      credit: EXORDIUM.
   crackships: false
-  gifs: true
+  gifs: false
   icons: false
   gificons: false
   tattoos: ''

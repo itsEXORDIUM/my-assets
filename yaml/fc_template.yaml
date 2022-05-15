@@ -6,11 +6,29 @@
   nationality:
   occupation:
   avatar: false
+    - img:
+      url: ''
+      credit: ''
   crackships: false
+    - img:
+      url: ''
+      credit: ''
   gifs: false
+    - img:
+      url: ''
+      credit: ''
   icons: false
+    - img:
+      url: ''
+      credit: ''
   gificons: false
+    - img:
+      url: ''
+      credit: ''
   other: false
+    - img:
+      url: ''
+      credit: ''
   tattoos: ''
   dyear:
   deth:
