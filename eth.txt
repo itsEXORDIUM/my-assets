@@ -25,6 +25,7 @@ southwest-eurasian
     egyptian
     Yemenite
     turkey
+    Armenian
 
 eastern-eurasian
     United Arab Emirates

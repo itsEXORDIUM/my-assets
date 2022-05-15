@@ -513,6 +513,26 @@ fcs:
   deyes: browne
   doccupation: musician
   img: https://assets-global.website-files.com/5db63dc519de55e028ef4816/60d18124fcfb2c91170553a5_Andy%20Blossom%20(1).jpg
+- name: angela sarafyan
+  alias: ''
+  gender: cis woman
+  birth: 30/06/1983
+  eth: Armenian
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: southwest-eurasian
+  dhair: brownh
+  deyes: hazele
+  doccupation: actor
+  img: https://celebmafia.com/wp-content/uploads/2018/06/angela-sarafyan-photoshoot-for-harper-s-bazaar-us-june-2018-6.jpg
 - name: anjelica bette fellini
   alias: ''
   gender: cis woman
@@ -2253,6 +2273,7 @@ fcs:
   gifs: false
   icons: false
   gificons: false
+  other: true
   tattoos: ''
   dyear: '90'
   deth: northwest-eurasian
@@ -2774,6 +2795,26 @@ fcs:
   deyes: greene
   doccupation: actor
   img: https://celebmafia.com/wp-content/uploads/2019/11/felicity-jones-photoshoot-for-the-observer-magazine-november-2019-1.jpg
+- name: fernando lindez
+  alias: fernando líndez
+  gender: cis man
+  birth: 16/03/2000
+  eth: ''
+  nationality: spanish
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://64.media.tumblr.com/98b5f6229711f4c54cf9324bb9b65f4c/tumblr_pr7hiyzusA1txskba_1280.jpg
 - name: florence pugh
   alias: ''
   gender: cis woman
@@ -3518,6 +3559,26 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://www.thefashionisto.com/wp-content/uploads/2019/06/Jack-OConnell-2019-The-Last-Magazine-004.jpg
+- name: jacob elordi
+  alias: ''
+  gender: cis man
+  birth: 26/06/1997
+  eth: basque
+  nationality: australian
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: browne
+  doccupation: actor
+  img: http://jacobelordi.com/gallery/albums/PhotoSessions/015/mq-00005.jpg
 - name: jade tailor
   alias: ''
   gender: cis woman
@@ -3764,6 +3825,26 @@ fcs:
   deyes: bluee
   doccupation: actor
   img: https://i.pinimg.com/originals/14/06/74/1406745a70395eaa50605e4ae462bfd5.jpg
+- name: jensen ackles
+  alias: ''
+  gender: cis man
+  birth: 01/03/1978
+  eth: German, English, Scottish and Irish
+  nationality: american
+  occupation: actor and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: greene
+  doccupation: actor singer
+  img: https://64.media.tumblr.com/d5f8304fe1425e0f46c874b8fa1d855c/76b3574044c134b8-d0/s540x810/b5ee4a49ad574bb227255724b8480e1952a6f0bd.jpg
 - name: jeremy irvine
   alias: ''
   gender: cis man
@@ -3943,7 +4024,7 @@ fcs:
   nationality: American
   occupation: actor
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -4429,6 +4510,26 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.gotceleb.com/wp-content/uploads/photos/kiernan-shipka/teen-vogue-magazine-september-2015/Kiernan-Shipka:-Teen-Vogue-Magazine-2015--01.jpg
+- name: kim doyeon
+  alias: ''
+  gender: cis woman
+  birth: 04/12/1999
+  eth: korean
+  nationality: south-korean
+  occupation: singer
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: singer musician
+  img: https://i.pinimg.com/736x/df/4b/55/df4b555c5ad3521914a03b40c1759e1c.jpg
 - name: kim jennie
   alias: jennie
   gender: cis woman
@@ -6310,6 +6411,26 @@ fcs:
   deyes: browne
   doccupation: model
   img: https://mediaslide-europe.storage.googleapis.com/premier/pictures/4160/13812/large-1584119930-9620d479e619517fde48c52cea5ebda5.jpg
+- name: rayssa bratillieri
+  alias: ''
+  gender: cis woman
+  birth: 11/11/1997
+  eth: ''
+  nationality: brazilian
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: hispanic northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/originals/3b/6a/89/3b6a89c902631dee6426bd4f013344e4.jpg
 - name: rebecca breeds
   alias: ''
   gender: cis woman
@@ -6690,6 +6811,26 @@ fcs:
   deyes: bluee
   doccupation: actor model
   img: https://celebmafia.com/wp-content/uploads/2019/10/samara-weaving-collider-spotlight-photoshoot-august-2019-3.jpg
+- name: sandra mae frank
+  alias: ''
+  gender: cis woman
+  birth: 21/03/1990
+  eth: ''
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: deaf
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: greene
+  doccupation: actor
+  img: https://www.themoviedb.org/t/p/w500/giviV3KhxVeem0WhGBm7VlJbR2d.jpg
 - name: sara orrego
   alias: ''
   gender: cis woman
