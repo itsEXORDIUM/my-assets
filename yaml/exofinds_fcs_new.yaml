@@ -1,140 +1,146 @@
 ---
 fcs:
-- name: liza ostanina
-  alias: ''
-  gender: cis woman
-  birth: ''
-  eth: ''
-  nationality: russian
-  occupation: model
-  avatar: true
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  other: false
-  tattoos: freckles
-  dyear: ''
-  deth: northwest-eurasian
+- aaron taylor johnson:
+  identity:
+  - name : aaron taylor johnson
+    accents: ''
+    alias: aaron johnson
+  gender: cis man
+  birth:
+    - full: 13/06/1990
+      class: '90'
+  ethnicity:
+    - full: english, irish and ashkenazi jewish
+      class: northwest-eurasian jewish
+  nationality: english
+  occupation:
+    - full: actor
+      class: actor
+  particularities: ''
   dhair: brownh
   deyes: bluee
-  doccupation: model
-  img: https://64.media.tumblr.com/d601a534b2f1b87576b378999612d745/e1d08fdb721b2a86-4b/s1280x1920/58d0f017fc76f31cd6a037b9fa444ab3716a0179.jpg
-- name: zheng naixin
-  alias: nene
-  birthname: Ppornnappan pornpenpipat
-  gender: cis woman
-  birth: 25/06/1997
-  eth: thai, chinese
-  nationality: thai chinese
-  occupation: actress and singer
-  avatar: true
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  other: false
-  tattoos: ''
-  dyear: '90'
-  deth: eastern-eurasian
-  dhair: brownh pinkh whiteh
-  deyes: browne
-  doccupation: actor singer
-  img: https://pbs.twimg.com/media/EadBz-sXYAEqz9X.jpg
-- name: laura harrier
-  alias: ''
-  gender: cis woman
-  birth: 28/03/1990
-  eth: african-american, rusyn, english, german and swiss-german
-  nationality: american
-  occupation: actress and model
-  avatar: true
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  other: false
-  tattoos: ''
-  dyear: '90'
-  deth: african northwest-eurasian
-  dhair: brownh
-  deyes: browne
-  doccupation: actress model
-  img: https://media.wonderlandmagazine.com/uploads/2019/07/0792.jpg
-- name: aaron taylor johnson
-  alias: aaron johnson
-  gender: cis man
-  birth: 13/06/1990
-  eth: english, Irish and Ashkenazi Jewish
-  nationality: english
-  occupation: actor
-  avatar: true
+  img: https://i.pinimg.com/originals/f7/e6/b4/f7e6b4cee7d39e8e7dc38f0daad8e921.jpg
   avatars:
     - unabled : true
-      url: https://64.media.tumblr.com/8ff5a77c22f9e3d8e7b92b658e6dfb65/19ad90da92aa99c8-f4/s500x750/c7fe1286da8712274fa37d014de06ef0e0de7766.gifv
-      credit: EXORDIUM.
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  tattoos: ''
-  dyear: '90'
-  deth: northwest-eurasian southwest-eurasian
-  dhair: brownh
-  deyes: bluee
-  doccupation: actor
-  img: https://i.pinimg.com/originals/f7/e6/b4/f7e6b4cee7d39e8e7dc38f0daad8e921.jpg
-- name: aaron tveit
-  alias: ''
+      url: https://64.media.tumblr.com/b2ff513f86cc1e14515e5e871c6c388f/d82ceaee1d4bda00-71/s500x750/247ffa416bb7897fd41c81c142997ca3e24ed6e5.png
+      credit: etangsnrs
+  crackships:
+    - unabled : false
+      url: ''
+      credit: ''
+  gifs:
+    - unabled : true
+      url: https://64.media.tumblr.com/d0e5a309acf6901b6ac3e36613950ebe/tumblr_inline_o5rt8clRir1rifr4k_500.gif
+      credit: ''
+  icons:
+    - unabled : false
+      url: ''
+      credit: ''
+  gificons:
+    - unabled : false
+      url: ''
+      credit: ''
+  others:
+    - unabled : false
+      url: ''
+      credit: ''
+- aaron tveit:
+  identity:
+  - name : aaron tveit
+    accents: ''
+    alias: ''
   gender: cis man
-  birth: 21/10/1983
-  eth: german, Norwegian, Swedish, Danish, english, Irish and Polish
-  nationality: American
-  occupation: actor and singer
-  avatar: true
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  tattoos: ''
-  dyear: '80'
-  deth: northwest-eurasian
+  birth:
+    - full: 21/10/1983
+      class: '80'
+  ethnicity:
+    - full: german, norwegian, swedish, danish, english, irish and polish
+      class: northwest-eurasian
+  nationality: american
+  occupation:
+    - full: actor and singer
+      class: actor singer
+  particularities: ''
   dhair: blondeh
   deyes: bluee
-  doccupation: actor singer musician
   img: https://lastfm.freetls.fastly.net/i/u/770x0/8f77164447ee98f6b74eaa3984e37fe5.jpg
-- name: abbey lee kershaw
-  alias: abbey lee
+  avatars:
+    - unabled : true
+      url: https://64.media.tumblr.com/0ef166054bc339fc85adc745bb9bfd08/1cb6731080b688c2-5e/s500x750/1e500cdde613ef5dc014d391a75cbbcddc1ef966.png
+      credit: KIDDRESSOURCES
+  crackships:
+    - unabled : false
+      url: ''
+      credit: ''
+  gifs:
+    - unabled : false
+      url: ''
+      credit: ''
+  icons:
+    - unabled : false
+      url: ''
+      credit: ''
+  gificons:
+    - unabled : false
+      url: ''
+      credit: ''
+- abbey lee kershaw:
+  identity:
+  - name : abbey lee kershaw
+    accents: ''
+    alias: abbey lee
   gender: cis woman
-  birth: 12/06/1987
-  eth: english
-  nationality: Australian
-  occupation: model, actress and musician
-  avatar: true
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  tattoos: ''
-  dyear: '80'
-  deth: northwest-eurasian
+  birth:
+    - full: 12/06/1987
+      class: '80'
+  ethnicity:
+    - full: english
+      class: northwest-eurasian
+  nationality: australian
+  occupation:
+    - full: model, actress and musician
+      class: model actor musician
+  particularities: ''
   dhair: blondeh
   deyes: bluee
-  doccupation: model actor musician
   img: https://www.theplace2.ru/cache/archive/abbey_lee_kershaw/img/abbey_lee_westfield_feature-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg
+  avatars:
+    - unabled : true
+      url: https://64.media.tumblr.com/33b9b147c898fd44a1939e598abcf6c9/3047b12f2a8ae2a1-3e/s500x750/d8c5a543717a830e7036c9001ad2e5c2b8ec4308.gifv
+      credit: SOEURDELUNE
+  crackships:
+    - unabled : false
+      url: ''
+      credit: ''
+  gifs:
+    - unabled : false
+      url: ''
+      credit: ''
+  icons:
+    - unabled : false
+      url: ''
+      credit: ''
+  gificons:
+    - unabled : false
+      url: ''
+      credit: ''
+  others:
+    - unabled : false
+      url: ''
+      credit: ''
 - name: abigail cowen
   alias: ''
   gender: cis woman
   birth: 18/03/1998
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actress, model and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: redh gingerh
@@ -148,12 +154,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: actor and model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -165,14 +171,14 @@ fcs:
   gender: cis man
   birth: 10/03/1984
   eth: ''
-  nationality: American
+  nationality: american
   occupation: model actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -183,15 +189,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 09/08/1990
-  eth: Scottish, French and Irish
-  nationality: Australian
+  eth: scottish, french and irish
+  nationality: australian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -205,12 +211,12 @@ fcs:
   eth: english and Welsh
   nationality: english
   occupation: singer and songwriter
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -224,12 +230,12 @@ fcs:
   eth: Guatemalan and Puerto Rican
   nationality: Puerto-Rican
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: amerindian hispanic
   dhair: brownh
@@ -240,15 +246,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 18/09/2003
-  eth: english, Scottish, Irish, Norwegian, swiss-german, Dutch and Ashkenazi Jewish
+  eth: english, scottish, irish, norwegian, Swiss-german, Dutch and ashkenazi jewish
   nationality: american
   occupation: actor and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: brownh
@@ -260,14 +266,14 @@ fcs:
   gender: cis woman
   birth: 15/07/1988
   eth: Puerto Rican and Dominican
-  nationality: American
+  nationality: american
   occupation: actress and singer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: hispanic northwest-eurasian
   dhair: blackh
@@ -281,12 +287,12 @@ fcs:
   eth: english and Saudi-Arabian
   nationality: english
   occupation: actress and screenwriter
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh
@@ -297,15 +303,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 11/12/1990
-  eth: mexican, german and Ashkenazi Jewish
+  eth: mexican, german and ashkenazi jewish
   nationality: american
   occupation: actress and musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic northwest-eurasian southwest-eurasian
   dhair: blackh
@@ -316,15 +322,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 07/05/1992
-  eth: german, Belgian, english, Scottish and Channel Islander
+  eth: german, Belgian, english, scottish and Channel Islander
   nationality: canadian
   occupation: model, actor and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -335,15 +341,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 25/08/1976
-  eth: Swedish
-  nationality: Swedish
+  eth: swedish
+  nationality: swedish
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -354,15 +360,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 16/09/1981
-  eth: Danish, Scottish, english, Irish, Welsh
+  eth: danish, scottish, english, irish, Welsh
   nationality: american
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -373,15 +379,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 23/11/1996
-  eth: Serbian, german, english and Irish
+  eth: Serbian, german, english and irish
   nationality: american
   occupation: model and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -395,12 +401,12 @@ fcs:
   eth: ''
   nationality: Italian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh
@@ -411,15 +417,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/10/1988
-  eth: Swedish
-  nationality: Swedish
+  eth: swedish
+  nationality: swedish
   occupation: actress and dancer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -433,12 +439,12 @@ fcs:
   eth: Somali and norwegian
   nationality: norwegian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: brownh
@@ -449,15 +455,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/12/1985
-  eth: german, Welsh, swiss-german, Scottish, Irish and english
+  eth: german, Welsh, Swiss-german, scottish, irish and english
   nationality: american
   occupation: actress, singer and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -471,12 +477,12 @@ fcs:
   eth: Bhojpuri Nepalese
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -490,12 +496,12 @@ fcs:
   eth: Cuban
   nationality: Cuban
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -506,15 +512,15 @@ fcs:
   alias: aj cook
   gender: cis woman
   birth: 22/07/1978
-  eth: english, Scottish and Northern Irish
+  eth: english, scottish and Northern irish
   nationality: canadian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -525,15 +531,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 20/08/1983
-  eth: Ashkenazi Jewish and english
+  eth: ashkenazi jewish and english
   nationality: american english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh
@@ -545,14 +551,14 @@ fcs:
   gender: cis man
   birth: 26/12/1990
   eth: ''
-  nationality: American
+  nationality: american
   occupation: singer and actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '80'
   deth: northwest-eurasian
   dhair: blackh
@@ -566,12 +572,12 @@ fcs:
   eth: chinese
   nationality: chinese
   occupation: ''
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -585,13 +591,13 @@ fcs:
   eth: Armenian
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian
   dhair: brownh
@@ -605,12 +611,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: actress and model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -624,12 +630,12 @@ fcs:
   eth: ''
   nationality: french
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -640,15 +646,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 23/09/1978
-  eth: african-american
-  nationality: American
+  eth: African-american
+  nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: african
   dhair: blackh
@@ -662,12 +668,12 @@ fcs:
   eth: russian
   nationality: russian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -681,12 +687,12 @@ fcs:
   eth: Kashmiri Indian and english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southern-eurasian northwest-eurasian
   dhair: brownh
@@ -697,15 +703,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 16/04/1996
-  eth: english, Scottish and Spanish
+  eth: english, scottish and Spanish
   nationality: Argentinian english
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -719,12 +725,12 @@ fcs:
   eth: english, anglo-indian
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian southern-eurasian
   dhair: brownh
@@ -738,13 +744,13 @@ fcs:
   eth: german, spanish
   nationality: german spanish
   occupation: actor, singer and model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -758,12 +764,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: model actor and musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh
@@ -775,14 +781,14 @@ fcs:
   gender: cis woman
   birth: 15/07/1993
   eth: African/Caucasian
-  nationality: American
+  nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: redh brownh
@@ -796,12 +802,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh pinkh
@@ -813,14 +819,14 @@ fcs:
   gender: cis woman
   birth: 02/07/1985
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actress and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -834,12 +840,12 @@ fcs:
   eth: spanish, english, french
   nationality: french spanish
   occupation: actress and model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -850,15 +856,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 26/06/1984
-  eth: Puerto Rican, german, english and Irish
-  nationality: American
+  eth: Puerto Rican, german, english and irish
+  nationality: american
   occupation: actress, comedian, producer and writer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "80"
   deth: northwest-eurasian
   dhair: brownh
@@ -870,14 +876,14 @@ fcs:
   gender: cis woman
   birth: 22/11/2000
   eth: Puerto Rican, Native Hawaiian, Portuguese and Chinese
-  nationality: American
+  nationality: american
   occupation: actress and singer
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian amerindian eastern-eurasian
   dhair: brownh
@@ -891,12 +897,12 @@ fcs:
   eth: Gujarati Indian, english and Welsh
   nationality: canadian
   occupation: actor and singer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: true
-  tattoos: ''
+  particularities: ''
   other: true
   dyear: '90'
   deth: southern-eurasian northwest-eurasian
@@ -911,12 +917,12 @@ fcs:
   eth: ''
   nationality: australian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -930,12 +936,12 @@ fcs:
   eth: irish
   nationality: irish
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -949,12 +955,12 @@ fcs:
   eth: Indigenous, english
   nationality: english Filipino
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: amerindian northwest-eurasian
   dhair: multih
@@ -966,14 +972,14 @@ fcs:
   gender: cis woman
   birth: 02/03/1997
   eth: Mexican and Spanish
-  nationality: American
+  nationality: american
   occupation: singer, actress, rapper, model and dancer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic northwest-eurasian
   dhair: brownh
@@ -987,12 +993,12 @@ fcs:
   eth: Palestinian and dutch
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian northwest-eurasian
   dhair: brownh
@@ -1003,15 +1009,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 08/10/1997
-  eth: Italian, Cuban, Irish, english, german and Welsh
-  nationality: American
+  eth: Italian, Cuban, irish, english, german and Welsh
+  nationality: american
   occupation: actress, model and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '90'
   deth: northwest-eurasian hispanic
   dhair: blondeh redh blueh brownh
@@ -1022,15 +1028,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 20/08/1981
-  eth: english, german and Jewish
+  eth: english, german and jewish
   nationality: english
   occupation: actor singer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh blackh
@@ -1044,12 +1050,12 @@ fcs:
   eth: swedish
   nationality: swedish
   occupation: actor and model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "90"
   deth: northwest-eurasian
   dhair: brownh
@@ -1061,14 +1067,14 @@ fcs:
   gender: cis woman
   birth: 18/12/2001
   eth: irish, english
-  nationality: American
+  nationality: american
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1079,15 +1085,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 17/07/1992
-  eth: Ashkenazi Jewish, english, Scottish, Irish, Welsh, german and Cajun
+  eth: ashkenazi jewish, english, scottish, irish, Welsh, german and Cajun
   nationality: ''
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian northwest-eurasian
   dhair: blondeh
@@ -1101,12 +1107,12 @@ fcs:
   eth: Spanish
   nationality: Spanish
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1117,15 +1123,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 20/12/1984
-  eth: Irish and filipino
+  eth: irish and filipino
   nationality: australian
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian eastern-eurasian
   dhair: brownh
@@ -1136,15 +1142,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 01/09/1981
-  eth: english, Scottish and Irish
+  eth: english, scottish and irish
   nationality: american
   occupation: actor and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: redh gingerh blondeh
@@ -1156,14 +1162,14 @@ fcs:
   gender: cis woman
   birth: 27/03/1988
   eth: Hmong and Thai
-  nationality: American
+  nationality: american
   occupation: actress, singer and model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: eastern-eurasian
   dhair: brownh
@@ -1174,15 +1180,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 17/03/1987
-  eth: Scottish, german, english and Irish
-  nationality: American
+  eth: scottish, german, english and irish
+  nationality: american
   occupation: actor and streamer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blackh
@@ -1194,14 +1200,14 @@ fcs:
   gender: cis woman
   birth: 12/07/1993
   eth: Hawaiian, Slovenian, Russian and Japanese
-  nationality: American
+  nationality: american
   occupation: actor and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian eastern-eurasian
   dhair: blondeh
@@ -1213,14 +1219,14 @@ fcs:
   gender: cis woman
   birth: 12/09/1991
   eth: ''
-  nationality: American
+  nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1232,14 +1238,14 @@ fcs:
   gender: cis woman
   birth: 01/05/1990
   eth: english
-  nationality: Australian
+  nationality: australian
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -1251,14 +1257,14 @@ fcs:
   gender: cis woman
   birth: 30/12/1986
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actress, dancer, singer and martial artist
-  avatar: false
+  avatars: false
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1270,14 +1276,14 @@ fcs:
   gender: cis woman
   birth: 03/03/1997
   eth: Mexican and Cuban
-  nationality: American
+  nationality: american
   occupation: singer and actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic
   dhair: blackh
@@ -1291,13 +1297,13 @@ fcs:
   eth: Brazilian
   nationality: american
   occupation: actress, singer
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic southern-eurasian northwest-eurasian
   dhair: brownh
@@ -1311,12 +1317,12 @@ fcs:
   eth: ''
   nationality: french
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1330,12 +1336,12 @@ fcs:
   eth: french, english and irish
   nationality: french american
   occupation: model and actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1346,15 +1352,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 20/10/1988
-  eth: Afrikaner, Belgian, Dutch, French and german
+  eth: Afrikaner, Belgian, Dutch, french and german
   nationality: South-African
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian african
   dhair: blondeh
@@ -1365,15 +1371,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 12/08/1992
-  eth: english, Welsh and Ashkenazi Jewish
+  eth: english, Welsh and ashkenazi jewish
   nationality: english
   occupation: model, actress and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: northwest-eurasian southwest-eurasian
   dhair: blondeh
@@ -1387,12 +1393,12 @@ fcs:
   eth: ''
   nationality: ''
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -1406,12 +1412,12 @@ fcs:
   eth: ''
   nationality: Italian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1422,16 +1428,16 @@ fcs:
   alias: ''
   gender: cis man
   birth: 25/04/1987
-  eth: german, Irish and Italian
-  nationality: American
+  eth: german, irish and Italian
+  nationality: american
   occupation: actor and singer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -1445,12 +1451,12 @@ fcs:
   eth: puerto-rican
   nationality: puerto-rican
   occupation: model and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: ''
   deth: hispanic northwest-eurasian
   dhair: brownh
@@ -1461,15 +1467,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 18/07/1985
-  eth: english, Scottish, Irish and german
-  nationality: American
+  eth: english, scottish, irish and german
+  nationality: american
   occupation: actor and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -1483,12 +1489,12 @@ fcs:
   eth: japenese and korean
   nationality: South-Korean Japanese
   occupation: rapper and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: blondeh
@@ -1502,12 +1508,12 @@ fcs:
   eth: tamil
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southern-eurasian northwest-eurasian
   dhair: brownh
@@ -1521,12 +1527,12 @@ fcs:
   eth: caucasian and german
   nationality: german
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -1537,15 +1543,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 06/02/1994
-  eth: english and Norwegian
+  eth: english and norwegian
   nationality: english
   occupation: actor and musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1556,16 +1562,16 @@ fcs:
   alias: ''
   gender: cis man
   birth: 10/04/1980
-  eth: english, Irish, Scottish
+  eth: english, irish, scottish
   nationality: english
   occupation: actor, model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1579,12 +1585,12 @@ fcs:
   eth: british, french, german, polish and slovenian
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -1598,12 +1604,12 @@ fcs:
   eth: ''
   nationality: italian
   occupation: influencer and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -1614,16 +1620,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 18/04/1992
-  eth: Chinese, english, Scottish, Irish, swiss-german, german
+  eth: Chinese, english, scottish, irish, Swiss-german, german
   nationality: american
   occupation: actress and singer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian eastern-eurasian
   dhair: brownh
@@ -1635,15 +1641,15 @@ fcs:
   gender: cis woman
   birth: 10/02/1997
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1657,12 +1663,12 @@ fcs:
   eth: asian
   nationality: south-korean
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh redh
@@ -1676,12 +1682,12 @@ fcs:
   eth: Asian
   nationality: south-korean
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: eastern-eurasian
   dhair: blackh
@@ -1692,16 +1698,16 @@ fcs:
   alias: ''
   gender: cis man
   birth: 13/06/1981
-  eth: german, Irish, Italian, Welsh, english, Scottish
-  nationality: American
+  eth: german, irish, Italian, Welsh, english, scottish
+  nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -1712,16 +1718,16 @@ fcs:
   alias: ''
   gender: cis man
   birth: 14/04/1988
-  eth: english, Polish
-  nationality: American
+  eth: english, polish
+  nationality: american
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -1735,12 +1741,12 @@ fcs:
   eth: Saudi-Arabian
   nationality: Saudi-Arabian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian
   dhair: brownh
@@ -1751,15 +1757,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 25/05/1976
-  eth: Irish
-  nationality: Irish
+  eth: irish
+  nationality: irish
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -1773,12 +1779,12 @@ fcs:
   eth: Spanish, Indonesian
   nationality: Dutch
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian eastern-eurasian
   dhair: brownh
@@ -1792,12 +1798,12 @@ fcs:
   eth: hispanic
   nationality: brazilian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic
   dhair: brownh
@@ -1811,12 +1817,12 @@ fcs:
   eth: english
   nationality: australian
   occupation: actress model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian oceanian
   dhair: blondeh
@@ -1827,15 +1833,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 15/04/1995
-  eth: english, Penobscot Native American and Passamaquody Native American
-  nationality: American
+  eth: english, Penobscot Native american and Passamaquody Native american
+  nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian amerindian
   dhair: blondeh
@@ -1849,13 +1855,13 @@ fcs:
   eth: english
   nationality: australian
   occupation: actor and filmmaker
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian oceanian
   dhair: blondeh
@@ -1867,14 +1873,14 @@ fcs:
   gender: cis man
   birth: 27/04/1986
   eth: ''
-  nationality: American
+  nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -1888,12 +1894,12 @@ fcs:
   eth: english
   nationality: english
   occupation: model, actor and boxer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -1904,16 +1910,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 06/02/1985
-  eth: english, Scottish, Welsh, Polish
+  eth: english, scottish, Welsh, polish
   nationality: american
   occupation: actress and model
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -1924,15 +1930,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 22/11/1994
-  eth: Scottish, english and Irish
+  eth: scottish, english and irish
   nationality: australian
   occupation: actor and podcaster
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -1943,15 +1949,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 24/05/1998
-  eth: Scottish, Northern Irish
+  eth: scottish, Northern irish
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -1962,16 +1968,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 10/04/1992
-  eth: english, Irish and german
+  eth: english, irish and german
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -1982,15 +1988,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 04/10/1989
-  eth: english, Welsh, Swedish, german, Norwegian, Irish, Scottish
-  nationality: American
+  eth: english, Welsh, swedish, german, norwegian, irish, scottish
+  nationality: american
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -2004,12 +2010,12 @@ fcs:
   eth: Italian
   nationality: Italian
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2021,15 +2027,15 @@ fcs:
   gender: cis man
   birth: 06/02/1986
   eth: Dutch, german, Italian, english
-  nationality: American
+  nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: true
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -2043,12 +2049,12 @@ fcs:
   eth: german, Spanish
   nationality: german Spanish
   occupation: Actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -2059,16 +2065,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 30/01/1995
-  eth: german, Scottish, Cajun French, english, Irish
-  nationality: American
+  eth: german, scottish, Cajun french, english, irish
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -2080,15 +2086,15 @@ fcs:
   gender: cis woman
   birth: 31/10/1999
   eth: english, german
-  nationality: American
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: true
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2102,12 +2108,12 @@ fcs:
   eth: Mexican
   nationality: Mexican
   occupation: actress, singer, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic
   dhair: brownh
@@ -2121,12 +2127,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actor and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2140,13 +2146,13 @@ fcs:
   eth: Ukranian
   nationality: Ukranian
   occupation: model and influencer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: redh gingerh
@@ -2160,12 +2166,12 @@ fcs:
   eth: swedish, japanese, german and cherokee
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian eastern-eurasian amerindian
   dhair: brownh
@@ -2177,14 +2183,14 @@ fcs:
   gender: cis woman
   birth: 19/12/1999
   eth: ''
-  nationality: American
+  nationality: american
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh
@@ -2195,16 +2201,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 15/07/1976
-  eth: german, Polish
+  eth: german, polish
   nationality: german
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2215,15 +2221,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 30/04/1986
-  eth: Ashkenazi Jewish, Irish, german, Norwegian, english
+  eth: ashkenazi jewish, irish, german, norwegian, english
   nationality: american
   occupation: actress, singer, dancer and director
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2237,12 +2243,12 @@ fcs:
   eth: Nepali Tibetan, german
   nationality: napalese australian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: eastern-eurasian oceanian
   dhair: blondeh
@@ -2256,13 +2262,13 @@ fcs:
   eth: spanish
   nationality: Spanish
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2273,15 +2279,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 29/12/1979
-  eth: Mexican, Scottish and english
+  eth: Mexican, scottish and english
   nationality: mexican
   occupation: actor, singer, director and producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: hispanic northwest-eurasian
   dhair: brownh
@@ -2292,15 +2298,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 21/10/1995
-  eth: Zulu South African, Ashkenazi Jewish
+  eth: Zulu South African, ashkenazi jewish
   nationality: american
   occupation: rapper, singer, songwriter and record producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: blondeh redh pinkh
@@ -2314,12 +2320,12 @@ fcs:
   eth: ''
   nationality: hungarian
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: "80"
   deth: northwest-eurasian
   dhair: brownh blackh
@@ -2330,16 +2336,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 15/01/1996
-  eth: Austrian, german, French, english, Scottish, Swedish, Danish, Hungarian
-  nationality: American
+  eth: Austrian, german, french, english, scottish, swedish, danish, Hungarian
+  nationality: american
   occupation: actress, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2353,12 +2359,12 @@ fcs:
   eth: Albanian, Bosniak
   nationality: english
   occupation: singer, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2372,12 +2378,12 @@ fcs:
   eth: tunjur
   nationality: sudanese american
   occupation: singer and actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian
   dhair: brownh
@@ -2391,12 +2397,12 @@ fcs:
   eth: African-Canadian and Samoan
   nationality: american
   occupation: actor, producer, professional wrestler and football player
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '70'
   deth: african oceanian northwest-eurasian
   dhair: blackh
@@ -2410,12 +2416,12 @@ fcs:
   eth: irish, italien, spanish, english
   nationality: american
   occupation: actor, musician, director
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2426,15 +2432,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 1994
-  eth: Thai, Danish
-  nationality: Danish
+  eth: Thai, danish
+  nationality: danish
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair: blackh
@@ -2448,12 +2454,12 @@ fcs:
   eth: Mexican, Spanish, Indigenous
   nationality: Mexican
   occupation: actor, singer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic amerindian
   dhair: brownh
@@ -2467,12 +2473,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2483,15 +2489,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 09/04/1998
-  eth: german, english, Irish, French, Channel Islander
-  nationality: American
+  eth: german, english, irish, french, Channel Islander
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2505,12 +2511,12 @@ fcs:
   eth: ''
   nationality: ''
   occupation: artist
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: ''
   deth: northwest-eurasian
   dhair: brownh
@@ -2522,14 +2528,14 @@ fcs:
   gender: cis woman
   birth: 26/07/1993
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actress, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh blackh brownh
@@ -2540,15 +2546,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 25/03/1992
-  eth: english, german, Scottish
-  nationality: American
+  eth: english, german, scottish
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2559,15 +2565,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 16/02/1989
-  eth: Norwegian, english, german
-  nationality: American
+  eth: norwegian, english, german
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -2581,13 +2587,13 @@ fcs:
   eth: ''
   nationality: ukrainian
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2599,14 +2605,14 @@ fcs:
   gender: cis woman
   birth: 01/03/1989
   eth: Lebanese, Mexican
-  nationality: American
+  nationality: american
   occupation: actress, model, dancer
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian hispanic
   dhair: blackh
@@ -2617,15 +2623,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 06/05/2002
-  eth: Swedish, german, english
-  nationality: American
+  eth: swedish, german, english
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2639,12 +2645,12 @@ fcs:
   eth: half black, half malaysian
   nationality: english
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: freckles
+  particularities: freckles
   dyear: '90'
   deth: african eastern-eurasian
   dhair: brownh
@@ -2656,14 +2662,14 @@ fcs:
   gender: cis woman
   birth: 07/12/1988
   eth: english
-  nationality: Australian
+  nationality: australian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian oceanian
   dhair: brownh
@@ -2674,15 +2680,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 04/01/1996
-  eth: French, english
-  nationality: French english
+  eth: french, english
+  nationality: french english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2693,15 +2699,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 10/02/1991
-  eth: english, german, Swedish, Irish, Scottish, Welsh
+  eth: english, german, swedish, irish, scottish, Welsh
   nationality: american
   occupation: actress and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -2712,15 +2718,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 06/11/1988
-  eth: Swedish, german, Welsh, Irish, english, Scottish, swiss-german
-  nationality: American
+  eth: swedish, german, Welsh, irish, english, scottish, Swiss-german
+  nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: redh brownh blondeh
@@ -2731,15 +2737,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 26/01/2000
-  eth: english, Irish, Scottish, german
-  nationality: American
+  eth: english, irish, scottish, german
+  nationality: american
   occupation: actress, model, musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2750,15 +2756,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 06/07/1980
-  eth: Swedish, Breton, French, Sephardi Jewish, Spanish
+  eth: swedish, Breton, french, Sephardi jewish, Spanish
   nationality: french
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh
@@ -2772,12 +2778,12 @@ fcs:
   eth: filipino american
   nationality: american
   occupation: model, actor and skateboarder
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair: pinkh
@@ -2791,12 +2797,12 @@ fcs:
   eth: german
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -2807,15 +2813,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 07/09/1987
-  eth: english, Irish, Scottish, german
-  nationality: American
+  eth: english, irish, scottish, german
+  nationality: american
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2826,15 +2832,15 @@ fcs:
   alias: ''
   gender: non binary
   birth: 30/09/1992
-  eth: Ashkenazi Jewish, german, Dutch
-  nationality: American
+  eth: ashkenazi jewish, german, Dutch
+  nationality: american
   occupation: actor, singer, musician, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2848,12 +2854,12 @@ fcs:
   eth: english, Italian
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -2867,13 +2873,13 @@ fcs:
   eth: ''
   nationality: spanish
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: brownh
@@ -2884,15 +2890,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/01/1996
-  eth: english, Irish
+  eth: english, irish
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -2906,12 +2912,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: northwest-eurasian
   dhair: redh gingerh
@@ -2923,14 +2929,14 @@ fcs:
   gender: cis man
   birth: 08/06/1965
   eth: Italian
-  nationality: American
+  nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '60'
   deth: northwest-eurasian
   dhair: brownh
@@ -2944,12 +2950,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -2963,12 +2969,12 @@ fcs:
   eth: Konkani Indian
   nationality: Indian
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southern-eurasian
   dhair: brownh
@@ -2982,12 +2988,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: ''
   deth: northwest-eurasian
   dhair: blondeh
@@ -3001,12 +3007,12 @@ fcs:
   eth: swedish
   nationality: swedish
   occupation: model, actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3018,14 +3024,14 @@ fcs:
   gender: cis man
   birth: 27/04/1998
   eth: Mexican/Caxcan Indigenous, European
-  nationality: American
+  nationality: american
   occupation: actor, model, musician
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic amerindian northwest-eurasian
   dhair: blondeh
@@ -3037,14 +3043,14 @@ fcs:
   gender: cis man
   birth: 03/09/1984
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actor, model, musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3055,15 +3061,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 30/04/1985
-  eth: Ashkenazi Jewish, Israeli
+  eth: ashkenazi jewish, Israeli
   nationality: Israeli
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian northwest-eurasian
   dhair: brownh
@@ -3074,15 +3080,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 02/02/1986
-  eth: english, Jewish
+  eth: english, jewish
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3096,12 +3102,12 @@ fcs:
   eth: asian
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "80"
   deth: northwest-eurasian eastern-eurasian
   dhair: brownh
@@ -3115,13 +3121,13 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -3135,12 +3141,12 @@ fcs:
   eth: Palestinian and dutch
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian southwest-eurasian
   dhair: blondeh
@@ -3154,12 +3160,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -3173,12 +3179,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: tattoo-artist, model and presenter
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: ''
   dhair: blackh
@@ -3189,15 +3195,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 29/05/1992
-  eth: english, Ashkenazi Jewish and Sephardi Jewish
+  eth: english, ashkenazi jewish and Sephardi jewish
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh
@@ -3211,12 +3217,12 @@ fcs:
   eth: colombian
   nationality: colombian
   occupation: actress, singer, model and dancer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic
   dhair: brownh
@@ -3227,15 +3233,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 11/12/1996
-  eth: Ashkenazi Jewish, english, german, Irish, Scottish, Boholano Filipino, african-american
+  eth: ashkenazi jewish, english, german, irish, scottish, Boholano Filipino, African-american
   nationality: american
   occupation: actress, singer and model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian eastern-eurasian african
   dhair: brownh
@@ -3246,16 +3252,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 07/03/1995
-  eth: english, german, Northern Irish, Scottish, French and Welsh
+  eth: english, german, Northern irish, scottish, french and Welsh
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3269,12 +3275,12 @@ fcs:
   eth: african-american
   nationality: american
   occupation: actress and singer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: african
   dhair: brownh
@@ -3285,16 +3291,16 @@ fcs:
   alias: ashley frangipane
   gender: cis woman
   birth: 29/09/1994
-  eth: african-american, Irish, Italian, Hungarian, Mixed
-  nationality: American
+  eth: African-american, irish, Italian, Hungarian, Mixed
+  nationality: american
   occupation: actress, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: blondeh
@@ -3305,15 +3311,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 10/05/1993
-  eth: Ashkenazi Jewish
-  nationality: American
+  eth: ashkenazi jewish
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh
@@ -3327,12 +3333,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh
@@ -3343,15 +3349,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/04/1991
-  eth: Japanese, Scottish, Welsh, german
-  nationality: American
+  eth: Japanese, scottish, Welsh, german
+  nationality: american
   occupation: singer, actress, dancer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair: brownh
@@ -3365,12 +3371,12 @@ fcs:
   eth: english, irish, scottish
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3381,15 +3387,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 02/04/1997
-  eth: Norwegian
-  nationality: Norwegian
+  eth: norwegian
+  nationality: norwegian
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -3400,15 +3406,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 19/07/1975
-  eth: english, Welsh, Scottish
+  eth: english, Welsh, scottish
   nationality: english
   occupation: actor, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -3420,14 +3426,14 @@ fcs:
   gender: trans woman
   birth: 31/12/1998
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actor, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3441,12 +3447,12 @@ fcs:
   eth: Sierra Leonean, Ghanaian
   nationality: english
   occupation: actor, musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: african
   dhair: blackh
@@ -3457,15 +3463,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/06/1989
-  eth: Northern Irish, english, Scottish
+  eth: Northern irish, english, scottish
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3476,15 +3482,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 27/10/1986
-  eth: Polish Jewish, Moroccan Jewish
-  nationality: Israeli American
+  eth: polish jewish, Moroccan jewish
+  nationality: Israeli american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh
@@ -3495,15 +3501,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 29/10/1993
-  eth: english, Argentinian, Scottish, german
-  nationality: American
+  eth: english, Argentinian, scottish, german
+  nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -3517,12 +3523,12 @@ fcs:
   eth: puerto rican
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: brownh
@@ -3536,12 +3542,12 @@ fcs:
   eth: ''
   nationality: australian
   occupation: model and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: oceanian northwest-eurasian
   dhair: brownh
@@ -3555,12 +3561,12 @@ fcs:
   eth: brazilian
   nationality: brazilian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southern-eurasian
   dhair: brownh
@@ -3574,12 +3580,12 @@ fcs:
   eth: spanish
   nationality: spanish
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -3590,15 +3596,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 20/02/1989
-  eth: Irish, Italian, german, swiss, english
-  nationality: American
+  eth: irish, Italian, german, Swiss, english
+  nationality: american
   occupation: actor, singer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3609,15 +3615,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 01/08/1990
-  eth: Irish, english
+  eth: irish, english
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -3631,13 +3637,13 @@ fcs:
   eth: basque
   nationality: australian
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3648,15 +3654,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 12/08/1985
-  eth: Ashkenazi Jewish, german, english, Irish, Dutch, Scottish
+  eth: ashkenazi jewish, german, english, irish, Dutch, scottish
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3670,12 +3676,12 @@ fcs:
   eth: Egyptian, Yemenite, Macedonian Greek, english
   nationality: english
   occupation: singer, dancer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian amerindian northwest-eurasian
   dhair: brownh
@@ -3689,12 +3695,12 @@ fcs:
   eth: ''
   nationality: canadian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh
@@ -3705,15 +3711,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 19/12/1980
-  eth: Swedish, english, swiss-german, german, Scottish, Ashkenazi Jewish
+  eth: swedish, english, Swiss-german, german, scottish, ashkenazi jewish
   nationality: ''
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3724,15 +3730,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 12/03/1984
-  eth: german, english, Welsh, Irish
-  nationality: American
+  eth: german, english, Welsh, irish
+  nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blackh
@@ -3743,15 +3749,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 22/11/1988
-  eth: english, Scottish
+  eth: english, scottish
   nationality: english
   occupation: singer, actor, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3763,14 +3769,14 @@ fcs:
   gender: cis man
   birth: 26/12/1971
   eth: ''
-  nationality: American
+  nationality: american
   occupation: singer, musician, actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -3784,12 +3790,12 @@ fcs:
   eth: Native Hawaiian, german
   nationality: american
   occupation: actor, model, director, writer and producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '70'
   deth: amerindian northwest-eurasian
   dhair: brownh
@@ -3803,12 +3809,12 @@ fcs:
   eth: welsh, irish, english
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '60'
   deth: northwest-eurasian
   dhair: brownh grayh
@@ -3821,12 +3827,12 @@ fcs:
   eth: ''
   nationality: dutch
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: ''
   deth: northwest-eurasian
   dhair: blondeh
@@ -3840,12 +3846,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3857,14 +3863,14 @@ fcs:
   gender: cis woman
   birth: 27/09/2002
   eth: Mexican, Puerto Rican
-  nationality: American
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: hispanic northwest-eurasian
   dhair: brownh
@@ -3875,15 +3881,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 11/02/1969
-  eth: Greek, Scottish, Albanian and english
+  eth: Greek, scottish, Albanian and english
   nationality: american
   occupation: actress, director and producer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '60'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3894,16 +3900,16 @@ fcs:
   alias: ''
   gender: cis man
   birth: 01/03/1978
-  eth: german, english, Scottish and Irish
+  eth: german, english, scottish and irish
   nationality: american
   occupation: actor and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -3917,12 +3923,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -3933,15 +3939,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 28/04/1981
-  eth: Mexican, Spanish, Danish, Welsh, english, Scottish, Irish, French
-  nationality: American
+  eth: Mexican, Spanish, danish, Welsh, english, scottish, irish, french
+  nationality: american
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: hispanic northwest-eurasian
   dhair: brownh
@@ -3952,15 +3958,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 24/03/1977
-  eth: english, Irish, Scottish, Welsh, Irish, French, Dutch, german, Basque, Castilian/Spanish, Greek.
+  eth: english, irish, scottish, Welsh, irish, french, Dutch, german, Basque, Castilian/Spanish, Greek.
   nationality: american
   occupation: actress and producer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: redh gingerh
@@ -3974,12 +3980,12 @@ fcs:
   eth: ''
   nationality: canadian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -3993,12 +3999,12 @@ fcs:
   eth: english and chinese
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: piercings
+  particularities: piercings
   dyear: '90'
   deth: northwest-eurasian eastern-eurasian
   dhair: brownh
@@ -4009,15 +4015,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 28/08/1974
-  eth: english, Ashkenazi Jewish
+  eth: english, ashkenazi jewish
   nationality: american
   occupation: actor, musician, producer, director and activist
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -4031,12 +4037,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4047,15 +4053,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 25/11/1979
-  eth: german, english, Scottish, Irish, Swedish, Ashkenazi Jewish
-  nationality: Swedish/American
+  eth: german, english, scottish, irish, swedish, ashkenazi jewish
+  nationality: swedish/american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4066,15 +4072,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 20/09/1976
-  eth: Ashkenazi Jewish
+  eth: ashkenazi jewish
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -4086,14 +4092,14 @@ fcs:
   gender: cis man
   birth: 21/11/1975
   eth: english
-  nationality: American
+  nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -4104,15 +4110,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 18/05/1996
-  eth: Norwegian
-  nationality: Norwegian
+  eth: norwegian
+  nationality: norwegian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4126,12 +4132,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -4145,12 +4151,12 @@ fcs:
   eth: english
   nationality: australian
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4164,12 +4170,12 @@ fcs:
   eth: ukrainian
   nationality: ukrainian
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: freckles
+  particularities: freckles
   dyear: '90'
   deth: northwest-eurasian
   dhair: gingerh redh
@@ -4183,12 +4189,12 @@ fcs:
   eth: South Korean
   nationality: South Korean
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -4200,14 +4206,14 @@ fcs:
   gender: cis woman
   birth: 13/08/1996
   eth: ''
-  nationality: American
+  nationality: american
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4218,15 +4224,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/09/2001
-  eth: Ashkenazi Jewish, english, Danish, Irish, Scottish, german
+  eth: ashkenazi jewish, english, danish, irish, scottish, german
   nationality: american
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4238,14 +4244,14 @@ fcs:
   gender: cis woman
   birth: 15/07/1998
   eth: ''
-  nationality: American
+  nationality: american
   occupation: singer musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '90'
   deth: northwest-eurasian
   dhair: blueh greenh blondeh
@@ -4256,15 +4262,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 28/11/1987
-  eth: Scottish
-  nationality: Scottish
+  eth: scottish
+  nationality: scottish
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: redh gingerh
@@ -4278,12 +4284,12 @@ fcs:
   eth: german
   nationality: new-zealander
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -4294,15 +4300,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 13/06/1986
-  eth: Ashkenazi Jewish
-  nationality: American
+  eth: ashkenazi jewish
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -4313,15 +4319,15 @@ fcs:
   alias: katherine mcnamara
   gender: cis woman
   birth: 22/11/1995
-  eth: english, Irish, Welsh, german, Swedish, swiss-german
+  eth: english, irish, Welsh, german, swedish, Swiss-german
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: redh gingerh blondeh
@@ -4335,12 +4341,12 @@ fcs:
   eth: english, Burmese
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian eastern-eurasian
   dhair: brownh blackh
@@ -4354,12 +4360,12 @@ fcs:
   eth: Ukrainian
   nationality: Canadian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: eastern-eurasian
   dhair: blondeh
@@ -4371,14 +4377,14 @@ fcs:
   gender: cis woman
   birth: 28/03/1986
   eth: ''
-  nationality: American
+  nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: piercings
+  particularities: piercings
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh multih
@@ -4390,14 +4396,14 @@ fcs:
   gender: cis woman
   birth: 30/09/1985
   eth: german, Italian, Taiwanese
-  nationality: American
+  nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair: brownh blackh
@@ -4408,15 +4414,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 02/09/1964
-  eth: Native Hawaiian, Portuguese, english, Scottish
+  eth: Native Hawaiian, Portuguese, english, scottish
   nationality: canadian
   occupation: actor, musician, director, writer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '60'
   deth: northwest-eurasian amerindian
   dhair: brownh
@@ -4430,12 +4436,12 @@ fcs:
   eth: english, scottish and welsh
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -4446,15 +4452,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 6/08/1993
-  eth: african-american
+  eth: African-american
   nationality: american
   occupation: actress, singer, songwriter, presenter
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african
   dhair: brownh
@@ -4466,14 +4472,14 @@ fcs:
   gender: cis woman
   birth: 09/09/1991
   eth: Chinese Taiwanese, english, german
-  nationality: American
+  nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair: brownh
@@ -4487,12 +4493,12 @@ fcs:
   eth: turkish
   nationality: turkish
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian northwest-eurasian
   dhair: redh gingerh brownh
@@ -4506,12 +4512,12 @@ fcs:
   eth: ''
   nationality: swiss
   occupation: model, tattoo artist, influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4525,12 +4531,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: influencer, singer and actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -4541,15 +4547,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/04/1997
-  eth: african-american, Swedish, Norwegian, Mexican, Native American
+  eth: African-american, swedish, norwegian, Mexican, Native american
   nationality: american
   occupation: singer, songwriter, actress and pianist
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian hispanic amerindian
   dhair: brownh
@@ -4560,15 +4566,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 10/11/1999
-  eth: Irish, slovak, german, italian, english, scottish, french
+  eth: irish, slovak, german, italian, english, scottish, french
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4582,13 +4588,13 @@ fcs:
   eth: korean
   nationality: south-korean
   occupation: singer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -4602,12 +4608,12 @@ fcs:
   eth: Korean
   nationality: south-korean
   occupation: singer, rapper and musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -4618,15 +4624,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 26/12/1986
-  eth: english, Scottish, Northern Irish, Welsh, Dutch
+  eth: english, scottish, Northern irish, Welsh, Dutch
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh blackh
@@ -4637,15 +4643,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 09/04/1990
-  eth: english, Irish, Scottish, Welsh, Irish, Ashkenazi Jewish
-  nationality: American
+  eth: english, irish, scottish, Welsh, irish, ashkenazi jewish
+  nationality: american
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -4656,15 +4662,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 21/09/1995
-  eth: Norwegian
-  nationality: American
+  eth: norwegian
+  nationality: american
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -4678,12 +4684,12 @@ fcs:
   eth: Russian, Baltic german
   nationality: Canadian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blackh blondeh
@@ -4697,12 +4703,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -4716,12 +4722,12 @@ fcs:
   eth: ''
   nationality: Netherlands
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4733,14 +4739,14 @@ fcs:
   gender: cis woman
   birth: 27/06/1996
   eth: Cuban
-  nationality: American
+  nationality: american
   occupation: singer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian hispanic
   dhair: brownh
@@ -4751,15 +4757,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 25/03/1979
-  eth: german, english, Scottish and Welsh
+  eth: german, english, scottish and Welsh
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -4773,13 +4779,13 @@ fcs:
   eth: english
   nationality: english
   occupation: actor and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -4790,15 +4796,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 02/12/1981
-  eth: Cape Coloured, english, East Indian, german, Spanish, Dutch, Khoisan, Ashkenazi Jewish
+  eth: Cape Coloured, english, East Indian, german, Spanish, Dutch, Khoisan, ashkenazi jewish
   nationality: South-African
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: african northwest-eurasian
   dhair: brownh
@@ -4812,12 +4818,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -4828,15 +4834,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 09/04/1999
-  eth: african-american
-  nationality: American
+  eth: African-american
+  nationality: american
   occupation: rapper, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african
   dhair: blackh
@@ -4847,15 +4853,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 13/09/1996
-  eth: german, French-Canadian
+  eth: german, french-Canadian
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -4867,14 +4873,14 @@ fcs:
   gender: cis woman
   birth: 26/02/1986
   eth: ''
-  nationality: American
+  nationality: american
   occupation: singer, musician, actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh brownh
@@ -4885,15 +4891,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 18/03/1989
-  eth: english, german, Ashkenazi Jewish
-  nationality: english/American
+  eth: english, german, ashkenazi jewish
+  nationality: english/american
   occupation: actress, model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blackh
@@ -4904,15 +4910,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 05/04/1989
-  eth: French, english, Scottish and german
+  eth: french, english, scottish and german
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -4926,12 +4932,12 @@ fcs:
   eth: filipino and australian
   nationality: australian
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair:  blondeh
@@ -4945,12 +4951,12 @@ fcs:
   eth: chinese
   nationality: chinese
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -4964,12 +4970,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: model influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -4983,12 +4989,12 @@ fcs:
   eth: french and jewish
   nationality: french
   occupation: actor and filmmaker
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5002,12 +5008,12 @@ fcs:
   eth: ''
   nationality: danish
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5019,14 +5025,14 @@ fcs:
   gender: cis man
   birth: 04/06/1998
   eth: english
-  nationality: American
+  nationality: american
   occupation: model, actor, musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5038,14 +5044,14 @@ fcs:
   gender: cis woman
   birth: 02/12/1968
   eth: Han Chinese
-  nationality: American
+  nationality: american
   occupation: actress, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '60'
   deth: southwest-eurasian
   dhair: blackh
@@ -5059,12 +5065,12 @@ fcs:
   eth: Luo Kenyan
   nationality: kenyan mexican
   occupation: actress, author and director
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: african
   dhair: brownh
@@ -5076,14 +5082,14 @@ fcs:
   gender: cis woman
   birth: 15/03/1994
   eth: ''
-  nationality: American
+  nationality: american
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5094,15 +5100,15 @@ fcs:
   alias: colson baker
   gender: cis man
   birth: 22/04/1990
-  eth: Norwegian, english, german, Scottish
-  nationality: American
+  eth: norwegian, english, german, scottish
+  nationality: american
   occupation: rapper, singer, musician, actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5113,15 +5119,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 30/09/2002
-  eth: german, Polish, Italian, Scottish
+  eth: german, polish, Italian, scottish
   nationality: american
   occupation: dancer, actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -5133,14 +5139,14 @@ fcs:
   gender: cis woman
   birth: 18/08/1994
   eth: Afrikaner
-  nationality: American
+  nationality: american
   occupation: actress, influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: redh gingerh
@@ -5152,14 +5158,14 @@ fcs:
   gender: cis woman
   birth: 21/12/1997
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5171,14 +5177,14 @@ fcs:
   gender: cis woman
   birth: 05/03/1999
   eth: ''
-  nationality: American
+  nationality: american
   occupation: singer, influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5189,15 +5195,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 22/11/1996
-  eth: english, german, Danish and Northern Irish
+  eth: english, german, danish and Northern irish
   nationality: american
   occupation: actress and singer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5208,15 +5214,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 21/07/1998
-  eth: english, german, Irish, Irish, Scottish, Welsh
-  nationality: American
+  eth: english, german, irish, irish, scottish, Welsh
+  nationality: american
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh
@@ -5228,14 +5234,14 @@ fcs:
   gender: cis woman
   birth: 18/08/1993
   eth: english
-  nationality: Australian
+  nationality: australian
   occupation: actress, singer
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5246,15 +5252,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 29/05/1993
-  eth: english, Irish, Scottish, Icelandic
-  nationality: American
+  eth: english, irish, scottish, Icelandic
+  nationality: american
   occupation: actress, kiteboarder
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5268,12 +5274,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh pinkh
@@ -5287,12 +5293,12 @@ fcs:
   eth: swedish
   nationality: swedish canadian
   occupation: actress, producer, model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5306,12 +5312,12 @@ fcs:
   eth: filipino and chinese
   nationality: filipino canadian
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: eastern-eurasian
   dhair: brownh
@@ -5325,12 +5331,12 @@ fcs:
   eth: spanish
   nationality: spanish
   occupation: actor and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5344,12 +5350,12 @@ fcs:
   eth: ''
   nationality: australian
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian oceanian
   dhair: blondeh
@@ -5360,15 +5366,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 02/07/1990
-  eth: german, Scottish, Sorbian
-  nationality: Australian
+  eth: german, scottish, Sorbian
+  nationality: australian
   occupation: actress, model, producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5382,12 +5388,12 @@ fcs:
   eth: Caribbean
   nationality: Dominican
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "90"
   deth: northwest-eurasian
   dhair: brownh
@@ -5398,15 +5404,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 05/09/1995
-  eth: african-american
-  nationality: American
+  eth: African-american
+  nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: '90'
   deth: african
   dhair: blackh
@@ -5417,15 +5423,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 01/10/1987
-  eth: Italian, Hungarian, english, german, Irish
-  nationality: American
+  eth: Italian, Hungarian, english, german, irish
+  nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blackh
@@ -5436,15 +5442,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 09/03/1980
-  eth: swiss-german, german, english, Irish, Manx, Scottish, Dutch
-  nationality: American
+  eth: Swiss-german, german, english, irish, Manx, scottish, Dutch
+  nationality: american
   occupation: actor, model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5455,15 +5461,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 04/11/1969
-  eth: Irish, Scottish, german, english and Swedish
+  eth: irish, scottish, german, english and swedish
   nationality: american
   occupation: actor, producer, model, writer and director
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '60'
   deth: northwest-eurasian
   dhair: brownh
@@ -5477,12 +5483,12 @@ fcs:
   eth: english
   nationality: english
   occupation: singer, guitarist and pianist
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5493,15 +5499,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 15/12/1997
-  eth: Ashkenazi Jewish, irish, scottish, finnish, german
+  eth: ashkenazi jewish, irish, scottish, finnish, german
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -5515,12 +5521,12 @@ fcs:
   eth: egyptian and palestinian
   nationality: egyptian palestinian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian
   dhair: brownh
@@ -5534,12 +5540,12 @@ fcs:
   eth: ''
   nationality: polish
   occupation: model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5550,15 +5556,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 17/10/1985
-  eth: english, Irish and Scottish
+  eth: english, irish and scottish
   nationality: english
   occupation: actor and model
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5569,15 +5575,15 @@ fcs:
   alias: MAX, MΛX
   gender: cis man
   birth: 21/06/1992
-  eth: Ashkenazi Jewish, german, Irish, english
+  eth: ashkenazi jewish, german, irish, english
   nationality: american
   occupation: singer, songwriter, actor, dancer and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5589,14 +5595,14 @@ fcs:
   gender: cis man
   birth: 27/06/1993
   eth: ''
-  nationality: French
+  nationality: french
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5607,15 +5613,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 15/07/1992
-  eth: Iranian, Mizrahi Jewish
+  eth: Iranian, Mizrahi jewish
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian
   dhair: brownh
@@ -5627,14 +5633,14 @@ fcs:
   gender: cis woman
   birth: 16/05/1986
   eth: english
-  nationality: American
+  nationality: american
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5648,12 +5654,12 @@ fcs:
   eth: turkish
   nationality: turkish
   occupation: model and actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian
   dhair: brownh
@@ -5664,15 +5670,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 11/10/1985
-  eth: Russian-german Jewish
+  eth: Russian-german jewish
   nationality: american
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5683,15 +5689,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 18/07/1981
-  eth: Dutch, Ashkenazi Jewish
+  eth: Dutch, ashkenazi jewish
   nationality: Dutch
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5705,12 +5711,12 @@ fcs:
   eth: spanish
   nationality: spanish
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5721,15 +5727,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 14/08/1983
-  eth: Ashkenazi Jewish
+  eth: ashkenazi jewish
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -5743,12 +5749,12 @@ fcs:
   eth: italian, sicilian, english, scottish
   nationality: american
   occupation: actor, director, producer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "70"
   deth: northwest-eurasian
   dhair: brownh
@@ -5762,12 +5768,12 @@ fcs:
   eth: spanish, moroccan
   nationality: spanish
   occupation: actress, model, director
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh
@@ -5781,12 +5787,12 @@ fcs:
   eth: italian
   nationality: italian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: gingerh redh
@@ -5797,15 +5803,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 20/08/1974
-  eth: english, german, Ashkenazi Jewish, Scottish, Irish
-  nationality: American
+  eth: english, german, ashkenazi jewish, scottish, irish
+  nationality: american
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -5819,12 +5825,12 @@ fcs:
   eth: english, Gujarati Indian
   nationality: english
   occupation: actress, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian southern-eurasian
   dhair: brownh
@@ -5835,15 +5841,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 13/01/1995
-  eth: english, Bohemian Czech, Finland-Swedish, Ukrainian
-  nationality: American
+  eth: english, Bohemian Czech, Finland-swedish, Ukrainian
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5854,15 +5860,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 21/06/1999
-  eth: Swedish, german, english
+  eth: swedish, german, english
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5873,15 +5879,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 11/02/1982
-  eth: english, Norwegian, Welsh
+  eth: english, norwegian, Welsh
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5893,14 +5899,14 @@ fcs:
   gender: cis woman
   birth: 05/10/1984
   eth: Argentinian, Peruvian
-  nationality: Australian
+  nationality: australian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: amerindian hispanic
   dhair: brownh
@@ -5911,15 +5917,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 04/04/1979
-  eth: Ashkenazi Jewish
+  eth: ashkenazi jewish
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: redh gingerh blondeh
@@ -5931,14 +5937,14 @@ fcs:
   gender: cis man
   birth: 15/10/1992
   eth: Rwandan
-  nationality: Rwandan Scottish
+  nationality: Rwandan scottish
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african
   dhair: blackh
@@ -5949,15 +5955,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 22/03/1995
-  eth: english, Croatian, Irish, Scottish, Swedish, Danish and Welsh
+  eth: english, Croatian, irish, scottish, swedish, danish and Welsh
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -5968,15 +5974,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 09/01/1995
-  eth: Ashkenazi Jewish, Italian, german, Welsh, english
-  nationality: American
+  eth: ashkenazi jewish, Italian, german, Welsh, english
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -5990,12 +5996,12 @@ fcs:
   eth: turkish
   nationality: turkish
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian
   dhair: brownh blondeh
@@ -6009,12 +6015,12 @@ fcs:
   eth: italian and german
   nationality: american
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -6025,15 +6031,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 13/03/1984
-  eth: german, english, Irish, Scottish, Eastern European
+  eth: german, english, irish, scottish, Eastern European
   nationality: canadian
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "80"
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -6047,12 +6053,12 @@ fcs:
   eth: moroccan
   nationality: british
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian northwest-eurasian
   dhair: brownh
@@ -6066,12 +6072,12 @@ fcs:
   eth: South African
   nationality: South-African english
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: brownh
@@ -6085,12 +6091,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -6102,14 +6108,14 @@ fcs:
   gender: cis man
   birth: 09/03/1979
   eth: Guatemalan, Cuban, Spanish
-  nationality: American
+  nationality: american
   occupation: actor, singer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: amerindian hispanic
   dhair: brownh
@@ -6123,12 +6129,12 @@ fcs:
   eth: ''
   nationality: Finnish
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6139,15 +6145,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 26/04/1978
-  eth: german, swiss-german, Danish, Dutch, english, French, Norwegian, Belgian, Scottish, Welsh, Irish
+  eth: german, Swiss-german, danish, Dutch, english, french, norwegian, Belgian, scottish, Welsh, irish
   nationality: canadian-american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh redh gingerh
@@ -6158,15 +6164,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 19/06/1984
-  eth: rusyn, Swedish, Slovenian and Bohemian Czech
+  eth: Rusyn, swedish, Slovenian and Bohemian Czech
   nationality: american
   occupation: actor, director, screenwriter, producer and musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6180,12 +6186,12 @@ fcs:
   eth: Spanish
   nationality: Spanish
   occupation: Actress, Model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -6199,12 +6205,12 @@ fcs:
   eth: scottish and french
   nationality: australian
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6215,15 +6221,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 10/07/1993
-  eth: english, Scottish, Irish
+  eth: english, scottish, irish
   nationality: english
   occupation: singer, musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: piercings
+  particularities: piercings
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6234,15 +6240,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 17/04/1995
-  eth: Welsh, english and Irish
+  eth: Welsh, english and irish
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: gingerh redh blondeh
@@ -6254,14 +6260,14 @@ fcs:
   gender: cis woman
   birth: 12/07/1989
   eth: english
-  nationality: Australian
+  nationality: australian
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: northwest-eurasian oceanian
   dhair: brownh
@@ -6274,12 +6280,12 @@ fcs:
   eth: asian
   nationality: ''
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos piercings
+  particularities: particularities piercings
   dyear: ''
   deth: eastern-eurasian
   dhair: blondeh
@@ -6293,12 +6299,12 @@ fcs:
   eth: ''
   nationality: french
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "80"
   deth: northwest-eurasian
   dhair: brownh
@@ -6312,12 +6318,12 @@ fcs:
   eth: Kenyan and english
   nationality: english
   occupation: singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian african
   dhair: blackh
@@ -6331,12 +6337,12 @@ fcs:
   eth: english
   nationality: english
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos freckles
+  particularities: particularities freckles
   dyear: ''
   deth: northwest-eurasian
   dhair: redh gingerh
@@ -6350,12 +6356,12 @@ fcs:
   eth: indian
   nationality: indian
   occupation: actress and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southern-eurasian
   dhair: brownh
@@ -6366,15 +6372,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 07/03/1970
-  eth: Ashkenazi Jewish and Austrian-Italian
+  eth: ashkenazi jewish and Austrian-Italian
   nationality: english
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -6388,12 +6394,12 @@ fcs:
   eth: brazilian
   nationality: brazilian
   occupation: model and television personality
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: hispanic
   dhair: brownh blondeh
@@ -6407,12 +6413,12 @@ fcs:
   eth: Punjabi Indian
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southern-eurasian
   dhair: brownh
@@ -6423,15 +6429,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 11/03/1990
-  eth: Norwegian, english, French, Scottish, Irish, Welsh, Belgian, and Dutch
+  eth: norwegian, english, french, scottish, irish, Welsh, Belgian, and Dutch
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -6445,12 +6451,12 @@ fcs:
   eth: Egyptian, Greek
   nationality: american
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian northwest-eurasian
   dhair: brownh
@@ -6464,12 +6470,12 @@ fcs:
   eth: indian
   nationality: indian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southern-eurasian
   dhair: brownh
@@ -6483,13 +6489,13 @@ fcs:
   eth: ''
   nationality: brazilian
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic northwest-eurasian
   dhair: brownh
@@ -6503,12 +6509,12 @@ fcs:
   eth: english
   nationality: australian
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian oceanian
   dhair: brownh blondeh
@@ -6522,12 +6528,12 @@ fcs:
   eth: ''
   nationality: Canadian
   occupation: singer, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: northwest-eurasian
   dhair: blackh blondeh
@@ -6541,12 +6547,12 @@ fcs:
   eth: ''
   nationality: dutch
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: freckles
+  particularities: freckles
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6560,12 +6566,12 @@ fcs:
   eth: barbadian guyanese
   nationality: barbadian
   occupation: singer songwriter dancer producer actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: african
   dhair: brownh
@@ -6576,15 +6582,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 18/06/1986
-  eth: Irish, Scottish
-  nationality: Scottish
+  eth: irish, scottish
+  nationality: scottish
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh blondeh redh
@@ -6595,15 +6601,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 21/03/1988
-  eth: english, Scottish, german, Irish, French-Canadian
+  eth: english, scottish, german, irish, french-Canadian
   nationality: Canadian
   occupation: actor, model
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -6614,15 +6620,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 04/04/1965
-  eth: Ashkenazi Jewish, english, Scottis, german, swiss-german, Irish
+  eth: ashkenazi jewish, english, Scottis, german, Swiss-german, irish
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '60'
   deth: northwest-eurasian
   dhair: blackh
@@ -6636,12 +6642,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actor, musician, producer, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6652,15 +6658,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 07/01/1988
-  eth: Irish
-  nationality: Irish
+  eth: irish
+  nationality: irish
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -6674,12 +6680,12 @@ fcs:
   eth: ''
   nationality: french
   occupation: model and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6693,12 +6699,12 @@ fcs:
   eth: english and irish
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6709,15 +6715,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 09/02/1987
-  eth: Scottish, english, Welsh, Mexican
+  eth: scottish, english, Welsh, Mexican
   nationality: scottis
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian hispanic
   dhair: redh gingerh
@@ -6728,15 +6734,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 20/03/1986
-  eth: english, Scottish, german, Irish
+  eth: english, scottish, german, irish
   nationality: australian
   occupation: model, dj, actress and presenter
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: tattoos
+  particularities: particularities
   dyear: '80'
   deth: northwest-eurasian
   dhair: blackh
@@ -6750,12 +6756,12 @@ fcs:
   eth: german and russian
   nationality: american
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6766,15 +6772,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 23/10/1976
-  eth: Irish, Scottish, Northern Irish
+  eth: irish, scottish, Northern irish
   nationality: canadian
   occupation: actor and producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6788,12 +6794,12 @@ fcs:
   eth: Filipino
   nationality: american
   occupation: model and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair: pinkh blondeh
@@ -6804,15 +6810,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 11/05/1999
-  eth: german, Scottish, english, Irish
+  eth: german, scottish, english, irish
   nationality: american
   occupation: actress, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6823,15 +6829,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 16/04/2002
-  eth: english, Irish, german, Scottish
+  eth: english, irish, german, scottish
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: "00"
   deth: northwest-eurasian
   dhair: redh gingerh
@@ -6842,15 +6848,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 27/06/1986
-  eth: english, French-Canadian, Scottish, Irish and Welsh
+  eth: english, french-Canadian, scottish, irish and Welsh
   nationality: english
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -6864,12 +6870,12 @@ fcs:
   eth: Maltese, english
   nationality: australian
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6883,13 +6889,13 @@ fcs:
   eth: ''
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
   other: false
-  tattoos: deaf
+  particularities: deaf
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -6903,12 +6909,12 @@ fcs:
   eth: cambodian
   nationality: cambodian
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -6922,12 +6928,12 @@ fcs:
   eth: ''
   nationality: canadian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -6941,12 +6947,12 @@ fcs:
   eth: Romanian
   nationality: american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: brownh
@@ -6958,14 +6964,14 @@ fcs:
   gender: cis woman
   birth: 22/07/1992
   eth: Mexican, Italian
-  nationality: American
+  nationality: american
   occupation: singer, actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic northwest-eurasian
   dhair: brownh
@@ -6976,15 +6982,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 26/11/1987
-  eth: Japanese, Australian
-  nationality: Australian Japanese
+  eth: Japanese, australian
+  nationality: australian Japanese
   occupation: model, actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: eastern-eurasian oceanian northwest-eurasian
   dhair: brownh
@@ -6998,12 +7004,12 @@ fcs:
   eth: japanese american
   nationality: japanese
   occupation: actress, model and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian northwest-eurasian
   dhair: brownh
@@ -7014,15 +7020,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 15/11/1991
-  eth: english, african-american, Louisiana Creole, swiss-german
+  eth: english, African-american, Louisiana Creole, Swiss-german
   nationality: american
   occupation: actress and activist
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian african
   dhair: brownh blondeh
@@ -7036,12 +7042,12 @@ fcs:
   eth: Lithuanian, Saudi Arabian and Pakistani
   nationality: australian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian northwest-eurasian
   dhair: brownh
@@ -7055,13 +7061,13 @@ fcs:
   eth: australian
   nationality: australian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh brownh redh gingerh
@@ -7075,12 +7081,12 @@ fcs:
   eth: portuguese and english
   nationality: canadian
   occupation: singer, songwriter and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -7091,15 +7097,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 10/04/1987
-  eth: Irish, Scottish, Filipino, Spanish
+  eth: irish, scottish, Filipino, Spanish
   nationality: Canadian
   occupation: actress, model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian eastern-eurasian hispanic
   dhair: brownh
@@ -7113,12 +7119,12 @@ fcs:
   eth: egyptian, greek, lebanese
   nationality: egyptian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian
   dhair: brownh
@@ -7132,12 +7138,12 @@ fcs:
   eth: ''
   nationality: american
   occupation: model and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african
   dhair: brownh
@@ -7151,12 +7157,12 @@ fcs:
   eth: indian
   nationality: indian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southern-eurasian
   dhair: brownh
@@ -7170,12 +7176,12 @@ fcs:
   eth: Indian Tamil
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southern-eurasian
   dhair: brownh
@@ -7187,14 +7193,14 @@ fcs:
   gender: cis woman
   birth: 08/07/1992'
   eth: ''
-  nationality: American
+  nationality: american
   occupation: actress, model, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: piercings
+  particularities: piercings
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh multih
@@ -7208,12 +7214,12 @@ fcs:
   eth: ''
   nationality: Canadian
   occupation: singer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: multih
@@ -7225,14 +7231,14 @@ fcs:
   gender: cis woman
   birth: 03/04/1982
   eth: Algerian
-  nationality: Algerian French
+  nationality: Algerian french
   occupation: actress, model, dancer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian
   dhair: brownh
@@ -7246,12 +7252,12 @@ fcs:
   eth: Colombian, Arab, Spanish
   nationality: american
   occupation: singer, actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: hispanic southwest-eurasian northwest-eurasian
   dhair: brownh
@@ -7265,12 +7271,12 @@ fcs:
   eth: Punjabi Indian
   nationality: indian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southern-eurasian
   dhair: brownh
@@ -7284,12 +7290,12 @@ fcs:
   eth: Pakistani
   nationality: american
   occupation: actress, model, influcencer
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southwest-eurasian northwest-eurasian
   dhair: brownh
@@ -7303,13 +7309,13 @@ fcs:
   eth: italian, irish, english, scottish
   nationality: american
   occupation: actress, activist, director, producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: "80"
   deth: northwest-eurasian
   dhair: brownh
@@ -7323,13 +7329,13 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -7343,12 +7349,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh blondeh
@@ -7362,13 +7368,13 @@ fcs:
   eth: english
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
   other: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: blondeh brownh
@@ -7382,12 +7388,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: redh gingerh blondeh
@@ -7399,14 +7405,14 @@ fcs:
   gender: cis woman
   birth: 14/07/1992
   eth: latin
-  nationality: American
+  nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: freckles
+  particularities: freckles
   dyear: '90'
   deth: hispanic
   dhair: brownh redh gingerh
@@ -7417,15 +7423,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 05/02/1992
-  eth: english, Scottish
+  eth: english, scottish
   nationality: english
   occupation: actress and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7439,12 +7445,12 @@ fcs:
   eth: Indian, german, english, Dutch and Mexican
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southern-eurasian northwest-eurasian hispanic
   dhair: brownh
@@ -7458,12 +7464,12 @@ fcs:
   eth: ''
   nationality: Colombian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: freckles
+  particularities: freckles
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7474,16 +7480,16 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 12/09/1997
-  eth: Irish, english
-  nationality: American
+  eth: irish, english
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
   other: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7497,12 +7503,12 @@ fcs:
   eth: algerian
   nationality: french
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian
   dhair: brownh
@@ -7513,15 +7519,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 16/08/1975
-  eth: Māori, Irish, english, Scottish, Northern Irish, Ashkenazi Jewish
+  eth: Māori, irish, english, scottish, Northern irish, ashkenazi jewish
   nationality: New-Zealander
   occupation: director, screenwriter, actor, comedian
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: amerindian northwest-eurasian
   dhair: brownh
@@ -7535,12 +7541,12 @@ fcs:
   eth: puerto-rican, african
   nationality: american
   occupation: model influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian african
   dhair: brownh
@@ -7554,12 +7560,12 @@ fcs:
   eth: african-american and korean
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african eastern-eurasian
   dhair: brownh blondeh
@@ -7573,12 +7579,12 @@ fcs:
   eth: french and colombian
   nationality: american
   occupation: actress, model and influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian african
   dhair: brownh
@@ -7589,15 +7595,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 05/03/1996
-  eth: Cornish, Dutch, english, French, german, Irish, Scottish, swiss-german, Welsh
+  eth: Cornish, Dutch, english, french, german, irish, scottish, Swiss-german, Welsh
   nationality: american
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -7609,14 +7615,14 @@ fcs:
   gender: cis woman
   birth: 26/07/1993
   eth: german
-  nationality: American
+  nationality: american
   occupation: singer, model, actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7627,15 +7633,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 03/10/1983
-  eth: African-Panamanian, Mexican, english, german, Scottish, Irish
+  eth: African-Panamanian, Mexican, english, german, scottish, irish
   nationality: american
   occupation: actress, musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: african hispanic northwest-eurasian
   dhair: brownh
@@ -7649,12 +7655,12 @@ fcs:
   eth: ''
   nationality: canadian
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -7665,15 +7671,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 16/05/1990
-  eth: Scottish, english
+  eth: scottish, english
   nationality: english
   occupation: actor, musician
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7687,12 +7693,12 @@ fcs:
   eth: irish, scottish
   nationality: scottish
   occupation: actor and singer
-  avatar: false
+  avatars: false
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -7706,12 +7712,12 @@ fcs:
   eth: french
   nationality: french
   occupation: model and actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: brownh
@@ -7722,15 +7728,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 27/12/1995
-  eth: French, english, Scottish, Irish, Ashkenazi Jewish
-  nationality: French American
+  eth: french, english, scottish, irish, ashkenazi jewish
+  nationality: french american
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -7744,12 +7750,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '70'
   deth: northwest-eurasian
   dhair: brownh
@@ -7760,15 +7766,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 01/06/1996
-  eth: english, Irish
+  eth: english, irish
   nationality: english
   occupation: actor, dancer
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -7782,12 +7788,12 @@ fcs:
   eth: iraqi, algerian and jewish
   nationality: israeli
   occupation: actor and model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: southwest-eurasian
   dhair: brownh
@@ -7801,12 +7807,12 @@ fcs:
   eth: tamil and swedish
   nationality: canadian
   occupation: rapper
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: southern-eurasian northwest-eurasian
   dhair: blondeh brownh
@@ -7817,15 +7823,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 05/06/1995
-  eth: Ashkenazi Jewish, english/Scottish, Afrikaner
+  eth: ashkenazi jewish, english/scottish, Afrikaner
   nationality: australian
   occupation: singer, actor, youtuber
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian african
   dhair: brownh
@@ -7839,12 +7845,12 @@ fcs:
   eth: Catalan, Spanish
   nationality: Spanish
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: hispanic
   dhair: brownh
@@ -7858,12 +7864,12 @@ fcs:
   eth: ''
   nationality: argentinian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7877,12 +7883,12 @@ fcs:
   eth: colombian
   nationality: colombian
   occupation: actress and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian amerindian african
   dhair: brownh
@@ -7896,12 +7902,12 @@ fcs:
   eth: english
   nationality: english
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7912,15 +7918,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 14/12/1988
-  eth: english, Scottish, Irish, german, Filipino, Spanish and Chinese
+  eth: english, scottish, irish, german, Filipino, Spanish and Chinese
   nationality: american
   occupation: actress and singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian eastern-eurasian
   dhair: brownh
@@ -7931,15 +7937,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 23/03/1992
-  eth: Tanzanian, Scottish
+  eth: Tanzanian, scottish
   nationality: canadian
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: brownh blondeh
@@ -7953,12 +7959,12 @@ fcs:
   eth: serbian
   nationality: Serbian
   occupation: influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7972,12 +7978,12 @@ fcs:
   eth: ''
   nationality: Italian
   occupation: bassist, singer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: northwest-eurasian
   dhair: blondeh
@@ -7988,15 +7994,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 23/03/1995
-  eth: Italian, swiss-Italian, Austrian, Sudeten german, english, german, Ashkenazi Jewish
-  nationality: American
+  eth: Italian, Swiss-Italian, Austrian, Sudeten german, english, german, ashkenazi jewish
+  nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -8010,12 +8016,12 @@ fcs:
   eth: Ukrainian
   nationality: ukrainian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -8029,12 +8035,12 @@ fcs:
   eth: english, Dutch, german, Welsh
   nationality: american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -8045,15 +8051,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 28/01/1993
-  eth: english, Welsh, Scottish
+  eth: english, Welsh, scottish
   nationality: english
   occupation: actor and producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -8064,15 +8070,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 17/01/1991
-  eth: Irish, german, english
+  eth: irish, german, english
   nationality: american
   occupation: actress
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: blondeh
@@ -8086,12 +8092,12 @@ fcs:
   eth: scottish, english and welsh
   nationality: english
   occupation: actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -8105,12 +8111,12 @@ fcs:
   eth: african-american
   nationality: american
   occupation: singer, actress and dancer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '00'
   deth: african northwest-eurasian
   dhair: brownh
@@ -8121,15 +8127,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 15/09/1991
-  eth: French, Vietnamese, Senegalese
-  nationality: French
+  eth: french, Vietnamese, Senegalese
+  nationality: french
   occupation: model, actor
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian eastern-eurasian african
   dhair: brownh
@@ -8140,15 +8146,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 20/03/1989
-  eth: Egyptian, French-Canadian, Irish
+  eth: Egyptian, french-Canadian, irish
   nationality: canadian
   occupation: actor, director, screenwriter, editor and costume designer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian southwest-eurasian
   dhair: brownh
@@ -8159,15 +8165,15 @@ fcs:
   alias: ''
   gender: cis man
   birth: 10/12/1983
-  eth: Scottish, Irish
-  nationality: Australian
+  eth: scottish, irish
+  nationality: australian
   occupation: actor
-  avatar: false
+  avatars: false
   crackships: false
   gifs: true
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -8181,12 +8187,12 @@ fcs:
   eth: spanish
   nationality: spanish
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -8200,12 +8206,12 @@ fcs:
   eth: ''
   nationality: japanese
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: eastern-eurasian
   dhair: brownh
@@ -8219,12 +8225,12 @@ fcs:
   eth: russian
   nationality: Russian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -8238,12 +8244,12 @@ fcs:
   eth: ''
   nationality: english
   occupation: singer, musician
-  avatar: true
+  avatars: true
   crackships: true
   gifs: true
   icons: true
   gificons: true
-  tattoos: tattoos
+  particularities: particularities
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh multih
@@ -8257,12 +8263,12 @@ fcs:
   eth: russian
   nationality: Russian
   occupation: model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh
@@ -8273,15 +8279,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 30/07/1982
-  eth: Polish
+  eth: polish
   nationality: australian
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: northwest-eurasian
   dhair: blondeh
@@ -8295,12 +8301,12 @@ fcs:
   eth: german afam
   nationality: german american
   occupation: actress
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian african
   dhair: brownh
@@ -8311,15 +8317,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 01/09/1996
-  eth: african-american, german, Irish, english, Scottish
-  nationality: American
+  eth: African-american, german, irish, english, scottish
+  nationality: american
   occupation: actress, singer, dancer, model
-  avatar: true
+  avatars: true
   crackships: true
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: african northwest-eurasian
   dhair: brownh
@@ -8333,12 +8339,12 @@ fcs:
   eth: indian
   nationality: australian
   occupation: model, influencer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: freckles
+  particularities: freckles
   dyear: '00'
   deth: southern-eurasian
   dhair: brownh
@@ -8349,15 +8355,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 01/12/1988
-  eth: african-american/African-Bahamian, Ashkenazi Jewish
-  nationality: American
+  eth: African-american/African-Bahamian, ashkenazi jewish
+  nationality: american
   occupation: actress, singer, model
-  avatar: true
+  avatars: true
   crackships: false
   gifs: true
   icons: true
   gificons: true
-  tattoos: ''
+  particularities: ''
   dyear: '80'
   deth: african northwest-eurasian
   dhair: brownh
@@ -8368,15 +8374,15 @@ fcs:
   alias: ''
   gender: cis woman
   birth: 10/11/1994
-  eth: Ashkenazi Jewish, Irish, english
+  eth: ashkenazi jewish, irish, english
   nationality: american
   occupation: actress, producer
-  avatar: true
+  avatars: true
   crackships: false
   gifs: false
   icons: false
   gificons: false
-  tattoos: ''
+  particularities: ''
   dyear: '90'
   deth: northwest-eurasian
   dhair: brownh

@@ -1,55 +1,27 @@
 southern-eurasian
-    indian
-    brazilian
-    Tamil
+    indian brazilian Tamil
 
 northwest-eurasian
-    white
-    europe
-    dominican
-    puerto-rican
-    cuba
-    Denmark
-    Ashkenazi Jewish
-    Argentinian
-    netherlands / dutch
+    white european dominican puerto-rican cuba Denmark Ashkenazi-Jewish Argentinian netherlands dutch rusyn
 
 southwest-eurasian
-    Sephardi Jewish
-    iranian
-    sudanese
-    saudi arabia
-    lebanon
-    Israeli
-    maroc
-    egyptian
-    Yemenite
-    turkey
-    Armenian
+    Sephardi Jewish iranian sudanese saudi-arabia lebanon Israeli maroc egyptian Yemenite turkey Armenian
 
 eastern-eurasian
-    United Arab Emirates
-    filipino
-    malaysian
-    chinese
-    thailand
-    japan
-    indonesian
-    nepal
-    tibet
-    South Korean
+    United Arab Emirates filipino malaysian chinese thailand japan indonesian nepal tibet South Korean
 
 african
     African-American
 
 amerindian
-    Native American
-    hawaii
-    Yemenite
+    Native-American hawaii Yemenite
 
 oceanian
     australia
 
 hispanic
-    Mexican
-    colombian
+    Mexican colombian
+
+mixed ones
+    mixed
+    brazilian: hispanic african northwest-eurasian

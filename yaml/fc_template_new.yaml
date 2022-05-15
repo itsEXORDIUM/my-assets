@@ -1,0 +1,44 @@
+- name:
+  identity:
+  - name :
+    accents: ''
+    alias: ''
+  gender: cis
+  birth:
+    - full:
+      class:
+  ethnicity:
+    - full: ''
+      class: northwest-eurasian
+  nationality: ''
+  occupation:
+    - full: ''
+      class: ''
+  particularities: ''
+  dhair:
+  deyes:
+  img:
+  avatars:
+    - unabled : false
+      url: ''
+      credit: ''
+  crackships:
+    - unabled : false
+      url: ''
+      credit: ''
+  gifs:
+    - unabled : false
+      url: ''
+      credit: ''
+  icons:
+    - unabled : false
+      url: ''
+      credit: ''
+  gificons:
+    - unabled : false
+      url: ''
+      credit: ''
+  others:
+    - unabled : false
+      url: ''
+      credit: ''
