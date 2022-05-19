@@ -1,5 +1,285 @@
 ---
 fcs:
+- name: booboo stewart
+  alias: ''
+  gender: cis man
+  birth: 21/01/1994
+  eth: english, scottish, italian-argentinian, french-canadian,japanese, chinese, korean
+  nationality: american
+  occupation: actor, singer, dancer, model, and martial artist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer model athlete
+  img: https://i0.wp.com/fault-magazine.com/wp-content/uploads/2021/04/booboo-stewart-8-of-9.jpg?resize=533%2C800&ssl=1
+- name: natalia castellar
+  alias: ''
+  gender: cis woman
+  birth: 26/08/1999
+  eth: puerto-rican
+  nationality: american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://res.cloudinary.com/next-management/image/upload/c_fill,f_auto,g_north,h_720,q_80,w_540/v1/photos/ssxjxoljy29vljjzhr7y
+- name: tao okamoto
+  alias: ''
+  gender: cis woman
+  birth: 22/05/1985
+  eth: japanese
+  nationality: japanese
+  occupation: actress and model
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model
+  img: https://i.pinimg.com/originals/84/ff/7b/84ff7b2f11fc6ec5ca78508359eb4d63.jpg
+- name: stevan ditter
+  alias: ''
+  gender: cis man
+  birth: 26/05/1995
+  eth: ''
+  nationality: american
+  occupation: model and influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: tattoos
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model influencer
+  img: https://www.vanityteen.com/wp-content/uploads/2018/06/Stevan-Ditter-by-Kenneth-Medilo-Vanity-Teen-Menswear-Magazine-2.jpg
+- name: diana silvers
+  alias: ''
+  gender: cis woman
+  birth: 1997
+  eth: ashkenazi jewish, swiss
+  nationality: american
+  occupation: model and actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model actor
+  img: https://i.pinimg.com/originals/c3/ab/c3/c3abc3bf9a4ce4ac13201984ce519367.jpg
+- name: jannis niewoehner
+  alias: ''
+  gender: cis man
+  birth: 30/03/1992
+  eth: ''
+  nationality: german
+  occupation: actor
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/72/5a/4f/725a4f9db24873332316397a9932df60.jpg
+- name: liv tyler
+  alias: ''
+  gender: cis woman
+  birth: 01/07/1977
+  eth: italian, polish, german, english, welsh
+  nationality: american
+  occupation: actress, producer and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor model
+  img: http://images6.fanpop.com/image/photos/39500000/Liv-Tyler-Vogue-UK-Photoshoot-November-2015-liv-tyler-39546814-1200-1579.jpg
+- name: julian morris
+  alias: ''
+  gender: cis man
+  birth: 13/01/1983
+  eth: ashkenazi jewish
+  nationality: english
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/564x/8a/43/50/8a435027f8cdcaf094fddd4ecce9ec42--julian-david-julian-morris.jpg
+- name: mackenzie davis
+  alias: ''
+  gender: cis woman
+  birth: 01/04/1987
+  eth: english and welsh
+  nationality: canadian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://www.themoviedb.org/t/p/original/ekQbEIKh26jbz17P0wwLbo6uNs9.jpg
+- name: matthew goode
+  alias: ''
+  gender: cis man
+  birth: 03/03/1978
+  eth: english
+  nationality: english
+  occupation: actor
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://www.theplace2.ru/cache/archive/matthew_goode/img/2pl-euab9xs-gthumb-gwdata1200-ghdata1200-gfitdatamax.jpg
+- name: laura kariuki
+  alias: ''
+  gender: cis woman
+  birth: 02/06/1998
+  eth: african-american
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: african
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://preview.redd.it/51i4x84zb2p71.jpg?width=640&crop=smart&auto=webp&s=89af0d751120ff1f2e7e18c7cb3cfabf199f73e0
+- name: aaron liebregts
+  alias: ''
+  gender: cis man
+  birth: 04/01/1998
+  eth: ''
+  nationality: dutch
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: influencer
+  img: https://data.whicdn.com/images/355766778/original.jpg
+- name: emma dumont
+  alias: ''
+  gender: cis woman
+  birth: 15/11/1994
+  eth: ''
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blackh blueh
+  deyes: greene
+  doccupation: actor
+  img: https://ic.pics.livejournal.com/chitatel_zhuzhu/62362584/5813363/5813363_original.jpg
+- name: dominic cooper
+  alias: ''
+  gender: cis man
+  birth: 02/06/1978
+  eth: english
+  nationality: english
+  occupation: actor
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.theplace2.ru/archive/dominic_cooper/img/csrr4wbtftu.jpg
 - name: paris jackson
   alias: ''
   gender: cis woman
