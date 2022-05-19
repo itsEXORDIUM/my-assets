@@ -1,5 +1,125 @@
 ---
 fcs:
+- name: paris jackson
+  alias: ''
+  gender: cis woman
+  birth: 03/03/1998
+  eth: uncertain
+  nationality: american
+  occupation: model, actress, singer and musician
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: tattoos piercings
+  dyear: '90'
+  deth: uncertain
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model actor singer musician
+  img: https://www.fashiongonerogue.com/wp-content/uploads/2018/10/Paris-Jackson-Narcisse-Magazine-Cover-Photoshoot03.jpg
+- name: begona vargas
+  alias: begoña vargas
+  gender: cis woman
+  birth: 18/12/1999
+  eth: ''
+  nationality: spanish
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.aleighthouse.com/wp-content/uploads/2020/05/BEGONA-VARGAS-783x1024.jpg
+- name: sydney park
+  alias: ''
+  gender: cis woman
+  birth: 31/10/1997
+  eth: korean-american and african-american
+  nationality: american
+  occupation: actress and comedian
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian african
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://celebmafia.com/wp-content/uploads/2019/06/sydney-park-1883-magazine-2019-11.jpg
+- name: halima aden
+  alias: ''
+  gender: cis woman
+  birth: 22/09/1997
+  eth: somali
+  nationality: somali american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: hijabi
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://www.unique.dk/wp-content/uploads/2017/09/20211110_TROMBORG_02_0127-1-1296x1944.jpg
+- name: katie mcgrath
+  alias: ''
+  gender: cis woman
+  birth: 03/01/1983
+  eth: irish
+  nationality: irish
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blackh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/originals/10/bb/98/10bb9864e2fab85c25cf149f7ab945b4.jpg
+- name: tinashe
+  alias: ''
+  gender: cis woman
+  birth: 06/02/1993
+  eth: shona zimbabwean, irish, norwegian, danish, english, scottish
+  nationality: american
+  occupation: singer, songwriter, multi-instrumentalist, model, dancer, actress and director
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: piercings
+  dyear: '90'
+  deth: northwest-eurasian african
+  dhair: brownh
+  deyes: browne
+  doccupation: singer musician model actor
+  img: https://www.hawtcelebs.com/wp-content/uploads/2019/12/tinashe-instagram-photos-12-22-2019-1.jpg
 - name: liza ostanina
   alias: ''
   gender: cis woman
