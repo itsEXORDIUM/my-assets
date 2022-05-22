@@ -1,5 +1,285 @@
 ---
 fcs:
+- name: noah bunink
+  alias: ''
+  gender: cis man
+  birth: ''
+  eth: ''
+  nationality: ''
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: freckles
+  dyear: ''
+  deth: northwest-eurasian
+  dhair: redh gingerh
+  deyes: bluee
+  doccupation: model
+  img: https://562674e67f97b3655108-108f4feb8d0a0d4e96eba3deb0defb13.ssl.cf3.rackcdn.com/688_c6bd6534-3c93-482f-826b-06c856f7b708.jpg
+- name: laz alonso
+  alias: ''
+  gender: cis man
+  birth: 25/03/1974
+  eth: african-cuban
+  nationality: american
+  occupation: actor
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: african hispanic
+  dhair: blackh
+  deyes: browne
+  doccupation: actor
+  img: https://m.media-amazon.com/images/M/MV5BZTVjMGFhOWQtZWVhMS00N2JlLWJmZjEtMWY3NzEzZmRlNDVmXkEyXkFqcGdeQXVyNTE5MDA5NDU@._V1_.jpg
+- name: anne hathaway
+  alias: ''
+  gender: cis woman
+  birth: 12/11/1982
+  eth: Irish, French, English, German
+  nationality: american
+  occupation: actress, singer
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer
+  img: https://i.pinimg.com/736x/c1/40/b2/c140b20bf503b0665b8379951c929ff7.jpg
+- name: joshua bassett
+  alias: ''
+  gender: cis man
+  birth: 22/12/2000
+  eth: irish, german, english, northern irish, scottish, welsh
+  nationality: american
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: http://1883magazine.com/wp-content/uploads/2019/11/1883_Magazine_Joshua_Bassett_1-scaled.jpg
+- name: maite perroni
+  alias: ''
+  gender: cis woman
+  birth: 09/03/1983
+  eth: ''
+  nationality: mexican
+  occupation: actress and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: hispanic
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer
+  img: https://www.hawtcelebs.com/wp-content/uploads/2020/08/maite-perroni-at-a-photoshoot-2020-2.jpg
+- name: cassie amato
+  alias: ''
+  gender: cis woman
+  birth: 02/03/1994
+  eth: ''
+  nationality: american
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: browne
+  doccupation: influencer
+  img: https://www.si.com/.image/t_share/MTY4MTU1NDE5MjYyMTMzNTIx/cassie-amato-wilhelmina17jpg.jpg
+- name: kim yerim
+  alias: kim ye-rim, yeri
+  gender: cis woman
+  birth: 05/03/1999
+  eth: korean
+  nationality: south-korean
+  occupation: singer and actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: blackh blondeh
+  deyes: browne
+  doccupation: singer musician actor
+  img: https://i.pinimg.com/736x/22/78/a5/2278a56ff9fe55b955fdc6b10b8db707.jpg
+- name: rob raco
+  alias: ''
+  gender: cis man
+  birth: 26/11/1989
+  eth: italian
+  nationality: canadian
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blackh
+  deyes: bluee
+  doccupation: actor
+  img: https://m.media-amazon.com/images/M/MV5BMGFiNjZhMmQtOWU2YS00NzZkLWI5OTEtMWNlZWI4NzBiNzIyXkEyXkFqcGdeQXVyNDcyNTE0MTg@._V1_.jpg
+- name: synnove karlsen
+  alias: synnøve karlsen
+  gender: cis woman
+  birth: 30/07/1996
+  eth: norwegian
+  nationality: scottish
+  occupation: actress
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: actor
+  img: https://i.pinimg.com/originals/d0/c5/52/d0c5523020c4eca17c8abd6371becdaf.jpg
+- name: felix cheong-macleod
+  alias: ''
+  gender: cis man
+  birth: 05/12
+  eth: ''
+  nationality: chinese irish
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian northwest-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: model
+  img: https://mediaslide-us.storage.googleapis.com/wilhelmina/pictures/7710/29036/large-1616143188-0c2fc5b166aefde12057ff1965c47620.jpg
+- name: emma watson
+  alias: ''
+  gender: cis woman
+  birth: 15/04/1990
+  eth: english, german and welsh
+  nationality: english
+  occupation: actress, model and activist
+  avatar: false
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: true
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh brownh
+  deyes: browne
+  doccupation: actor model
+  img: http://images6.fanpop.com/image/photos/41900000/Emma-Watson-emma-watson-41989776-1280-1707.jpg
+- name: charlotte rose smith
+  alias: ''
+  gender: cis woman
+  birth: ''
+  eth: ''
+  nationality: english
+  occupation: model and artist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: ''
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: greene
+  doccupation: model artist
+  img: https://mediaslide-europe.storage.googleapis.com/premier/pictures/5285/25290/large-1619535630-ab9a2dbd7f638777e65587a920616a29.jpg
+- name: lakeith stanfield
+  alias: ''
+  gender: cis man
+  birth: 12/08/1991
+  eth: african-american
+  nationality: american
+  occupation: actor and musician
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: actor musician
+  img: https://i.pinimg.com/originals/88/88/fc/8888fcd7a567231d86746dc777c38d63.jpg
+- name: cameron monaghan
+  alias: ''
+  gender: cis man
+  birth: 16/08/1993
+  eth: polish, irish
+  nationality: american
+  occupation: actor and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: redh gingerh
+  deyes: bluee
+  doccupation: actor model
+  img: https://i.pinimg.com/originals/bb/b6/6e/bbb66e3ecc3acbe60757a055da9a3005.png
 - name: booboo stewart
   alias: ''
   gender: cis man
@@ -4462,7 +4742,7 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://www.thefashionisto.com/wp-content/uploads/2019/06/Joel-Kinnaman-2019-Mens-Journal-005.jpg
-- name: Jon Bernthal
+- name: jon bernthal
   alias: ''
   gender: cis man
   birth: 20/09/1976
@@ -4470,8 +4750,8 @@ fcs:
   nationality: american
   occupation: actor
   avatar: true
-  crackships: false
-  gifs: false
+  crackships: true
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -4812,7 +5092,7 @@ fcs:
   nationality: canadian
   occupation: actor, musician, director, writer
   avatar: true
-  crackships: false
+  crackships: true
   gifs: false
   icons: false
   gificons: false
@@ -5708,7 +5988,7 @@ fcs:
   occupation: actor
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
@@ -5718,8 +5998,8 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/16ccfbb6-9ed3-460c-b0aa-5e463996ae23/178_Flaunt_TheGiftIssue_MannyJacinto_3.jpg
-- name: manu ríos
-  alias: ''
+- name: manu rios
+  alias: manu ríos
   gender: cis man
   birth: 17/12/1998
   eth: spanish
@@ -8184,7 +8464,7 @@ fcs:
   occupation: actor and model
   avatar: true
   crackships: false
-  gifs: false
+  gifs: true
   icons: false
   gificons: false
   tattoos: ''
