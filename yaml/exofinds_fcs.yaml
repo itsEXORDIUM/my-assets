@@ -1,5 +1,405 @@
 ---
 fcs:
+- name: angus cloud
+  alias: ''
+  gender: cis man
+  birth: 10/07/1998
+  eth: irish
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://media.gq.com/photos/5d448b75302aab0008670ad2/master/pass/angus-cloud-01.jpg
+- name: jonathan bailey
+  alias: ''
+  gender: cis man
+  birth: 25/04/1988
+  eth: ''
+  nationality: english
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://i.mdel.net/i/db/2021/3/1489937/1489937-800w.jpg
+- name: isaya elais
+  alias: ''
+  gender: cis woman
+  birth: 30/05/1998
+  eth: ''
+  nationality: dutch
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: influencer
+  img: https://i.pinimg.com/736x/cb/30/04/cb3004de44e2959a16873420993384d5.jpg
+- name: finn cole
+  alias: ''
+  gender: cis man
+  birth: 09/11/1995
+  eth: english
+  nationality: english
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://boysbygirls.co.uk/uploads/imager/cce3c899aa57c9ba2f2267e863d25bfc/798/FinnCole2_e8e1ce839bd011c68a329d921ab7814c.jpg
+- name: maria pedraza
+  alias: maría pedraza
+  gender: cis woman
+  birth: 26/01/1996
+  eth: ''
+  nationality: spanish
+  occupation: actress and ballerina
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: bluee
+  doccupation: actor sports
+  img: https://celebmafia.com/wp-content/uploads/2019/12/maria-pedraza-photoshoot-for-woman-espana-december-2019-4.jpg
+- name: elliot page
+  alias: ''
+  gender: trans man
+  birth: 21/02/1987
+  eth: english, scottish, irish and welsh
+  nationality: canadian
+  occupation: actor and producer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: http://images6.fanpop.com/image/photos/43800000/Elliot-Page-TIME-Photoshoot-2021-elliot-page-43837536-800-1018.png
+- name: victoria justice
+  alias: ''
+  gender: cis woman
+  birth: 19/02/1993
+  eth: irish, puerto rican, english, german, french, dutch, northern irish and scottish
+  nationality: american
+  occupation: actress and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor singer musician
+  img: https://ic.pics.livejournal.com/chitatel_zhuzhu/62362584/5326522/5326522_original.jpg
+- name: tom wlaschiha
+  alias: ''
+  gender: cis man
+  birth: 20/06/1973
+  eth: czech and german
+  nationality: german
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://64.media.tumblr.com/9bd15bb73a5ec64519e72235e1df4cd9/71d0f98b39c99d26-37/s640x960/ba339bc085213bb0b93e5af79338d26beffeaad8.jpg
+- name: mishti rahman
+  alias: ''
+  gender: cis woman
+  birth: 10/11/1992
+  eth: bengali and muslim
+  nationality: australian
+  occupation: model, blogger and influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: southern-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: model influencer
+  img: https://i.pinimg.com/originals/c3/86/9f/c3869f3ecbb861915b113fd8fc377023.jpg
+- name: sarah grey
+  alias: ''
+  gender: cis woman
+  birth: 19/05/1996
+  eth: ''
+  nationality: canadian
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://i.pinimg.com/736x/ea/99/89/ea99892c0e761a05e84dfcfec510b276.jpg
+- name: angelina jolie
+  alias: ''
+  gender: cis woman
+  birth: 04/06/1975
+  eth: slovak, german, french-canadian, dutch, polish, huron first nations
+  nationality: american
+  occupation: actress, filmmaker, humanitarian, and activist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian amerindian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: http://images6.fanpop.com/image/photos/44100000/Angelina-Jolie-for-Elle-Spain-October-2021-angelina-jolie-44109997-786-1024.jpg
+- name: barbara palvin
+  alias: ''
+  gender: cis woman
+  birth: 08/10/1993
+  eth: hungarian
+  nationality: hungarian
+  occupation: model and actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: model actor
+  img: https://mediaslide-europe.storage.googleapis.com/uno/pictures/120/6333/large-1578417173-529891baf4ba4b12b0dc484783d038c3.jpg?v=1578417189
+- name: christina hendricks
+  alias: ''
+  gender: cis woman
+  birth: 03/05/1975
+  eth: english, norwegian and german
+  nationality: american
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: gingerh
+  deyes: bluee
+  doccupation: actor
+  img: https://64.media.tumblr.com/56039c03743cb574e335f86aa506ccbf/tumblr_o2jt18mM9d1v5npv8o1_1280.jpg
+- name: michael fassbender
+  alias: ''
+  gender: cis man
+  birth: 02/04/1977
+  eth: german and irish
+  nationality: german irish
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '70'
+  deth: northwest-eurasian
+  dhair: brownh blondeh gingerh
+  deyes: bluee
+  doccupation: actor
+  img: https://michael-fassbender-online.net/wp-content/uploads/2015/06/CGXEE5OU8AAyqqT.jpg
+- name: chantel jeffries
+  alias: ''
+  gender: cis woman
+  birth: 30/09/1992
+  eth: african-american, french, cherokee native american, irish and italian
+  nationality: american
+  occupation: dj, record producer, actress, model, and youtube personality
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian amerindian
+  dhair: brownh
+  deyes: greene
+  doccupation: musician actor model influencer
+  img: https://64.media.tumblr.com/cda179b143bb7867341d86db9f456358/tumblr_oa5w9v8XGo1ugy4fgo5_1280.jpg
+- name: raika hazanavicius
+  alias: raïka hazanavicius
+  gender: cis woman
+  birth: 1994
+  eth: ''
+  nationality: french
+  occupation: actress and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model
+  img: https://fr.web.img4.acsta.net/pictures/22/04/12/15/53/3418034.jpg
+- name: lucas jade zumann
+  alias: ''
+  gender: cis man
+  birth: 12/12/2000
+  eth: ashkenazi jewish
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian
+  dhair: brownh blackh
+  deyes: bluee
+  doccupation: actor
+  img: https://data.whicdn.com/images/317597021/original.jpg
+- name: alex fitzalan
+  alias: ''
+  gender: cis man
+  birth: 26/04/1996
+  eth: ''
+  nationality: australian
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://m.media-amazon.com/images/M/MV5BN2QyN2FmZTctMDJhYi00MGVmLTk0N2UtZGZjMWIyMGI3OGU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg
+- name: elizabeth sawatzky
+  alias: ''
+  gender: cis woman
+  birth: 08/02/1996
+  eth: ''
+  nationality: american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://i.pinimg.com/originals/b8/7b/28/b87b2817dba288c3674d1d0ada0cadbf.jpg
+- name: emilia clarke
+  alias: ''
+  gender: cis woman
+  birth: 23/10/1986
+  eth: english, indian
+  nationality: english
+  occupation: actress
+  avatar: true
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian southern-eurasian
+  dhair: brownh blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://ar.vogue.me/image_provider/?w=750&h=&zc=1&q=90&cc=ffffff&src=https://en.vogue.me/wp-content/uploads/2019/05/AL060119Profile_Clarke04.jpg
 - name: noah bunink
   alias: ''
   gender: cis man
