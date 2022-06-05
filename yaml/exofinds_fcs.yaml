@@ -1,5 +1,205 @@
 ---
 fcs:
+- name: joe keery
+  alias: ''
+  gender: cis man
+  birth: 24/04/1992
+  eth: english, irish, scottish, french-canadian and German
+  nationality: american
+  occupation: actor and musician
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://i.pinimg.com/originals/9d/cd/2f/9dcd2f5c05d8fb9b3799758fb05eb3b9.jpg
+- name: nathalie emmanuel
+  alias: ''
+  gender: cis woman
+  birth: 02/03/1989
+  eth: english, saint lucian and dominican
+  nationality: british
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian african
+  dhair: brownh
+  deyes: brownh
+  doccupation: actor
+  img: https://www.fropky.com/uploads/2017/aug/15/Nathalie%20Emmanuel/Nathalie-Emmanuel-006.jpg
+- name: isabelle drummond
+  alias: ''
+  gender: cis woman
+  birth: 12/04/1994
+  eth: ''
+  nationality: brazilian
+  occupation: actress
+  avatar: false
+  crackships: false
+  gifs: true
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: hispanic african northwest-eurasian
+  dhair: blondeh brownh
+  deyes: browne
+  doccupation: actor
+  img: https://www.themoviedb.org/t/p/original/mzHg8nzXz8ymCHb6f7vA7P25hnK.jpg
+- name: angela bassett
+  alias: ''
+  gender: cis woman
+  birth: 16/08/1958
+  eth: african-american
+  nationality: american
+  occupation: actress, director and activist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '50'
+  deth: african
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://assets.ynap-content.com/story-body-content-v1-0-1531414801377.jpeg
+- name: doutzen kroes
+  alias: ''
+  gender: cis woman
+  birth: 23/01/1985
+  eth: dutch and frisian
+  nationality: dutch
+  occupation: model, actress and activist
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model actor
+  img: https://celebmafia.com/wp-content/uploads/2017/05/doutzen-kroes-photoshoot-for-vogue-ukraine-june-2017-1.jpg
+- name: julian mackay
+  alias: ''
+  gender: cis man
+  birth: 28/10/1997
+  eth: ''
+  nationality: american
+  occupation: dancer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model
+  img: https://i.pinimg.com/originals/ef/15/7e/ef157e127fd3dbbb9af24258ef11628f.jpg
+- name: kim hyo jong
+  alias: dawn
+  gender: cis man
+  birth: 01/06/1994
+  eth: korean
+  nationality: south-korean
+  occupation: rapper and musician
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: eastern-eurasian
+  dhair: blondeh pinkh
+  deyes: browne
+  doccupation: singer musician
+  img: https://i.pinimg.com/originals/ee/ea/31/eeea3107873bc7e6c63cce08c89eee25.jpg
+- name: ashton sanders
+  alias: ''
+  gender: cis man
+  birth: 24/10/1995
+  eth: african-american
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: african
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://images.squarespace-cdn.com/content/v1/582676fcbe6594017e869966/1540475456349-1MM562052AGV91ZCEI0L/ASHTON_FINAL_03.jpg?format=1000w
+- name: bridget satterlee
+  alias: ''
+  gender: cis woman
+  birth: 03/12/1997
+  eth: ''
+  nationality: american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: brownh
+  doccupation: model
+  img: https://64.media.tumblr.com/e04dd3361afe61fb9db3eb0026c9ec70/tumblr_ostq71ljSC1w82lmko1_1280.jpg
+- name: dina denoire
+  alias: ''
+  gender: cis woman
+  birth: 01/12/1998
+  eth: ''
+  nationality: german
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: influencer
+  img: https://i.pinimg.com/originals/ba/76/46/ba764656cc4d038c533dc8c24b2c6953.jpg
 - name: angus cloud
   alias: ''
   gender: cis man
