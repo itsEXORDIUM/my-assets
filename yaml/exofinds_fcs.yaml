@@ -1,5 +1,65 @@
 ---
 fcs:
+- name: thi ngoc nguyen
+  alias: lalalove33
+  gender: cis woman
+  birth: ''
+  eth: ''
+  nationality: american
+  occupation: instagram model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: ''
+  deth: eastern-eurasian northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: influencer
+  img: https://64.media.tumblr.com/5bbc062b63dbe390770fa6b539ad6d26/5548c18098d36626-15/s1280x1920/4d4e99059821be2e9446a29935dd8f8faceb152b.jpg
+- name: will higginson
+  alias: ''
+  gender: cis man
+  birth: 26/04/1990
+  eth: ''
+  nationality: british
+  occupation: reality tv star and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model reality_star
+  img: https://e52ed6c83d2053d5f254-f6fda47bbdc077605fad1cda536b00c8.ssl.cf3.rackcdn.com/2620_h_add36b65-5e2c-4f47-9171-bdafda0092cb.jpg
+- name: antoni porowski
+  alias: ''
+  gender: cis man
+  birth: 14/03/1984
+  eth: polish
+  nationality: canadian
+  occupation: television personnality, chef, actor, model and author
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model
+  img: https://i.pinimg.com/originals/76/9f/95/769f95164356b4d3d372ec14229e9b56.jpg
 - name: joe keery
   alias: ''
   gender: cis man
