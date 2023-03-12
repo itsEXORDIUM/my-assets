@@ -2,7 +2,7 @@ southern-eurasian
     indian brazilian Tamil
 
 northwest-eurasian
-    white european dominican puerto-rican cuba Denmark Ashkenazi-Jewish Argentinian netherlands dutch rusyn
+    white european dominican puerto-rican cuba Denmark Ashkenazi-Jewish Argentinian netherlands dutch rusyn ukranian
 
 southwest-eurasian
     Sephardi Jewish iranian sudanese saudi-arabia lebanon Israeli maroc egyptian Yemenite turkey Armenian

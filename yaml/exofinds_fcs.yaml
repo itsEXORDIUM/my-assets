@@ -1,5 +1,325 @@
 ---
 fcs:
+- name: jung haein
+  alias: ''
+  gender: cis man
+  birth: 01/04/1988
+  eth: ''
+  nationality: south-korean
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: eastern-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: actor
+  img: https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/d8/images/canvas/2022/12/15/e4cef182-f70b-4635-9473-c206ecd0be44_c75ef70a.jpg?itok=1CsGsPIi&v=1671088361
+- name: gillian anderson
+  alias: ''
+  gender: cis woman
+  birth: 09/08/1968
+  eth: English, German, Irish
+  nationality: american
+  occupation: actress, activist and writer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '60'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor activist writer
+  img: https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/people/la-vie-des-people/news/gillian-anderson-qu-ai-je-a-cacher-que-je-peux-aimer-a-la-fois-les-hommes-et-les-femmes-2938878/54002004-1-fre-FR/Gillian-Anderson-Qu-ai-je-a-cacher-Que-je-peux-aimer-a-la-fois-les-hommes-et-les-femmes.jpg
+- name: iva varvarchuk
+  alias: ''
+  gender: cis woman
+  birth: 17/08/1998
+  eth: ''
+  nationality: ukrainian
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: multih
+  deyes: greene
+  doccupation: model
+  img: https://i.mdel.net/i/db/2022/1/1629168/1629168-800w.jpg
+- name: clive standen
+  alias: ''
+  gender: cis man
+  birth: 22/07/1981
+  eth: ''
+  nationality: British
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: hazele
+  doccupation: actor
+  img: https://static.wikia.nocookie.net/vikingstv/images/d/d1/Clive_Standen.png/revision/latest?cb=20130405200729
+- name: misha hart
+  alias: ''
+  gender: cis woman
+  birth: 13/10/1994
+  eth: ''
+  nationality: English
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: model
+  img: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/febdda26336055.563585e8dc620.jpg
+- name: luke grimes
+  alias: ''
+  gender: cis man
+  birth: 21/01/1984
+  eth: English, small amounts of Scots-Irish/Northern Irish, German, Scottish, Welsh, and Swiss-German
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: greene
+  doccupation: actor
+  img: https://i.pinimg.com/originals/2f/d8/0b/2fd80b7c033c76922bfa61a8102f5356.jpg
+- name: olivia liang
+  alias: ''
+  gender: cis woman
+  birth: 11/05/1993
+  eth: chinese
+  nationality: american
+  occupation: actress and director
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian eastern-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: actor director
+  img: https://static.wikia.nocookie.net/kung_fu/images/d/d1/Olivia_Liang.jpg/revision/latest?cb=20200624165801
+- name: bene schulz
+  alias: ''
+  gender: cis man
+  birth: 23/05/2001
+  eth: ''
+  nationality: german
+  occupation: influencer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '00'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: influencer
+  img: https://i.pinimg.com/originals/16/4b/e9/164be9d88256ad489f17fc62f9945667.jpg
+- name: sarah gadon
+  alias: ''
+  gender: cis woman
+  birth: 04/04/1987
+  eth: French-Canadian, English, Irish, Italian
+  nationality: canadian
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://flxt.tmsimg.com/assets/253734_v9_bb.jpg
+- name: ritu arya
+  alias: ''
+  gender: cis woman
+  birth: 17/09/1988
+  eth: indian
+  nationality: English
+  occupation: actress
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian southern-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor
+  img: https://hips.hearstapps.com/hmg-prod/images/ra-0714f-1595883998.jpg
+- name: zella day
+  alias: ''
+  gender: cis woman
+  birth: 13/03/1995
+  eth: Scottish, English, Italian, Swedish
+  nationality: american
+  occupation: singer and songwriter
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: singer musician
+  img: https://rollingstoneindia.com/wp-content/uploads/2016/09/ZellaDay_HarperSmith__H7A1188AP_-crop.jpg
+- name: mads mikkelsen
+  alias: ''
+  gender: cis man
+  birth: 22/11/1965
+  eth: Danish
+  nationality: Danish
+  occupation: actor, gymnast and dancer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '60'
+  deth: northwest-eurasian
+  dhair: brnwh
+  deyes: greene
+  doccupation: actor
+  img: https://images.mubicdn.net/images/cast_member/12149/cache-1746-1652192277/image-w856.jpg?size=800x
+- name: samile bermannelli
+  alias: ''
+  gender: cis woman
+  birth: 22/05/1998
+  eth: ''
+  nationality: Brazilian
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: southern-eurasian
+  dhair: blackh
+  deyes: browne
+  doccupation: model
+  img: https://64.media.tumblr.com/4008a7d3fc68a2141f8b0223aa552c53/1b95c1d2f4d5bf77-9e/s1280x1920/f831379f2bb07531e0ec94594f94780b3eb5b1bc.jpg
+- name: eliza dushku
+  alias: ''
+  gender: cis woman
+  birth: 30/12/1980
+  eth: Albanian, Danish, English, Irish, distant German
+  nationality: american
+  occupation: actress, model and producer
+  avatar: false
+  crackships: true
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: actor model producer
+  img: https://cdn10.bostonmagazine.com/wp-content/uploads/2016/01/DSC6641-1.jpg
+- name: zane phillips
+  alias: ''
+  gender: cis man
+  birth: 25/11/1993
+  eth: ''
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: actor
+  img: https://64.media.tumblr.com/741a2afff60171d5fd0fc802c83c5abb/453e56aac1661810-07/s1280x1920/6c57bd9c12aa63f8adb2a58511563afd8814e499.jpg
+- name: telma zorrilla masurel
+  alias: telma louise
+  gender: cis woman
+  birth: ''
+  eth: ''
+  nationality: french
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://booker-premium.s3.amazonaws.com/library/2455/-ubJynYfjT6zNP46FdwQ_M.JPG
 - name: tom sturridge
   alias: ''
   gender: cis man
@@ -1539,7 +1859,7 @@ fcs:
   deth: african northwest-eurasian
   dhair: brownh
   deyes: browne
-  doccupation: actress model
+  doccupation: actor model
   img: https://media.wonderlandmagazine.com/uploads/2019/07/0792.jpg
 - name: aaron taylor johnson
   alias: aaron johnson
@@ -9768,7 +10088,7 @@ fcs:
   deyes: browne
   doccupation: actor
   img: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elm050121wlzazie009-logo-1618261224.jpg?resize=480:*
-- name: zendaya coleman
+- name: zendaya
   alias: ''
   gender: cis woman
   birth: 01/09/1996
