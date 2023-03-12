@@ -45,6 +45,7 @@ fcs:
       url: ''
       credit: ''
 - aaron taylor johnson:
+  favorite: true
   identity:
   - name : aaron taylor johnson
     accents: ''
@@ -4635,6 +4636,7 @@ fcs:
       url: ''
       credit: ''
 - dane dehaan:
+  favorite: true
   identity:
   - name: dane dehaan
     accents: ''
