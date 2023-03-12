@@ -1,5 +1,145 @@
 ---
 fcs:
+- name: tom sturridge
+  alias: ''
+  gender: cis man
+  birth: 21/12/1985
+  eth: English, and some Scottish, Northern Irish, and Irish
+  nationality: English
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://www.mrporter.com/cms/ycm/resource/blob/17521224/1ec9ce13caff9640f38d86e277e4082e/4-5-jpg-data.jpg
+- name: jeremy allen white
+  alias: ''
+  gender: cis man
+  birth: 17/01/1991
+  eth: Ukrainian, English, German, Scottish, Scots-Irish/Northern Irish, distant Dutch
+  nationality: american
+  occupation: actor
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor
+  img: https://www.interviewmagazine.com/wp-content/uploads/2016/06/img-jeremy-allen-white-_203400878650.jpg
+- name: maya hawke
+  alias: ''
+  gender: cis woman
+  birth: 08/07/1998
+  eth: English, German, Scots-Irish/Northern Irish, Scottish
+  nationality: american
+  occupation: actress, model and singer
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh blondeh
+  deyes: bluee
+  doccupation: actor model singer musician
+  img: https://media.vogue.co.uk/photos/5d54807fed72390008c37080/master/w_1600%2Cc_limit/original
+- name: ashley graham
+  alias: ''
+  gender: cis woman
+  birth: 30/10/1987
+  eth: Welsh, English, Scottish and German
+  nationality: american
+  occupation: model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '80'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: browne
+  doccupation: model
+  img: https://www.lifeandstylemag.com/wp-content/uploads/2019/05/Ashley-Graham-Poses-in-Black-and-White-Pics-05.jpg?fit=1200%2C1800&quality=86&strip=all
+- name: mia goth
+  alias: ''
+  gender: cis woman
+  birth: 30/11/1993
+  eth: English, Irish, Scottish, French-Canadian, Ashkenazi Jewish, Brazilian
+  nationality: british
+  occupation: actress and model
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian jewish hispanic
+  dhair: blondeh brownh
+  deyes: browne
+  doccupation: actor model
+  img: https://images-prod.anothermag.com/2000/azure/another-prod/370/9/379717.jpg
+- name: dylan sprayberry
+  alias: ''
+  gender: cis man
+  birth: 07/07/1998
+  eth: english, german, some belgian, distant french
+  nationality: american
+  occupation: actor and musician
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: northwest-eurasian
+  dhair: brownh
+  deyes: bluee
+  doccupation: actor musician
+  img: https://fr.web.img3.acsta.net/pictures/18/09/21/02/57/2281050.jpg
+- name: omer nudelman
+  alias: ''
+  gender: cis woman
+  birth: 22/10/1997
+  eth: ''
+  nationality: israeli
+  occupation: model, actress and instagram star
+  avatar: true
+  crackships: false
+  gifs: false
+  icons: false
+  gificons: false
+  other: false
+  tattoos: ''
+  dyear: '90'
+  deth: southwest-eurasian
+  dhair: blondeh
+  deyes: bluee
+  doccupation: model actor influencer
+  img: https://itmodels.co.il/wp-content/uploads/2020/03/Untitled-33-11.jpg
 - name: thi ngoc nguyen
   alias: lalalove33
   gender: cis woman
@@ -4162,25 +4302,6 @@ fcs:
   deyes: greene
   doccupation: actor model
   img: https://images.mubicdn.net/images/cast_member/15633/cache-2403-1476696639/image-w856.jpg?size=800x
-- name: ezra miller
-  alias: ''
-  gender: non binary
-  birth: 30/09/1992
-  eth: Ashkenazi Jewish, german, Dutch
-  nationality: American
-  occupation: actor, singer, musician, model
-  avatar: true
-  crackships: false
-  gifs: false
-  icons: false
-  gificons: false
-  tattoos: ''
-  dyear: '90'
-  deth: northwest-eurasian
-  dhair: brownh
-  deyes: browne
-  doccupation: actor singer musician model
-  img: https://preview.redd.it/e1aeqexej4x11.jpg?auto=webp&s=810bdce225285f7ce8cbf11b5e097600ddbb24c6
 - name: felicity jones
   alias: ''
   gender: cis woman
